@@ -9,10 +9,10 @@ ogType: "article"
 ogTitle: "Abbott Labs kills free tool that lets you own the blood-sugar data from your glucose monitor, saying it violates copyright law"
 ogDescription: "Abbott Labs makes a continuous glucose monitor  used by people with diabetes to monitor their blood-sugar levels  called (ironically, as youll see below) the Freestyle Libre."
 ogSiteName: "Boing Boing"
-ogImage: "https://i0.wp.com/media.boingboing.net/wp-content/uploads/2019/12/Screen-Shot-2018-10-02-at-1.40.25-PM-640x450.png?fit=640%2C381&ssl=1"
+ogImage: "/images/resources/Abbott Labs kills free tool that lets you own the bloodsugar data from your glucose monitor saying it violates copyright law.png"
 twitterCreator: "@BoingBoing"
 twitterSite: "@boingboing"
-twitterImage: "https://i0.wp.com/media.boingboing.net/wp-content/uploads/2019/12/Screen-Shot-2018-10-02-at-1.40.25-PM-640x450.png?fit=640%2C381&ssl=1&w=640"
+twitterImage: "/images/resources/Abbott Labs kills free tool that lets you own the bloodsugar data from your glucose monitor saying it violates copyright law.png"
 twitterCard: "summary_large_image"
 breadcrumbs:
  - Home

@@ -9,13 +9,14 @@ enddate: 2020-03-25
 location: "River Street Hoboken, NJ"
 layout: "event"
 sub: "events"
+eventCancelled: "false"
 banner : "/images/resources/Health Sciences Summit Overview.png"
 ogDescription: ""
 ogTitle: "Health Sciences Summit Overview"
-ogImage: "https://offers.followoz.com/hubfs/HX%20Social%20Thumbnail.png#keepProtocol"
+ogImage: "/images/resources/Health Sciences Summit Overview.png"
 twitterDescription: ""
 twitterTitle: "Health Sciences Summit Overview"
-twitterImage: "https://offers.followoz.com/hubfs/HX%20Social%20Thumbnail.png#keepProtocol"
+twitterImage: "/images/resources/Health Sciences Summit Overview.png"
 twitterCard: "summary_large_image"
 breadcrumbs:
  - Home
@@ -26,6 +27,6 @@ breadcrumbLinks:
  - /events
  - / 
 ---
-The healthcare and life sciences landscape has changed drastically in the last few years. This has led to a fundamental shift from the era of “Life Sciences” into an era of  “Health Sciences” that focuses on what OZ calls the “Human Experience.”  
+The healthcare and life sciences landscape has changed drastically in the last few years. This has led to a fundamental shift from the era of Life Sciences into an era of Health Sciences that focuses on what OZ calls the Human Experience.  
   
 [Read on offers.followoz.com](https://offers.followoz.com/health-sciences-summit-overview)

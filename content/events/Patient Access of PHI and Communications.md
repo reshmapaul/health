@@ -9,10 +9,11 @@ enddate: 2020-04-20
 location: "Online"
 layout: "event"
 sub: "events"
+eventCancelled: "false"
 banner : "/images/resources/Patient Access of PHI and Communications.png"
 ogTitle: "Patient Access of PHI and Communications - Man..."
 ogDescription: "Patient Access of PHI and Communications - Man..."
-ogImage: "https://www.symposiumgo.com/uploads/SymposiumGo.png"
+ogImage: "/images/resources/Patient Access of PHI and Communications.png"
 breadcrumbs:
  - Home
  - Events
@@ -22,4 +23,4 @@ breadcrumbLinks:
  - /events
  - / 
 ---
-\*\*Patient Access of PHI and Communications - Managing Requests, Texting, and E-mail\*\* \*\*Key Points:\*\* \* HIPAA and CLIA regulations \* New Guidance from the HHS Office of Civil Rights on the access of PHI \* Denials of access \* How e-mail and texting should be handled \* HIPAA audit and enforcement activities \[Read on symposiumgo.com\](https://www.symposiumgo.com/webinar/patient-access-of-phi-and-communications---managing-requests-texting-and-e-mail)
+\*\*Patient Access of PHI and Communications - Managing Requests, Texting, and E-mail\*\*\*\*Key Points:\*\*\* HIPAA and CLIA regulations\* New Guidance from the HHS Office of Civil Rights onthe access of PHI\* Denials of access\* How e-mail and texting should be handled\* HIPAA audit and enforcement activities \[Read on symposiumgo.com\](https://www.symposiumgo.com/webinar/patient-access-of-phi-and-communications---managing-requests-texting-and-e-mail)

@@ -7,11 +7,11 @@ banner : "/images/resources/Lawmakers push HHS for more clarity stronger data pr
 ogSiteName: "FierceHealthcare"
 ogTitle: "Lawmakers push HHS for more clarity, stronger data privacy protections in federal data sharing rules"
 ogDescription: "Federal lawmakers are putting pressure on the Department of Health and Human Services to make big changes to forthcoming rules on data sharing and information blocking."
-ogImage: "https://qtxasset.com/fiercehealthcare/1574189540/GettyImages-1131157829.jpg/GettyImages-1131157829.jpg?OuVFzy1qE8C4AnSJjx25Mk6oJxDvFXJr"
+ogImage: "/images/resources/Lawmakers push HHS for more clarity stronger data privacy protections in federal data sharing rules.png"
 twitterCard: "summary_large_image"
 twitterDescription: "Federal lawmakers are putting pressure on the Department of Health and Human Services to make big changes to forthcoming rules on data sharing and information blocking."
 twitterTitle: "Lawmakers push HHS for more clarity, stronger data privacy protections in federal data sharing rules"
-twitterImage: "https://qtxasset.com/fiercehealthcare/1574189540/GettyImages-1131157829.jpg/GettyImages-1131157829.jpg?OuVFzy1qE8C4AnSJjx25Mk6oJxDvFXJr"
+twitterImage: "/images/resources/Lawmakers push HHS for more clarity stronger data privacy protections in federal data sharing rules.png"
 breadcrumbs:
  - Home
  - News
@@ -23,6 +23,6 @@ breadcrumbLinks:
 source: "FierceHealthcare"
 news/source: "FierceHealthcare"
 ---
-Warner urged that, at a minimum, CMS' final rule should include standards that guarantee patients have ready access to their personal health data and an ability to regularly monitor the information for accuracy. Patients need to be informed of all commercial uses of their data, including any third parties their data have been shared with, Warner urged.  
+Warner urged that, at aminimum, CMS' final rule should include standards that guarantee patients have ready access to their personal health data and an ability to regularly monitor the information for accuracy. Patients need to beinformed of all commercial uses of their data, including any third parties their data have been shared with, Warner urged.  
   
 [Read on fiercehealthcare.com](https://www.fiercehealthcare.com/tech/lawmakers-push-hhs-for-more-clarity-stronger-data-privacy-protections-onc-cms-interoperability)

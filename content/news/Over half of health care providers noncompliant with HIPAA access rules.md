@@ -8,11 +8,11 @@ ogSiteName: "Healthcare IT News"
 ogType: "article"
 ogTitle: "Patients still facing big obstacles getting their own health data"
 ogDescription: "Despite HIPAA's right of access rule, and CMS and ONC prioritizing consumer access in their forthcoming 21st Century Cures regs, a new scorecard shows that providers have some work to do."
-ogImage: "https://www.healthcareitnews.com/sites/hitn/files/Copay-HITN_0.png"
+ogImage: "/images/resources/Over half of health care providers noncompliant with HIPAA access rules.png"
 twitterCard: "summary_large_image"
 twitterTitle: "Patients still facing big obstacles getting their own health data"
 twitterDescription: "Despite HIPAA's right of access rule, and CMS and ONC prioritizing consumer access in their forthcoming 21st Century Cures regs, a new scorecard shows that providers have some work to do."
-twitterImage: "https://www.healthcareitnews.com/sites/hitn/files/Copay-HITN_0.png"
+twitterImage: "/images/resources/Over half of health care providers noncompliant with HIPAA access rules.png"
 breadcrumbs:
  - Home
  - News

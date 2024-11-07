@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20220821T000000
+STATUS:CONFIRMED
+UID:20220821T000000@unblockhealth.com
+DTSTART:20220821T000000
+DTEND:20220824T000000
+SUMMARY:2022 Annual Conference
+DESCRIPTION:Join us for The Civitas Networks for Health 2022 Annual Conference, a Collaboration with the DirectTrust Summit! Learn more here.
+Read on civitasforhealth.org
+ (Info: https://www.civitasforhealth.org/civitas-networks-for-health-2022-conference/)
+LOCATION:San Antonio, TX
+URL:<no value>http://localhost:36449/events/2022-annual-conference/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\n2022 Annual Conference<br>Location: San Antonio, TX<br>Join us for The Civitas Networks for Health 2022 Annual Conference, a Collaboration with the DirectTrust Summit! Learn more here.
+Read on civitasforhealth.org
+<br>Read more: <no value>http://localhost:36449/events/2022-annual-conference/<br>https://www.civitasforhealth.org/civitas-networks-for-health-2022-conference/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20210329T000000
+STATUS:CONFIRMED
+UID:20210329T000000@unblockhealth.com
+DTSTART:20210329T000000
+DTEND:20210402T000000
+SUMMARY:OpenNotes Drop-In Clinic Prepares U.S. Healthcare Professionals for Federal Rule Mandating Open Visit Notes
+DESCRIPTION:
+March 12, 2021
+What is the OpenNotes Drop-In Clinic? Monday, March 29, through Friday, April 2, for two hours each day, U.S. healthcare professionals are welcome to drop in, for just a few minutes or for the full two hours, to pose questions to a panel of experts about open visit notes (open notes) and transparent clinician-patient communication.
+The OpenNotes Drop-In Clinic will be staffed by clinicians, researchers, and implementation experts standing by via Zoom to answer questions and connect people with resources in advance of a federal mandate requiring complete medical records transparency beginning Monday, April 5. Drop-In Clinic dates, times, registration links, and a list of featured experts is available on the home page of OpenNotes.org. Subject matter experts in special topics like pediatrics, mental health, informatics and interoperability are scheduled for specific dates in the schedule.
+Schedule overview: OpenNotes Drop-In Clinic Date
+Time
+Featured daily topics
+Monday, March 29
+9-11am Pacific / Noon-2pm Eastern
+pediatrics, mental health, ambulatory care, implementation, research
+Tuesday, March 30
+11am-1pm Pacific / 2-4pm Eastern
+ambulatory care, implementation, research
+Wednesday, March 31
+9-11am Pacific / Noon-2pm Eastern
+interoperability, informatics, public policy, mental health, ambulatory care, implementation, research
+Thursday, April 1
+11am-1pm Pacific / 2-4pm Eastern
+mental health, ambulatory care, implementation, research
+Friday, April 2
+9-11am Pacific / Noon-2pm Eastern
+public policy, change management, ambulatory care, implementation, research
+The OpenNotes Drop-In Clinic comes at a time when U.S. healthcare professionals are preparing for a federal mandate requiring medical record transparency and open notes. With a projected start date of April 5, 2021, the program rule on Interoperability, Information Blocking, and ONC Health IT Certificationwhich implements the 21st Century Cures Act passed by a bi-partisan Congress in 2016requires healthcare providers to give access to all the health information in their electronic medical records. The rule mandates that patients will be able to access their progress notes rapidly and conveniently in electronic formats.
+OpenNotes has been studying the effects of open and transparent communication on patients, care partners and clinicians for over 10 years, and has helped more than 260 organizations transition to practicing in an open notes environment.
+In response to a rise in web traffic and general increase in questions, OpenNotes retooled its website over the last few months. OpenNotes.org includes quick answers to some of the most commonly asked questions by health professionals and patients, an overview on how the Cures Rule applies to open notes, and a new OpenNotes Research search tool.
+General questions about the OpenNotes Drop-In Clinic can be sent to myopennotes@bidmc.harvard.edu.
+Read on opennotes.org
+ (Info: https://www.opennotes.org/news/opennotes-hosts-week-long-drop-in-clinic-to-prepare-u-s-healthcare-professionals-for-federal-rule-mandating-open-visit-notes/)
+LOCATION:online
+URL:<no value>http://localhost:36449/events/opennotes--drop-in-clinic--prepares-u-s--healthcare-professionals-for-federal-rule-mandating-open-visit-notes/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nOpenNotes Drop-In Clinic Prepares U.S. Healthcare Professionals for Federal Rule Mandating Open Visit Notes<br>Location: online<br>
+March 12, 2021
+What is the OpenNotes Drop-In Clinic? Monday, March 29, through Friday, April 2, for two hours each day, U.S. healthcare professionals are welcome to drop in, for just a few minutes or for the full two hours, to pose questions to a panel of experts about open visit notes (open notes) and transparent clinician-patient communication.
+The OpenNotes Drop-In Clinic will be staffed by clinicians, researchers, and implementation experts standing by via Zoom to answer questions and connect people with resources in advance of a federal mandate requiring complete medical records transparency beginning Monday, April 5. Drop-In Clinic dates, times, registration links, and a list of featured experts is available on the home page of OpenNotes.org. Subject matter experts in special topics like pediatrics, mental health, informatics and interoperability are scheduled for specific dates in the schedule.
+Schedule overview: OpenNotes Drop-In Clinic Date
+Time
+Featured daily topics
+Monday, March 29
+9-11am Pacific / Noon-2pm Eastern
+pediatrics, mental health, ambulatory care, implementation, research
+Tuesday, March 30
+11am-1pm Pacific / 2-4pm Eastern
+ambulatory care, implementation, research
+Wednesday, March 31
+9-11am Pacific / Noon-2pm Eastern
+interoperability, informatics, public policy, mental health, ambulatory care, implementation, research
+Thursday, April 1
+11am-1pm Pacific / 2-4pm Eastern
+mental health, ambulatory care, implementation, research
+Friday, April 2
+9-11am Pacific / Noon-2pm Eastern
+public policy, change management, ambulatory care, implementation, research
+The OpenNotes Drop-In Clinic comes at a time when U.S. healthcare professionals are preparing for a federal mandate requiring medical record transparency and open notes. With a projected start date of April 5, 2021, the program rule on Interoperability, Information Blocking, and ONC Health IT Certificationwhich implements the 21st Century Cures Act passed by a bi-partisan Congress in 2016requires healthcare providers to give access to all the health information in their electronic medical records. The rule mandates that patients will be able to access their progress notes rapidly and conveniently in electronic formats.
+OpenNotes has been studying the effects of open and transparent communication on patients, care partners and clinicians for over 10 years, and has helped more than 260 organizations transition to practicing in an open notes environment.
+In response to a rise in web traffic and general increase in questions, OpenNotes retooled its website over the last few months. OpenNotes.org includes quick answers to some of the most commonly asked questions by health professionals and patients, an overview on how the Cures Rule applies to open notes, and a new OpenNotes Research search tool.
+General questions about the OpenNotes Drop-In Clinic can be sent to myopennotes@bidmc.harvard.edu.
+Read on opennotes.org
+<br>Read more: <no value>http://localhost:36449/events/opennotes--drop-in-clinic--prepares-u-s--healthcare-professionals-for-federal-rule-mandating-open-visit-notes/<br>https://www.opennotes.org/news/opennotes-hosts-week-long-drop-in-clinic-to-prepare-u-s-healthcare-professionals-for-federal-rule-mandating-open-visit-notes/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

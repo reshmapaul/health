@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forbes on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
+    <link>http://localhost:36449/news/source/forbes/</link>
+    <description>Recent content in Forbes on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 12:44:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36449/news/source/forbes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Medical Companies Funnel Patient Data To Facebook For Advertising</title>
+      <link>http://localhost:36449/news/digital-medical-companies-funnel-patient-data-to-facebook-for-advertising/</link>
+      <pubDate>Thu, 18 Aug 2022 12:44:36 +0000</pubDate>
+      <guid>http://localhost:36449/news/digital-medical-companies-funnel-patient-data-to-facebook-for-advertising/</guid>
+      <description>Digital health companies are funneling sensitive data that patients have shared with them to Facebook to help target advertisements, according to a new study from research group the Light Collective. In some cases this sharing is running afoul of the companies own privacy policies and raising concerns about HIPAA violations.The peer-reviewed study, published Monday in Patterns, a data science journal, examines the way data from individuals health-related activity online is tracked across websites or platforms and then used for advertising purposes on Facebook.</description>
+    </item>
+    <item>
+      <title>The Healthcare Innovation Bubble: Making The Most Of The COVID 19 Crisis</title>
+      <link>http://localhost:36449/news/the-healthcare-innovation-bubble--making-the-most-of-the-covid-19-crisis/</link>
+      <pubDate>Mon, 11 May 2020 02:54:01 +0000</pubDate>
+      <guid>http://localhost:36449/news/the-healthcare-innovation-bubble--making-the-most-of-the-covid-19-crisis/</guid>
+      <description>But when I put on a clinical hat, there is actually an ethical dimension to our pacenamely that if we take too long to implement changes to health care delivery that we know will benet patients, we are withholding necessary improvements of care.&#xA;Read on forbes.com</description>
+    </item>
+    <item>
+      <title>Physician Documentation And Coding: The Third Rail?</title>
+      <link>http://localhost:36449/news/physician-documentation-and-coding--the-third-rail/</link>
+      <pubDate>Sat, 26 Oct 2019 16:01:07 +0000</pubDate>
+      <guid>http://localhost:36449/news/physician-documentation-and-coding--the-third-rail/</guid>
+      <description>Often too little attention is paid to documentation, coding, and billing in many medical practices. This creates the risk of financial penalty and legal jeopardy but also patient safety risks. Read on forbes.com</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20231214T000000
+STATUS:CONFIRMED
+UID:20231214T000000@unblockhealth.com
+DTSTART:20231214T000000
+DTEND:20231215T000000
+SUMMARY:2023 Annual Meeting
+DESCRIPTION:Thursday December 14, 2023 and Friday December 15, 2023, Registration and Agenda to come this summerSign Up for Annual Meeting and Other ONC Updates
+ (Info: https://www.healthit.gov/news/events/2023-annual-meeting)
+LOCATION:Washington, DC
+URL:<no value>http://localhost:36449/events/2023-annual-meeting/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\n2023 Annual Meeting<br>Location: Washington, DC<br>Thursday December 14, 2023 and Friday December 15, 2023, Registration and Agenda to come this summerSign Up for Annual Meeting and Other ONC Updates
+<br>Read more: <no value>http://localhost:36449/events/2023-annual-meeting/<br>https://www.healthit.gov/news/events/2023-annual-meeting\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200519T000000
+STATUS:CONFIRMED
+UID:20200519T000000@unblockhealth.com
+DTSTART:20200519T000000
+DTEND:20200519T000000
+SUMMARY:Accelerating Health Systems Digital Transformation: Why Digital Health Must Be the New Standard in a Post-COVID-19 World 
+DESCRIPTION:How can health professionals evolve their practices? What do health systems need to consider when investing in interoperable solutions? What are the implications of critical settings on patients privacy? How can data governance in a post-COVID-19 world set the foundation for future health emergencies? Highlighting the guidance from the WHO Global Strategy on Digital Health, leading global health and technology experts discuss the framework adjustments that will be needed to harness our digital capabilities and create data ecosystems that efficiently tackle future crises.
+Read on himsslearn.org
+ (Info: https://www.himsslearn.org/accelerating-health-systems%E2%80%99-digital-transformation-why-digital-health-must-be-new-standard-post?=sourceemail1&mkt_tok=eyJpIjoiTlRnMU5UazNPVGN3TXpFdyIsInQiOiJ0OUtla0xUSTZtTjNzZnZuNG5qUlhlbXU1dG52eUJOTnhxeWhlUnZXK2JkOGZDaFNnNEtYWVdsQVpxZXlTNnoxRnBCalREZmxUS1wvMG9oXC9TZ054empwd0NwazBrb0EzUDExY0pKVUtaNWJQdDlsNjIxdzIxaUdkcUJLWjdLaTRKIn0%3D)
+LOCATION:Virtual
+URL:<no value>http://localhost:36449/events/accelerating-health-systems--digital-transformation--why-digital-health-must-be-the-new-standard-in-a-post-covid-19-world/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nAccelerating Health Systems Digital Transformation: Why Digital Health Must Be the New Standard in a Post-COVID-19 World <br>Location: Virtual<br>How can health professionals evolve their practices? What do health systems need to consider when investing in interoperable solutions? What are the implications of critical settings on patients privacy? How can data governance in a post-COVID-19 world set the foundation for future health emergencies? Highlighting the guidance from the WHO Global Strategy on Digital Health, leading global health and technology experts discuss the framework adjustments that will be needed to harness our digital capabilities and create data ecosystems that efficiently tackle future crises.
+Read on himsslearn.org
+<br>Read more: <no value>http://localhost:36449/events/accelerating-health-systems--digital-transformation--why-digital-health-must-be-the-new-standard-in-a-post-covid-19-world/<br>https://www.himsslearn.org/accelerating-health-systems%E2%80%99-digital-transformation-why-digital-health-must-be-new-standard-post?=sourceemail1&mkt_tok=eyJpIjoiTlRnMU5UazNPVGN3TXpFdyIsInQiOiJ0OUtla0xUSTZtTjNzZnZuNG5qUlhlbXU1dG52eUJOTnhxeWhlUnZXK2JkOGZDaFNnNEtYWVdsQVpxZXlTNnoxRnBCalREZmxUS1wvMG9oXC9TZ054empwd0NwazBrb0EzUDExY0pKVUtaNWJQdDlsNjIxdzIxaUdkcUJLWjdLaTRKIn0%3D\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

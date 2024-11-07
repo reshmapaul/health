@@ -3,7 +3,7 @@ title: "Information Blocking "
 cleanUrl: "https://www.healthit.gov/topic/information-blocking"
 date: "2019-12-13T03:48:28Z"
 sourceBaseUrl: "www.healthit.gov"
-banner: "images/default.png"
+banner : "/images/resources/Information Blocking.png"
 breadcrumbs:
  - Home
  - News

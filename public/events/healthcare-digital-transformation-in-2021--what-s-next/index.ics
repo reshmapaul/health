@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20210127T000000
+STATUS:CONFIRMED
+UID:20210127T000000@unblockhealth.com
+DTSTART:20210127T000000
+DTEND:20210127T000000
+SUMMARY:Healthcare Digital Transformation in 2021: What's Next?
+DESCRIPTION:Healthcare Digital Transformation in 2021: What&rsquo;sNext?
+Read on go.carium.com
+ (Info: https://www.go.carium.com/health-irl)
+LOCATION:TBD
+URL:<no value>http://localhost:36449/events/healthcare-digital-transformation-in-2021--what-s-next/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nHealthcare Digital Transformation in 2021: What's Next?<br>Location: TBD<br>Healthcare Digital Transformation in 2021: What&rsquo;sNext?
+Read on go.carium.com
+<br>Read more: <no value>http://localhost:36449/events/healthcare-digital-transformation-in-2021--what-s-next/<br>https://www.go.carium.com/health-irl\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

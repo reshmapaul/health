@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20230131T000000
+STATUS:CONFIRMED
+UID:20230131T000000@unblockhealth.com
+DTSTART:20230131T000000
+DTEND:20230203T000000
+SUMMARY:Healthcare and IT Marketing & PR Conference - #HITMC
+DESCRIPTION:The first of its kind marketing &amp; PR event focused solely on healthcare B2B marketing and PR.
+Read on healthitmarketingconference.com
+ (Info: https://healthitmarketingconference.com/)
+LOCATION:Las Vegas, NV
+URL:<no value>http://localhost:36449/events/healthcare-and-it-marketing---pr-conference----hitmc/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nHealthcare and IT Marketing & PR Conference - #HITMC<br>Location: Las Vegas, NV<br>The first of its kind marketing &amp; PR event focused solely on healthcare B2B marketing and PR.
+Read on healthitmarketingconference.com
+<br>Read more: <no value>http://localhost:36449/events/healthcare-and-it-marketing---pr-conference----hitmc/<br>https://healthitmarketingconference.com/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

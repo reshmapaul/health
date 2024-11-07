@@ -8,7 +8,7 @@ ogType: "article"
 ogTitle: "Hospital execs say they are getting flooded with requests for your health data"
 ogDescription: "Technology companies are building algorithms that are fueled by vast stores of patient health information."
 ogSiteName: "CNBC"
-ogImage: "https://image.cnbcfm.com/api/v1/image/105692475-1548174877929gettyimages-sb10069454ac-001.jpeg?v=1548175078"
+ogImage: "/images/resources/Hospital execs say they are getting flooded with requests for your health data.png"
 twitterCard: "summary_large_image"
 twitterSite: "@CNBC"
 twitterTitle: "Hospital execs say they are getting flooded with requests for your health data"
@@ -25,6 +25,6 @@ breadcrumbLinks:
 source: "CNBC"
 news/source: "CNBC"
 ---
-But hospital execs worry that this data may be used in unintended ways, and not always in the patient’s best interest.  
+But hospital execs worry that this data may be used in unintended ways, and not always in the patients best interest.  
   
 [Read on cnbc.com](https://www.cnbc.com/2019/12/18/hospital-execs-say-theyre-flooded-with-requests-for-your-health-data.html)

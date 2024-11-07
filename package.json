@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "turndown": "^5.0.3"

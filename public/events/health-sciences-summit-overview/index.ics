@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200325T000000
+STATUS:CONFIRMED
+UID:20200325T000000@unblockhealth.com
+DTSTART:20200325T000000
+DTEND:20200325T000000
+SUMMARY:Health Sciences Summit Overview   
+DESCRIPTION:The healthcare and life sciences landscape has changed drastically in the last few years. This has led to a fundamental shift from the era of Life Sciences into an era of Health Sciences that focuses on what OZ calls the Human Experience.
+Read on offers.followoz.com
+ (Info: https://offers.followoz.com/health-sciences-summit-overview)
+LOCATION:River Street Hoboken, NJ
+URL:<no value>http://localhost:36449/events/health-sciences-summit-overview/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nHealth Sciences Summit Overview   <br>Location: River Street Hoboken, NJ<br>The healthcare and life sciences landscape has changed drastically in the last few years. This has led to a fundamental shift from the era of Life Sciences into an era of Health Sciences that focuses on what OZ calls the Human Experience.
+Read on offers.followoz.com
+<br>Read more: <no value>http://localhost:36449/events/health-sciences-summit-overview/<br>https://offers.followoz.com/health-sciences-summit-overview\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

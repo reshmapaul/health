@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200609T000000
+STATUS:CONFIRMED
+UID:20200609T000000@unblockhealth.com
+DTSTART:20200609T000000
+DTEND:20200610T000000
+SUMMARY:DirectTrust Summit 2020
+DESCRIPTION:Were going virtual! DirectTrust is proud to host our second annual DirectTrust Summit to connect you with some of the nations greatest healthcare and interoperability experts. Both members and non-members are encouraged to attend, but advance registration is required.
+Read on dt-dts20.myconferencenow.com
+ (Info: https://dt-dts20.myconferencenow.com/)
+LOCATION:TBD
+URL:<no value>http://localhost:36449/events/directtrust-summit-2020/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nDirectTrust Summit 2020<br>Location: TBD<br>Were going virtual! DirectTrust is proud to host our second annual DirectTrust Summit to connect you with some of the nations greatest healthcare and interoperability experts. Both members and non-members are encouraged to attend, but advance registration is required.
+Read on dt-dts20.myconferencenow.com
+<br>Read more: <no value>http://localhost:36449/events/directtrust-summit-2020/<br>https://dt-dts20.myconferencenow.com/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20201110T000000
+STATUS:CONFIRMED
+UID:20201110T000000@unblockhealth.com
+DTSTART:20201110T000000
+DTEND:20201112T000000
+SUMMARY:AIN  Events
+DESCRIPTION:
+Platinum Sponsor Speakers Scott Stuewe President &amp; CEO, DirectTrust
+David Schoolcraft Partner, Ogden Murphy Wallace PLLC
+Nancy Beavin Director, Program Delivery, Humana Inc.
+Ryan Howells Principal, Leavitt Partners &amp; Carin Alliance
+Mark J. Segal, PhD, FHIMSS Principal, Digital Health Policy Advisors, LLC
+Kirk Nahra Partner &amp; Co-Chair, Cybersecurity and Privacy Practice, WilmerHale
+Lucia Savage, JD Chief Privacy &amp; Regulatory Officer, Omada Health
+Lygeia Ricciardi President, Clear Voice Consulting
+Steven R. Lane, MD MPH, FAAFP, Clinical Informatics Director, Privacy, Information Security &amp; Interoperability, Sutter Health
+Therasa Bell Cofounder, President &amp; CTO, Kno2
+Mark Savage Director, Center for Digital Health Innovation, University of California, San Francisco
+Neal Neuberger President, Health Tech Strategies &amp; Executive Director (Emeritus), HIMSS Institute for e-Health Policy
+Katie Crenshaw, MPA Senior Manager, Informatics, HIMSS
+Deven McGraw, JD General Counsel &amp; Chief Regulatory Officer, Ciitizen
+Ryan Bramble Executive Director, CRISP DC
+Vince Kuraitis, JD, MBA Principal, Better Health Technologies, LLC
+Read on ain.events
+ (Info: https://ain.events/hdu/)
+LOCATION:TBD
+URL:<no value>http://localhost:36449/events/ain---events/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nAIN  Events<br>Location: TBD<br>
+Platinum Sponsor Speakers Scott Stuewe President &amp; CEO, DirectTrust
+David Schoolcraft Partner, Ogden Murphy Wallace PLLC
+Nancy Beavin Director, Program Delivery, Humana Inc.
+Ryan Howells Principal, Leavitt Partners &amp; Carin Alliance
+Mark J. Segal, PhD, FHIMSS Principal, Digital Health Policy Advisors, LLC
+Kirk Nahra Partner &amp; Co-Chair, Cybersecurity and Privacy Practice, WilmerHale
+Lucia Savage, JD Chief Privacy &amp; Regulatory Officer, Omada Health
+Lygeia Ricciardi President, Clear Voice Consulting
+Steven R. Lane, MD MPH, FAAFP, Clinical Informatics Director, Privacy, Information Security &amp; Interoperability, Sutter Health
+Therasa Bell Cofounder, President &amp; CTO, Kno2
+Mark Savage Director, Center for Digital Health Innovation, University of California, San Francisco
+Neal Neuberger President, Health Tech Strategies &amp; Executive Director (Emeritus), HIMSS Institute for e-Health Policy
+Katie Crenshaw, MPA Senior Manager, Informatics, HIMSS
+Deven McGraw, JD General Counsel &amp; Chief Regulatory Officer, Ciitizen
+Ryan Bramble Executive Director, CRISP DC
+Vince Kuraitis, JD, MBA Principal, Better Health Technologies, LLC
+Read on ain.events
+<br>Read more: <no value>http://localhost:36449/events/ain---events/<br>https://ain.events/hdu/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

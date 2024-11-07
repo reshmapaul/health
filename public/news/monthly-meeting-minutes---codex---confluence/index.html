@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=36449&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>Monthly Meeting Minutes - CodeX - Confluence</title>
+    
+    
+    <meta name="description" content="Current work and experience re: implementing mCODE into the Oncoclinicas enterprise-wide EHR system
+
+Rodrigo Dienstmann, Oncoclinicas Group 
+
+August …">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    
+    <meta property="og:title" content="Monthly Meeting Minutes - CodeX - Confluence" />
+    
+    
+    <meta property="og:description" content="Current work and experience re: implementing mCODE into the Oncoclinicas enterprise-wide EHR system
+
+Rodrigo Dienstmann, Oncoclinicas Group 
+
+August …">
+    
+    <meta property="og:site_name" content="unblock.health" />
+    
+    <meta property="og:image" content="http://localhost:36449/images/resources/Monthly%20Meeting%20Minutes%20%20CodeX%20%20Confluence.jpg" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@unblock.health" />
+    
+    <meta name="twitter:title" content="Monthly Meeting Minutes - CodeX - Confluence" />
+    
+    
+    <meta name="twitter:description" content="Current work and experience re: implementing mCODE into the Oncoclinicas enterprise-wide EHR system
+
+Rodrigo Dienstmann, Oncoclinicas Group 
+
+August …" />
+    
+    
+    <meta property="twitter:image" content="http://localhost:36449/images/resources/Monthly%20Meeting%20Minutes%20%20CodeX%20%20Confluence.jpg"/>
+    
+
+    
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/design-system/2.14.2/styles/salesforce-lightning-design-system.min.css" integrity="sha512-v9eTZELqSZcRlIRltjIbpM55zkTQ9azkDAjI0IByyjHLWty1U2+CSPtnNxGpC3FFkpsKwAOfciCv4PWhW/pQGw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/styles/salesforce-lightning-custom.css">
+    
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KXR6XQ6');</script>
+    
+ 
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+
+<body id="body">
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXR6XQ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<section>
+  
+<article>  
+  <header class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+   
+   
+<article>
+    <header class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+    <div class="slds-border_bottom">
+      <div class="slds-grid slds-wrap slds-p-vertical_medium">
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_6-of-12 slds-large-size_3-of-12 slds-m-top_small">
+          <div class="slds-context-bar__icon-action">
+            <a href="/" title="Unblock Health"><img src="/images/logo-unblock-health.png" alt="Unblock Health" width="180" class="slds-m-top_xx-small" style="max-width: 180px;"></a>
+          </div>
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_6-of-12 slds-large-size_3-of-12 slds-align_absolute-end slds-m-top_small">
+          
+          <div class="slds-form-element slds-hide" style="min-width: 295px;">
+            <form id="searchsubmit" action="/search/" method="GET">
+              <div class="slds-form-element__control slds-input-has-icon slds-input-has-icon_right">
+                <input type="text" name="s" placeholder="Search" id="search-query" class="slds-input slds-p-vertical_xx-small">
+                <button id="zoomsearch" class="slds-button slds-button_icon slds-input__icon slds-input__icon_right Top_Search_Bar" title="Search">
+                  <svg class="slds-button__icon slds-icon-text-light" aria-hidden="true">
+                    <use xlink:href="/icons/utility-sprite/svg/symbols.svg#search"></use>
+                  </svg>
+                  <span class="slds-assistive-text">Search</span>
+                </button>
+              </div>
+            </form>
+  
+          </div>
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_12-of-12 slds-large-size_6-of-12 slds-grid slds-grid_align-end slds-align-middle slds-m-top_small">
+          <div class="slds-grid slds-gutters slds-wrap slds-m-top_xx-small slds-text-align_right">
+            <div class="slds-col">
+              <ul class="slds-button-group-row">
+                <li class="slds-button-group-item slds-m-right_x-small">
+                  <a href="/individual-access-services" style="text-decoration: none;"><button class="slds-button slds-button_brand slds-p-vertical_xx-small slds-color__text_gray-1" id="individual-access-services">Individual Access Services (IAS) are here!</button></a>
+                </li>
+                <li class="slds-button-group-item slds-m-right_x-small">
+                  <a href="#." style="text-decoration: none;"><button class="slds-button slds-button_success slds-p-vertical_xx-small slds-color__text_gray-1" id="schedule-a-demo">Schedule a Demo</button></a>
+                </li>
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+  
+      <div class="slds-grid slds-grid_vertical-align-end">
+        <div class="slds-col slds-size_12-of-12">
+          
+          <div class="slds-tabs_default slds-tabs_medium slds-grid slds-grid_align-center">
+            <ul class="slds-tabs_default__nav slds-m-bottom_none slds-wrap" style="border-bottom: 0px;"><li class="slds-tabs_default__item " title="Home">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//" id="home-top-menu"><b>Home</b></a>
+                </li><li class="slds-tabs_default__item " title="About">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//about" id="about-top-menu"><b>About</b></a>
+                </li><li class="slds-tabs_default__item " title="Services">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//service" id="services-top-menu"><b>Services</b></a>
+                </li><li class="slds-tabs_default__item " title="Register">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//register" id="register-top-menu"><b>Register</b></a>
+                </li><li class="slds-tabs_default__item  slds-is-active " title="News">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//news" id="news-top-menu"><b>News</b></a>
+                </li><li class="slds-tabs_default__item " title="Press">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//press" id="press-top-menu"><b>Press</b></a>
+                </li><li class="slds-tabs_default__item " title="Events">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//events" id="events-top-menu"><b>Events</b></a>
+                </li><li class="slds-tabs_default__item " title="Blog">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//blog" id="blog-top-menu"><b>Blog</b></a>
+                </li><li class="slds-tabs_default__item " title="FAQs">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//faqs" id="faqs-top-menu"><b>FAQs</b></a>
+                </li><li class="slds-tabs_default__item " title="Patient Impact Stories">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//patient-impact-stories" id="patient-impact-stories-top-menu"><b>Patient Impact Stories</b></a>
+                </li><li class="slds-tabs_default__item " title="Resources">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//resources" id="resources-top-menu"><b>Resources</b></a>
+                </li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+    </article>
+   
+  
+     
+  </header>
+</article>  
+
+
+<main>
+<section class="slds-p-vertical_x-large">   
+  <div class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+    <aside class="slds-m-bottom_small">
+      <nav role="navigation" aria-label="Breadcrumbs">
+        <ol class="slds-breadcrumb slds-list_horizontal slds-wrap slds-m-bottom_none slds-text-body_small" style="flex-wrap: nowrap;font-size: 13px;" itemprop="itemListElement" itemscope="" itemtype="">
+          <li class="slds-breadcrumb__item">
+            <a itemprop="item" href="#."><span itemprop="name">Home</span></a>
+            <meta itemprop="position" content="1">
+          </li>
+          <li class="slds-breadcrumb__item">
+            <a itemprop="item" href="#."><span itemprop="name">News</span></a>
+            <meta itemprop="position" content="2">
+          </li>
+          <li class="slds-breadcrumb__item slds-p-left_x-small slds-truncate">
+            Monthly Meeting Minutes - CodeX - Confluence
+          </li>
+        </ol>
+    </nav>
+    </aside>
+    
+     
+      <div class="slds-col slds-size_1-of-1 slds-medium-size_12-of-12">
+        <img src="http://localhost:36449/images/resources/Monthly%20Meeting%20Minutes%20%20CodeX%20%20Confluence.jpg" alt="Monthly Meeting Minutes - CodeX - Confluence" title="Monthly Meeting Minutes - CodeX - Confluence" onerror="this.onerror=null; this.src='/images/noimage.jpg'" style="border-radius: 5px; width:100%; height: 400px; object-fit: cover;">
+    
+
+        <article class="slds-card slds-p-around_medium slds-container_large slds-container_center slds-curated-content" style="margin-top:-100px;">
+          <div class="slds-col slds-size_1-of-1 slds-medium-size_12-of-12 slds-m-top_xx-small">
+            <h2 class="slds-text-heading_medium slds-m-bottom_small" style="font-weight: 700; font-size: 24px;line-height: 26px;">
+              Monthly Meeting Minutes - CodeX - Confluence
+            </h2>
+            <p class="slds-m-bottom_small slds-color__text_gray-9"><span class="slds-icon_container">
+              <svg class="slds-icon slds-icon-text-default slds-icon_xx-small slds-m-right_x-small slds-color__fill_gray-9" aria-hidden="true" style="position:relative; top:-2px;">
+              <use xlink:href="/icons/utility-sprite/svg/symbols.svg#event"></use>
+              </svg>
+              </span><time datetime="2022-08-16" style="font-size:15px;">Aug 25, 2021</time></p>
+            <aside>
+              <p><p>Current work and experience re: implementing mCODE into the Oncoclinicas enterprise-wide EHR system</p>
+<ul>
+<li>Rodrigo Dienstmann, Oncoclinicas Group </li>
+</ul>
+<p>August CoP Meeting Slides<br>
+ </p>
+<p>July 2021 - CoP Meeting</p>
+<p><a href="https://mitre.zoomgov.com/meeting/register/vJIsfuqoqjwrEmZ81H-OW1NJRm30kVstNa0">REGISTER HERE</a></p>
+<p>30 July 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Introduction to HL7 Fast Healthcare Interoperability Resources (FHIR)</p>
+<ul>
+<li>Jessica Skopac, MITRE</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2021-07-30+CoP+Meeting+Notes?preview=/120752960/120752964/July%202021%20-%20CoP%20Recording.mp4">July 2021 Recording - Part 1 </a></p>
+<p><a href="https://www.youtube.com/watch?v=cBpLzLs-T1Y">July 2021 Recording - Part 2 </a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2021-07-30+CoP+Meeting+Notes">July 2021 Meeting Notes</a></p>
+<p>June 2021 - CoP Meeting</p>
+<p>25 June 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Update on Epic&rsquo;s implementation of mCODE, namely their plans to iteratively develop an Implementation Guide describing how to collect and access mCODE data elements.</p>
+<ul>
+<li>Ryan Bernard, Epic</li>
+</ul>
+<p>Summary of the CodeX multi-stakeholder discovery session on oncology provider-payer data exchange &amp;  demo of a breast cancer chemotherapy regimen prior authorization workflow</p>
+<ul>
+<li>Melanie Combs-Dyer and Sreekanth Puram, Mettle Solutions</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2021-06-25+CoP+Meeting+Notes?preview=/116461103/116461104/June%202021%20Recording.mp4">June 2021 Recording </a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2021-06-25+CoP+Meeting+Notes">June 2021 Meeting Notes</a></p>
+<p>May 2021 - CoP Meeting </p>
+<p>28 May 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>The challenges around standardized/structured genomics data, how mCODE is working to improve these challenges, and an early introduction to the CodeX genomics work group </p>
+<ul>
+<li>Dr. James Chen, Ohio State University Medical Center</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2021-05-28+CoP+Meeting+Notes?preview=/113676722/113677020/05.28.21%20CoP%20Recording%20.mp4">May 2021 Recording</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2021-05-28+CoP+Meeting+Notes">May 2021 Meeting Notes</a></p>
+<p>April 2021 - CoP Meeting</p>
+<p>30 April 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Mass General Brigham&rsquo;s Collaboration on the ICAREdata Project: mCODE data collection and implementing/testing the data collection tools</p>
+<ul>
+<li>Vivek Upadhyay, Mass General Brigham (MGB)</li>
+</ul>
+<p>April 2021 Recording: <a href="https://confluence.hl7.org/display/COD/2021-04-30+CoP+Meeting+Notes?preview=/111121593/111126350/April%20Cop%20Part1.mp4">Part 1</a>, <a href="https://confluence.hl7.org/display/COD/2021-04-30+CoP+Meeting+Notes?preview=/111121593/111126351/april%20cop%20part2.1.mp4">Part 2</a>, <a href="https://confluence.hl7.org/display/COD/2021-04-30+CoP+Meeting+Notes?preview=/111121593/111126352/april%20cop%20part%203.1.mp4">Part 3</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2021-04-30+CoP+Meeting+Notes">April 2021 Meeting Notes</a></p>
+<p>March 2021 - CoP Meeting</p>
+<p>26 March 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Updates to mCODE Standard for Trial Use (STU) 2 and an Overview of FHIR Shorthand (FSH)</p>
+<ul>
+<li>Mark Kramer, MITRE</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2021-03-26+CoP+Meeting+Notes?preview=/104583675/104583680/March%202021%20CoP%20Trimmed.mp4">March 2021 Recording</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2021-03-26+CoP+Meeting+Notes">March 2021 Meeting Notes</a></p>
+<p>February 2021 - CoP Meeting</p>
+<p>26 February 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Cancer Insights&rsquo; Contributions on the Trial Matching Use Case: Providing Patients with a more Equitable Path to Finding Clinical Trials </p>
+<ul>
+<li>Tarun Kumar, Cancer Insights</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2021-02-26+CoP+Meeting+Notes">February 2021 Meeting Notes</a>January 2021 - CoP Meeting </p>
+<p>29 January 2021</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Current Contributions from ASTRO and AAPM on the CodeX Radiation Therapy Use Case</p>
+<ul>
+<li>Randi Kudner, ASTRO</li>
+<li>Chuck Mayo, AAPM</li>
+</ul>
+<p>December 2020 - CoP Meeting</p>
+<p>18 December 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>CodeX: Year in Review</p>
+<ul>
+<li>Presentations by the Use Case Coordinators</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2020-12-18+CoP+Meeting+Notes">December 2020 mCODE CoP - Meeting Notes</a></p>
+<p>November 2020 - CoP Meeting</p>
+<p>20 November 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Introduction to the mCODE Knowledge Base and mCODE Profile Slides</p>
+<ul>
+<li>Caroline Potteiger, MITRE</li>
+</ul>
+<p>CIBMTR contributions and future work on the CodeX Registry Reporting use case </p>
+<ul>
+<li>Robinette Renner, CIBMTR</li>
+</ul>
+<p>October 2020 - CoP Meeting</p>
+<p>30 October 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Updates from the Epic mCODE Team</p>
+<ul>
+<li>Ryan Bernard, Epic</li>
+</ul>
+<p>Updates from the mCODE++ Extraction Team</p>
+<ul>
+<li>Zeshan Rajput, MITRE</li>
+</ul>
+<p>September 2020 - CoP Meeting</p>
+<p>25 September 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Health economics of mCODE and CodeX</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~rlieberthal">Robert Lieberthal</a>, PhD, MITRE</li>
+</ul>
+<p>ICAREdata Project Updates: recap of goals, current status with site/trial partners, and plans to engage new partners</p>
+<ul>
+<li>Keri Reardon, Alliance</li>
+<li>Steven Piantadosi, Alliance</li>
+</ul>
+<p>August 2020 - CoP Meeting</p>
+<p>28 August 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Count Me In: Partnering with patients to accelerate discoveries in cancer research</p>
+<ul>
+<li>Mike Dunphy</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2020-08-28+CoP+Meeting+Notes">August 2020 mCODE CoP Meeting Notes</a>July 2020 - CoP Meeting</p>
+<p>31 July 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Prior Authorization: Making the Connection</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~garypgryan">Gary P. Gryan</a></li>
+</ul>
+<p>Burden Reduction: Insights from the DaVinci HL7 FHIR Accelerator Team</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~viet.nguyen">Viet Nguyen</a></li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2020-07-31+CoP+Meeting+Notes">July 2020 mCODE CoP Meeting Notes</a>June 2020 - CoP Meeting</p>
+<p>26 June 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>CodeX Trial Matching Use Case Updates</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~zlister">Zach Lister</a></li>
+<li>Mark Fleury</li>
+</ul>
+<p>MSK and OHDSI Standardization Challenge</p>
+<ul>
+<li>Rimma Belenkaya</li>
+</ul>
+<p><a href="https://confluence.hl7.org/display/COD/2020-06-26+CoP+Meeting+Notes">June 2020 mCODE CoP Meeting Notes</a>May 2020 - CoP Meeting</p>
+<p>29 May 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>CodeX Registry Reporting Use Case Updates</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~gshemancik">Gregory Shemancik</a></li>
+</ul>
+<p>MedMorph: Making EHR Data More Available for Research and Public Health</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~wendyblumenthal">Wendy Blumenthal</a></li>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~maria_michaels">Maria Michaels</a></li>
+</ul>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/052920-Community_Meeting-05.pptx?version=1&amp;modificationDate=1590759288823&amp;api=v2">May 2020 CoP Meeting Slides</a></p>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/MedMorph_mCODE-CoP.pdf?version=1&amp;modificationDate=1590679747092&amp;api=v2">MedMorph Presentation Slides</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2020-05-29+CoP+Meeting+Notes">May 2020 mCODE CoP Meeting Notes</a>April 2020 - CoP Meeting</p>
+<p>24 April 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>The ASCO Survey on COVID-19 in Oncology (ASCO Registry)</p>
+<ul>
+<li>Liz Garrett-Mayer</li>
+</ul>
+<p>mCODE Pilot: ICAREdata Study</p>
+<ul>
+<li>Keri Reardon</li>
+<li>Dr. Steven Piantadosi</li>
+</ul>
+<p>Genomics and mCODE </p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~may_terry">May Terry</a></li>
+</ul>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/042420-Community_Meeting-04.pptx?version=1&amp;modificationDate=1588272682386&amp;api=v2">April 2020 CoP Meeting Slides</a></p>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/mCODE1-0_ClinicalGenomicsOverview_ext.pptx?version=1&amp;modificationDate=1588878463342&amp;api=v2">mCODE Clinical Genomics Presentation Slides</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2020-04-24+CoP+Meeting+Notes">April 2020 mCODE CoP Meeting Notes</a>March 2020 - CoP Meeting</p>
+<p>27 March 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>mCODER and Relevant Efforts</p>
+<ul>
+<li>Trevor Pugh</li>
+<li>Nadia Znassi</li>
+<li>Lillian Siu</li>
+</ul>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/032720-Community_Meeting-03.pptx?version=1&amp;modificationDate=1588272677603&amp;api=v2">March 2020 CoP Meeting Slides</a></p>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/mCODER.pptx?version=1&amp;modificationDate=1588332195268&amp;api=v2">mCODE mCODER Presentation Slides</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2020-03-27+CoP+Meeting+Notes">March 2020 mCODE CoP Meeting Notes</a>February 2020 - CoP Meeting</p>
+<p>28 February 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>UT Southwestern NGS Clinical Trial Matching Project</p>
+<ul>
+<li>M. Shaalan Beg</li>
+<li>Brandi Cantarel</li>
+<li>Melanie Hullings</li>
+</ul>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/022820_Community_Meeting-02.pptx?version=1&amp;modificationDate=1588272676452&amp;api=v2">February 2020 CoP Meeting Slides</a></p>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/UTSW%20NGS%20Clinical%20Trial%20Matching_2.3.20%20%28002%29.pptx?version=1&amp;modificationDate=1588332738684&amp;api=v2">UTSW NGS Clinical Trial Matching Presentation Slides</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2020-02-28+CoP+Meeting+Notes">February 2020 mCODE CoP Meeting Notes</a></p>
+<p>January 2020 - CoP Meeting</p>
+<p>24 January 2020</p>
+<p>12:00PM - 1:00PM ET</p>
+<p>Implementation of Disease Status and Treatment Plan Change at Mass General-Brigham</p>
+<ul>
+<li><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/display/~zrajput">Zeshan A. Rajput</a></li>
+</ul>
+<p><a href="https://confluence.hl7.org/download/attachments/66932751/012420_Community_Meeting-01-2.pptx?version=1&amp;modificationDate=1588272674760&amp;api=v2">January 2020 CoP Meeting Slides </a></p>
+<p><a href="https://confluence.hl7.org/display/COD/2020-01-24+CoP+Meeting+Notes">January 2020 mCODE CoP Meeting Notes</a></p>
+<p><a href="https://confluence.hl7.org/display/COD/Monthly+Meeting+Minutes">Read on confluence.hl7.org</a></p>
+</p>             
+                 
+                <hr class="slds-m-vertical_medium">
+                <div>
+                <h3 class="slds-text-title_caps slds-m-bottom_xx-small slds-color__text_gray-9"><b class="slds-text-body_small">Share</b></h3>
+                  <a href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a36449%2fnews%2fmonthly-meeting-minutes---codex---confluence%2f" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/facebook.svg">Facebook
+                    </button></a>
+
+                    <a href="http://twitter.com/share?url=http%3a%2f%2flocalhost%3a36449%2fnews%2fmonthly-meeting-minutes---codex---confluence%2f&amp;text=Monthly%20Meeting%20Minutes%20-%20CodeX%20-%20Confluence&amp;via="
+                    target="_blank"><button class="slds-button slds-button_outline-brand slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/twitter.svg" width="16" height="16">Twitter
+                  </button></a>
+                  
+                  <a href="http://www.linkedin.com/shareArticle?url=http%3a%2f%2flocalhost%3a36449%2fnews%2fmonthly-meeting-minutes---codex---confluence%2f&amp;title=Monthly%20Meeting%20Minutes%20-%20CodeX%20-%20Confluence" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/linkedin.svg">Linkedin
+                  </button></a>
+      
+                    <a href="mailto:?subject=Check out this post by http%3a%2f%2flocalhost%3a36449%2fnews%2fmonthly-meeting-minutes---codex---confluence%2f&amp;body=http%3a%2f%2flocalhost%3a36449%2fnews%2fmonthly-meeting-minutes---codex---confluence%2f" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                      <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/email.svg">Email
+                      </button></a>
+
+              </div>
+          </aside>    
+        </div>
+    </article>
+
+<div class="slds-m-top_x-large">
+<h2>Related Article</h2>
+<article class="slds-card">
+  <div class="slds-p-around_medium slds-grid slds-wrap slds-gutters">
+      
+      <div class="slds-col slds-size_1-of-1 slds-medium-size_3-of-12 slds-large-size_2-of-12 slds-m-bottom_x-small">
+      <span class="slds-avatar" style="width: 100%; height:145px;">
+      <a href="http://localhost:36449/news/yes--himss21-was-worth-attending/"><img src="http://localhost:36449/images/resources/Yes%20HIMSS21%20Was%20Worth%20Attending.jpg" alt="" title="" style="height:145px; object-fit: cover; border-radius: 5px;" onerror="this.onerror=null; this.src='/images/noimage.jpg'"></a></span></div>
+      
+      <div class="slds-col slds-size_1-of-1 slds-medium-size_9-of-12 slds-large-size_10-of-12 slds-m-top_xx-small">
+      <h2 class="slds-text-heading_medium slds-m-bottom_small" style="font-weight: 600; font-size: 24px;line-height: 26px;">
+          
+          
+          <a href="http://localhost:36449/news/yes--himss21-was-worth-attending/">
+              Yes, HIMSS21 Was Worth Attending  
+          </a>
+          </h2>
+          <aside>
+          <p class="slds-m-bottom_small" style="line-height:21px!important;">Now that HIMSS21 is over, there are three questions people keep asking me: Why did I go to a known COVID hotspot? What was it like? and Was it worth it? The answers are: Because I and the business …</p>
+          <div class="slds-clearfix">
+          <div class="slds-float_left">
+              <p class="slds-m-bottom_xx-small slds-color__text_gray-9"><span class="slds-icon_container">
+              <svg class="slds-icon slds-icon-text-default slds-icon_xx-small slds-m-right_x-small slds-color__fill_gray-9" aria-hidden="true" style="position:relative; top:-2px;">
+              <use xlink:href="/icons/utility-sprite/svg/symbols.svg#event"></use>
+              </svg>
+              </span><time datetime="2022-08-16" style="font-size:15px;">Aug 17, 2021</time></p>
+          </div>
+          <div class="slds-float_right">
+  <div class="">
+  <a href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a36449%2fnews%2fyes--himss21-was-worth-attending%2f&amp;title=Yes%2c%20HIMSS21%20Was%20Worth%20Attending%20&amp;summary=%3cp%3eNow%20that%20HIMSS21%20is%20over%2c%20there%20are%20three%20questions%20people%20keep%20asking%20me%3a%20Why%20did%20I%20go%20to%20a%20known%20COVID%20hotspot%3f%20What%20was%20it%20like%3f%20and%20Was%20it%20worth%20it%3f%20The%20answers%20are%3a%20Because%20I%20and%20the%20business%20needed%20it%3b%20Smaller%20and%20more%20intimate%3b%20Yes.%20What%20Was%20HIMSS21%20Like%3f%20I%20like%20to%20wait%20until%20%5b%5d%3c%2fp%3e%0a%3cp%3e%3ca%20href%3d%22https%3a%2f%2fwww.hitmc.com%2fevent-marketing%2fyes-himss21-was-worth-attending%2f%22%3eRead%20on%20hitmc.com%3c%2fa%3e%3c%2fp%3e%0a"
+  target="_blank" style="text-decoration:none;">           
+  <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+      <img src="/images/facebook.svg" class="" alt="" width="16" height="16">
+  </button>
+  </a>
+  <a href="http://twitter.com/share?url=http%3a%2f%2flocalhost%3a36449%2fnews%2fyes--himss21-was-worth-attending%2f&amp;text=Yes%2c%20HIMSS21%20Was%20Worth%20Attending%20&amp;via="
+  target="_blank" style="text-decoration:none;">
+  <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+      <img src="/images/twitter.svg" class="" alt="" width="16" height="16">
+  </button>
+  </a>
+  <a href="http://www.linkedin.com/shareArticle?url=http%3a%2f%2flocalhost%3a36449%2fnews%2fyes--himss21-was-worth-attending%2f&amp;title=Yes%2c%20HIMSS21%20Was%20Worth%20Attending%20"
+  target="_blank" style="text-decoration:none;">
+  <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+      <img src="/images/linkedin.svg" class="" width="16" height="16">
+  </button>
+  </a>
+  <a href="mailto:?subject=Check out this post by &amp;body=http%3a%2f%2flocalhost%3a36449%2fnews%2fyes--himss21-was-worth-attending%2f"
+  target="_blank" style="text-decoration:none;">
+  <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+      <img src="/images/email.svg" class="" alt="" width="16" height="16">
+  </button>
+  </a>         
+  </div>
+          </div>
+          </div>
+      </aside>    
+      </div>
+  </div>
+  </article>
+</div>
+
+  </div>
+</section>
+</main>
+
+
+
+
+
+
+
+
+<footer class="slds-p-vertical_large slds-border_top" style="background: #2a416a; border-top: 10px solid #6c8ecc; color: #6c8ecc;">
+    <div class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+      <input type="hidden" name="searchKeyValue" value="" id="searchKeyValue">
+      <article class="slds-p-top_large slds-p-bottom_large">
+        <div class="slds-m-bottom_small slds-m-top_large">
+          <div class="slds-grid slds-gutters slds-wrap slds-align_absolute-center">
+            <div class="slds-col slds-size_1-of-1 slds-small-size_6-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12">
+              <p class="slds-m-bottom_x-large">
+                <a href="/"><img src="/images/logo-footer.png" alt="" title="" width="170" height="41"></a>
+              </p>
+              <p class="slds-text-body_small" style="color: #6c8ecc;">
+                Unblock Health rejects traditional barriers to patient health information. We empower patients to play an active role in their care and help HIM professionals deliver a positive experience.
+              </p>
+              <hr class="slds-m-top_x-large slds-m-bottom_x-large" style="height: 0px; border-color: #6c8ecc;">
+  
+              <p class="slds-text-align_center" style="color: #6c8ecc;"><b>Founded by</b></p>
+              <div class="slds-grid slds-grid_align-center">
+                <div class="slds-clearfix slds-m-bottom_xx-small">
+                  <div class="slds-float_left non-authenticated-section slds-text-align_center slds-m-horizontal_small">
+                    <span class="slds-avatar slds-avatar_circle slds-avatar_large slds-color__background_gray-1">
+                      <img alt="Grace" src="/images/grace.png" title="Grace">
+                    </span>
+                    <p class="slds-m-top_xx-small slds-text-body_small"><a href="https://www.linkedin.com/in/gcordovano/" style="color:#6c8ecc;" target="_blank" title="Link to shahidshah.com"><i>@GraceCordovano</i></a></p>
+                  </div>
+                  <div class="slds-float_left non-authenticated-section slds-text-align_center slds-m-horizontal_small">
+                    <span class="slds-avatar slds-avatar_circle slds-avatar_large slds-color__background_gray-1">
+                      <img alt="Shahid Sha" src="/images/shahid-sha.png" title="Shahid Sha">
+                    </span>
+                    <p class="slds-m-top_xx-small slds-text-body_small"><a href="https://www.linkedin.com/in/shahidshah/" style="color:#6c8ecc;" target="_blank" title="Link to shahidshah.com"><i>@ShahidNShah</i></a></p>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="slds-col slds-size_1-of-1 slds-small-size_6-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12 twitter-feed slds-hide">
+              <h3 class="slds-text-heading_medium slds-m-bottom_large" style="font-size: 24px; font-weight: 400; line-height: 24px;color: #6c8ecc;"><a href="https://www.twitter.com/hashtag/UnblockHealth" target="_blank">#UnblockHealth</a>                
+              </h3>
+              <p>
+                
+              </p>
+              <div id="twitter_feed">
+              <div class="demo-only twitter-loader slds-hide" style="height:6rem;position:relative">
+                <div class="slds-spinner_container slds-hide" style="background-color: transparent!important;">
+                  <div role="status" class="slds-spinner slds-spinner_medium slds-spinner_brand" style="left: 20% !important;">
+                    <span class="slds-assistive-text">Loading</span>
+                    <div class="slds-spinner__dot-a"></div>
+                    <div class="slds-spinner__dot-b"></div>
+                  </div>
+                </div>
+              </div>
+              </div>
+              
+            </div>
+            <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12">
+              <h3 class="slds-text-heading_medium medium" style="font-size: 24px; font-weight: 400; color: #6c8ecc;">
+                Contact Us
+              </h3>
+              <aside>
+                <form method="POST" name="contactform" id="contactform">
+                  <div class="slds-form-element">
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="text" name="Name" id="quickname" placeholder="Name*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="email" name="Email" id="quickemail" placeholder="Email Address*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="text" name="Subject" id="quicksubject" placeholder="Subject*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <textarea name="Message" id="quickmessage" placeholder="Message*" class="slds-input slds-p-vertical_x-small" style="min-height:138px;" required></textarea>
+                    </div>
+                    <input type="hidden" name="_subject" value="[UnBlock Health] - Contact Form Submission" />
+                    <button id="contact-submit"  class="g-recaptcha slds-button slds-button_brand slds-button_stretch slds-p-vertical_small slds-p-horizontal_medium slds-color__text_gray-1" data-sitekey="6LcEYS0qAAAAACChUxV8_ayeIPJ9hXvJmfmn3ivT"  data-callback="verifyCallback0"  data-size="invisible">
+                      <span class="slds-text-body_small slds-text-title_caps slds-color__text_gray-1"><b>Send</b></span></button>
+                      <div class="slds-form-element__control slds-m-bottom_medium slds-text-body_small slds-text-align_center slds-m-top_medium">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank" class="text-blue-600" style="color: #aac1eb;">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank" class="text-blue-600" style="color: #aac1eb;">Terms of Service</a> apply.</div>
+                  </div>
+                  </form>
+                  <div id="successfooter" style="display:none;">
+                            
+                  </div>
+                  <div id="errorfooter" style="display:none;">
+                     
+                  </div>
+              </aside>
+              
+            </div>
+          </div>
+        </div>
+      </article>
+      <hr class="slds-color__border_gray-8 slds-m-top_small slds-m-bottom_large" style="height: 0px; border-color: #6c8ecc!important;">
+      <article class="slds-text-align_center slds-p-top_small slds-p-bottom_x-large">
+        <aside>
+          <ul class="slds-grid slds-grid_align-center slds-list_horizontal slds-has-inline-block-links slds-text-heading_small" style="font-size:18px;flex-wrap: wrap;"><li><a href="http://localhost:36449//" id ="home" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Home</b></a></li><li><a href="http://localhost:36449//about" id ="about" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>About</b></a></li><li><a href="http://localhost:36449//service" id ="services" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Services</b></a></li><li><a href="http://localhost:36449//register" id ="register" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Register</b></a></li><li><a href="http://localhost:36449//sitemap" id ="sitemap" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Sitemap</b></a></li><li><a href="http://localhost:36449//privacy-policy" id ="privacy-policy" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Privacy Policy</b></a></li><li><a href="http://localhost:36449//terms-and-conditions" id ="terms-and-conditions" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Terms and Conditions</b></a></li></ul>
+          </aside>
+        
+        <p class="slds-text-body_small" style="line-height: 18px; color: #6c8ecc;">
+          Comprehensive Healthcare Suite of Patient Advocacy Services Designed for Patients and Consumers - Unblock Health | Copyright © 2024. All Rights Reserved.
+        </p>
+  
+      </article>
+    </div> 
+  </footer>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script>
+$(document).ready(function () {
+$("#register-btn").click(function(){
+  window.location.href="/register";
+});
+$("#schedule-a-demo").click(function(){
+  window.location.href="https://webinar.unblock.health/free-trial";
+});
+});
+</script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="http://localhost:36449/js/jquery.validate.min.js"></script>
+<script src="http://localhost:36449/js/jquery.form.js"></script>
+<script src="http://localhost:36449/js/main-new.js"></script>
+</section> 
+
+</body>
+</html>

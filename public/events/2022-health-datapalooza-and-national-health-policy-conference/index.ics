@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20220404T000000
+STATUS:CONFIRMED
+UID:20220404T000000@unblockhealth.com
+DTSTART:20220404T000000
+DTEND:20220405T000000
+SUMMARY:2022 Health Datapalooza and National Health Policy Conference 
+DESCRIPTION:n-person or online, the Health Datapalooza and National Health Policy Conference has an option for you.We know our audience misses the sense of community that comes with connecting, learning, and networking in-person, and that some aren&rsquo;t yet ready to engage facemask-to-facemask. With that in mind, we are offering both in-person and online experiences this year.The annual co-located Health Datapalooza (HDP) and National Health Policy Conference (NHPC) will be offered in-person April 4-5 in Arlington, VA as a vaccine-required event.Those unable to attend in-person can join a virtual option that includes live streaming for all plenaries and 12 virtual break-out sessions. Virtual content will be available to all registrants for 30 days post event.
+Read on academyhealth.org
+ (Info: https://academyhealth.org/events/site/2022-health-datapalooza-and-national-health-policy-conference)
+LOCATION:Arlington, VA
+URL:<no value>http://localhost:36449/events/2022-health-datapalooza-and-national-health-policy-conference/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\n2022 Health Datapalooza and National Health Policy Conference <br>Location: Arlington, VA<br>n-person or online, the Health Datapalooza and National Health Policy Conference has an option for you.We know our audience misses the sense of community that comes with connecting, learning, and networking in-person, and that some aren&rsquo;t yet ready to engage facemask-to-facemask. With that in mind, we are offering both in-person and online experiences this year.The annual co-located Health Datapalooza (HDP) and National Health Policy Conference (NHPC) will be offered in-person April 4-5 in Arlington, VA as a vaccine-required event.Those unable to attend in-person can join a virtual option that includes live streaming for all plenaries and 12 virtual break-out sessions. Virtual content will be available to all registrants for 30 days post event.
+Read on academyhealth.org
+<br>Read more: <no value>http://localhost:36449/events/2022-health-datapalooza-and-national-health-policy-conference/<br>https://academyhealth.org/events/site/2022-health-datapalooza-and-national-health-policy-conference\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

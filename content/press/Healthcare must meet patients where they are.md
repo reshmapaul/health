@@ -7,12 +7,12 @@ date: 2019-10-18
 eventdate: 2019-10-18
 publishdate: 2019-12-10T04:24:20Z
 banner : "/images/resources/Healthcare must meet patients where they are.png"
-ogImage: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1824526989001/8e1e5871-b4cc-4045-a81f-3faa969598fe/3ad573a7-ef09-4de6-baf0-6b54555618c4/1280x720/match/image.jpg"
+ogImage: "/images/resources/Healthcare must meet patients where they are.png"
 ogTitle: "Healthcare must meet patients where they are"
 ogDescription: "Patient autonomy is revolutionized by access to their data, says Grace Cordovano, board-certified patient advocate and CEO of Enlightening Results."
 twitterTitle: "Healthcare must meet patients where they are"
 twitterDescription: "Patient autonomy is revolutionized by access to their data, says Grace Cordovano, board-certified patient advocate and CEO of Enlightening Results."
-twitterImage: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1824526989001/8e1e5871-b4cc-4045-a81f-3faa969598fe/3ad573a7-ef09-4de6-baf0-6b54555618c4/1280x720/match/image.jpg"
+twitterImage: "/images/resources/Healthcare must meet patients where they are.png"
 twitterCard: "player"
 breadcrumbs:
  - Home

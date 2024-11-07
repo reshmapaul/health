@@ -1,0 +1,38 @@
+--- 
+title: "A Collaborative Health Conversation on Policy & Regulatory Changes"
+cleanUrl: "https://www.bigmarker.com/carium/A-Collaborative-Health-Conversation-on-Policy-Regulatory-Changes"
+sourceBaseUrl: "www.bigmarker.com"
+date: 2020-04-09
+eventdate: 2020-04-09
+publishdate: 2020-04-07T13:40:37Z
+enddate: 2020-04-09
+location: "Virtual Webinar"
+layout: "event"
+sub: "events"
+eventCancelled: "null"
+banner : "/images/resources/A Collaborative Health Conversation on Policy  Regulatory Changes.png"
+ogTitle: "A Collaborative Health Conversation on Policy & Regulatory Changes"
+ogDescription: "Washington and many states and local governments have responded to COVID-19 by changing regulations at an unprecedented pace. Join Grace Cordovano, PhD, BCPA and Matt Fisher as they discuss the implications for healthcare providers and businesses, and also for patients and caregivers."
+ogImage: "/images/resources/A Collaborative Health Conversation on Policy  Regulatory Changes.png"
+ogType: "website"
+ogSiteName: "BigMarker.com"
+twitterCard: "summary_large_image"
+twitterSite: "@bigmarker"
+twitterCreator: "@bigmarker"
+twitterTitle: "A Collaborative Health Conversation on Policy & Regulatory Changes"
+twitterDescription: "For many years it's been difficult to provide remote healthcare services either because it wasnt paid for or because providers needed many licenses  all that is changing quickly.  With COVID-19, suddenly virtual care is essential. Washington and many states and local governments have responded to COVID-19 by changing regulations at an unprecedented pace. Join Grace Cordovano, PhD, BCPA and Matt Fisher as they discuss the implications for healthcare providers and businesses, and also for patients and caregivers."
+twitterImage: "/images/resources/A Collaborative Health Conversation on Policy  Regulatory Changes.png"
+breadcrumbs:
+ - Home
+ - Events
+ - A Collaborative Health Conversation on Policy   Regulatory Changes
+breadcrumbLinks:
+ - / 
+ - /events
+ - / 
+source: "BigMarker.com"
+events/source: "BigMarker.com"
+---
+Washington and many states and local governments have responded to COVID-19 by changing regulations at an unprecedented pace. Join Grace Cordovano, PhD, BCPA and Matt Fisher as they discuss the implications for healthcare providers and businesses, and also for patients and caregivers.  
+  
+[Read on bigmarker.com](https://www.bigmarker.com/carium/A-Collaborative-Health-Conversation-on-Policy-Regulatory-Changes)

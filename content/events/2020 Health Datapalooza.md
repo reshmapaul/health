@@ -9,6 +9,7 @@ enddate: 2020-02-11
 location: "Marriott Marquis, Washington, D.C."
 layout: "event"
 sub: "events"
+eventCancelled: "false"
 banner : "/images/resources/2020 Health Datapalooza.png"
 breadcrumbs:
  - Home
@@ -30,7 +31,7 @@ Co-Located with the National Health Policy Conference
 
 * * *
 
-As an additional benefit to this year's show, Health Datapalooza attendees will gain new opportunities (if you choose) to engage in expansive discussions with participants “across the hall" at the [National Health Policy Conference (NHPC)](https://www.academyhealth.org/events/site/2020-national-health-policy-conference) and pick and choose relevant sessions to attend from both events.
+As an additional benefit to this year's show, Health Datapalooza attendees will gain new opportunities (if you choose) to engage in expansive discussions with participants across the hall" at the [National Health Policy Conference (NHPC)](https://www.academyhealth.org/events/site/2020-national-health-policy-conference) and pick and choose relevant sessions to attend from both events.
 
 Featured Speakers
 -----------------
@@ -135,7 +136,7 @@ Presenter
 
 Social Determinants of Health Lead \- Accenture
 
-Dr. Michael Petersen is a transformative Physician Executive with Accenture’s Social Determinants of Health team. [Read Bio](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/about/people/michael-petersen-md)
+Dr. Michael Petersen is a transformative Physician Executive with Accentures Social Determinants of Health team. [Read Bio](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/about/people/michael-petersen-md)
 
 [![Sylvia Romm headshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/styles/profile_list_item_image/public/sylvia_romm.jpg?itok=aDJXUOWV)](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/about/people/sylvia-romm-md-mph)
 
@@ -212,13 +213,13 @@ Dr. Simpson has been the President and Chief Executive Officer of AcademyHealth 
 
 * * *
 
-[![VA Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/VA_SIG.jpg)](https://www.hsrd.research.va.gov/)     ​[![Accenture Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/ACC_Logo_Black_PurpleGT.png)](https://www.accenture.com/us-en)​     [![AllTHISISNOTASCRIPTREALLYs](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/AllTHISISNOTASCRIPTREALLYs1.png)](https://www.allthisisnotascriptreallys.com/)
+[![VA Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/VA_SIG.jpg)](https://www.hsrd.research.va.gov/)     [![Accenture Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/ACC_Logo_Black_PurpleGT.png)](https://www.accenture.com/us-en)     [![AllTHISISNOTASCRIPTREALLYs](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/AllTHISISNOTASCRIPTREALLYs1.png)](https://www.allthisisnotascriptreallys.com/)
 
-​[![JJ logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/JJ.jpg)](https://www.jnj.com/)​  [![NPC Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/logo_NPC_2.jpg)](https://www.npcnow.org/)     ​[![RWJF](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/RWJF_0.jpg)](https://www.rwjf.org/)​ [![KP Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/KP_9.png)](https://healthy.kaiserpermanente.org/)
+[![JJ logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/JJ.jpg)](https://www.jnj.com/) [![NPC Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/logo_NPC_2.jpg)](https://www.npcnow.org/)     [![RWJF](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/RWJF_0.jpg)](https://www.rwjf.org/)  [![KP Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/KP_9.png)](https://healthy.kaiserpermanente.org/)
 
-​[![Merck](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/Merck_0.jpg)](https://www.merck.com/index.html)​    ​[![HCL](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/HCL.png)](https://www.hlc.org/)​ [![Planned Parenthood Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/Planned_Parenthood.jpg)](https://www.plannedparenthood.org/)    [![AAMC Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/AAMC_Logo_0.png)](https://www.aamc.org/)
+[![Merck](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/Merck_0.jpg)](https://www.merck.com/index.html)  [![HCL](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/HCL.png)](https://www.hlc.org/) [![Planned Parenthood Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/Planned_Parenthood.jpg)](https://www.plannedparenthood.org/)    [![AAMC Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/AAMC_Logo_0.png)](https://www.aamc.org/)
 
-​​[![Health Affairs Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/HA_logo_hi_res_red%20CROPPED.jpg)](https://www.healthaffairs.org/)  ​​   ​​ ​​ 
+[![Health Affairs Logo](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/sites/default/files/inline-images/HA_logo_hi_res_red%20CROPPED.jpg)](https://www.healthaffairs.org/)       
 
   
   

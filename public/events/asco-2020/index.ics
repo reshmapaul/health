@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200529T000000
+STATUS:CONFIRMED
+UID:20200529T000000@unblockhealth.com
+DTSTART:20200529T000000
+DTEND:20200602T000000
+SUMMARY:ASCO 2020    
+DESCRIPTION:The American Society of Clinical Oncology (ASCO) 2020 annual meeting will take place from 29th May to 2nd June, 2020 in Chicago, IL. ASCO offers premier scientific events for oncology professionals, patient advocates, industry representatives, and major media outlets worldwide.
+Read on asco-2020.com
+ (Info: http://asco-2020.com/)
+LOCATION:McCormick Place  Chicago, IL, USA
+URL:<no value>http://localhost:36449/events/asco-2020/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nASCO 2020    <br>Location: McCormick Place  Chicago, IL, USA<br>The American Society of Clinical Oncology (ASCO) 2020 annual meeting will take place from 29th May to 2nd June, 2020 in Chicago, IL. ASCO offers premier scientific events for oncology professionals, patient advocates, industry representatives, and major media outlets worldwide.
+Read on asco-2020.com
+<br>Read more: <no value>http://localhost:36449/events/asco-2020/<br>http://asco-2020.com/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

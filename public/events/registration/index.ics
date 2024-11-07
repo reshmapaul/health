@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20220202T000000
+STATUS:CONFIRMED
+UID:20220202T000000@unblockhealth.com
+DTSTART:20220202T000000
+DTEND:20220202T000000
+SUMMARY:Registration
+DESCRIPTION: The Recognized Coordinating Entity (RCE) will share an in-depth review of specific aspects of the final Qualified Health Information Network Technical Framework (QTF) published on January 18, 2022. Anticipated topics for discussion include an overview of the framework as well the roadmap to incorporate FHIR-based exchange into TEFCA. This meeting will also provide interested stakeholders, including prospective Qualified Health Information Networks (QHINs), an opportunity to share their support, concerns, and ideas as the Common Agreement is implemented in 2022.
+Read on register.gotowebinar.com
+ (Info: https://register.gotowebinar.com/register/7317405333876844559)
+LOCATION:Virtual
+URL:<no value>http://localhost:36449/events/registration/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nRegistration<br>Location: Virtual<br> The Recognized Coordinating Entity (RCE) will share an in-depth review of specific aspects of the final Qualified Health Information Network Technical Framework (QTF) published on January 18, 2022. Anticipated topics for discussion include an overview of the framework as well the roadmap to incorporate FHIR-based exchange into TEFCA. This meeting will also provide interested stakeholders, including prospective Qualified Health Information Networks (QHINs), an opportunity to share their support, concerns, and ideas as the Common Agreement is implemented in 2022.
+Read on register.gotowebinar.com
+<br>Read more: <no value>http://localhost:36449/events/registration/<br>https://register.gotowebinar.com/register/7317405333876844559\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

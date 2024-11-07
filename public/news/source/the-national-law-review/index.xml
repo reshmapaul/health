@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The National Law Review on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
+    <link>http://localhost:36449/news/source/the-national-law-review/</link>
+    <description>Recent content in The National Law Review on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 20:37:40 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36449/news/source/the-national-law-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Blocking  How Did I Become an Actor?</title>
+      <link>http://localhost:36449/news/information-blocking---how-did-i-become-an--actor/</link>
+      <pubDate>Fri, 25 Jun 2021 20:37:40 +0000</pubDate>
+      <guid>http://localhost:36449/news/information-blocking---how-did-i-become-an--actor/</guid>
+      <description>While ONC defined Actors ashealth care providers, health IT developers of certified health IT and health information exchanges or networksin the Final Rule and published guidance on theirwebsite, there is still uncertainty as to whom the Information Blocking Rules apply. The confusion may emanate from the lack of familiarity some health care providers and health IT developers have as never having been regulated or overseen by the ONC. There also appears to be overlap between what the ONC Information Blocking Rules protect against and what and how the Office for Civil Rights protects under the HIPAA Privacy Rule.</description>
+    </item>
+    <item>
+      <title>HIPAA Privacy Rule Modification  Removing Barriers and Promoting Coordinated Care at What Cost?</title>
+      <link>http://localhost:36449/news/hipaa-privacy-rule-modification---removing-barriers-and-promoting-coordinated-care-at-what-cost/</link>
+      <pubDate>Sun, 23 May 2021 23:41:27 +0000</pubDate>
+      <guid>http://localhost:36449/news/hipaa-privacy-rule-modification---removing-barriers-and-promoting-coordinated-care-at-what-cost/</guid>
+      <description>As expressed above, while there is broad acknowledgment of the merits of the Proposed Rules goals, as expressed by several commenters, there are significant concerns with the complexity that is added by the rule and the general issues related to overlapping regimes created by various departments/agencies with HHS. By way of example, OCR has created definitions for PHA and EHR and expanded individual access rights; however, the Interoperability Rules attempted to create standards regarding such access through references to the United States Core Data for Interoperability (USCDI).</description>
+    </item>
+    <item>
+      <title>ONC Proposes to Define Conduct That is Not Information Blocking Under the Cures Act</title>
+      <link>http://localhost:36449/news/onc-proposes-to-define-conduct-that-is-not-information-blocking-under-the-cures-act/</link>
+      <pubDate>Thu, 31 Oct 2019 20:38:52 +0000</pubDate>
+      <guid>http://localhost:36449/news/onc-proposes-to-define-conduct-that-is-not-information-blocking-under-the-cures-act/</guid>
+      <description>The ONC finally released its long-awaited proposed rule to implement the information blocking prohibition of the 21st Century Cures Act by identifying conduct that is not information blocking. If finalized, ONCs proposed rule would have a significant impact on data sharing arrangements and other relationships among health care providers, health IT developers, and other stakeholders. In thisOn the Subject, our experienced team analyzes ONCs information blocking proposals and suggests practical next steps for the regulated industry.</description>
+    </item>
+    <item>
+      <title>Analyzing ONC&#39;s Proposed Rule: Fee Restrictions for Health IT and EHI</title>
+      <link>http://localhost:36449/news/analyzing-onc-s-proposed-rule--fee-restrictions-for-health-it-and-ehi/</link>
+      <pubDate>Thu, 31 Oct 2019 20:35:58 +0000</pubDate>
+      <guid>http://localhost:36449/news/analyzing-onc-s-proposed-rule--fee-restrictions-for-health-it-and-ehi/</guid>
+      <description>The ONC recently released a proposed rule under the 21st Century Cures Act to promote interoperability of health IT and advance access, exchange or use of electronic health information. If finalized, the proposed rule would have significant implications for how health IT developers, health care providers and other stakeholders price access to APIs and other technology used to access, exchange or use health information. This On the Subject discusses the proposed framework for determining whether license fees and other charges for such technology would comply with the ONCs proposed exceptions to the Cures Acts information blocking prohibition and proposed Condition of Certification for APIs.</description>
+    </item>
+  </channel>
+</rss>

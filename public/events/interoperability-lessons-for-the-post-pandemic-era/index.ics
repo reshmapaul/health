@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20210506T000000
+STATUS:CONFIRMED
+UID:20210506T000000@unblockhealth.com
+DTSTART:20210506T000000
+DTEND:20210506T000000
+SUMMARY:Interoperability Lessons for the Post-Pandemic Era 
+DESCRIPTION:The COVID-19 public health emergency has shone a spotlight on many gaps in health information exchange and data reporting infrastructure across the U.S. But with the crisis have come some valuable l
+Read on himsslearn.org
+ (Info: https://www.himsslearn.org/interoperability-lessons-post-pandemic-era?source=epush3)
+LOCATION:online
+URL:<no value>http://localhost:36449/events/interoperability-lessons-for-the-post-pandemic-era/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nInteroperability Lessons for the Post-Pandemic Era <br>Location: online<br>The COVID-19 public health emergency has shone a spotlight on many gaps in health information exchange and data reporting infrastructure across the U.S. But with the crisis have come some valuable l
+Read on himsslearn.org
+<br>Read more: <no value>http://localhost:36449/events/interoperability-lessons-for-the-post-pandemic-era/<br>https://www.himsslearn.org/interoperability-lessons-post-pandemic-era?source=epush3\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

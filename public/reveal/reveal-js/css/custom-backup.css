@@ -1,0 +1,119 @@
+.custom em{
+    color: #a32843
+}
+
+.custom code{
+    color: #ff2f86
+}
+
+.customjs {
+    background-color: #504e9e
+}
+/* custom css /PK/ starts >
+:::::::::::::::::::::::::::::::: */
+.content-section {}
+.content-section h2 {
+    font-weight: normal !important;
+    text-transform: capitalize !important;
+    /*font-size: 45px !important;*/
+    padding-bottom: 20px;
+}
+.content-section h3 {
+    font-weight: normal !important;
+    text-transform: capitalize !important;
+    /*font-size: 35px !important;*/
+}
+.reveal .content-section p {
+   /*font-size:20px;*/
+}
+.reveal .content-section h2::after {
+	content: '';
+	position: absolute;
+	width: 65px;
+	height: 3px;
+	background-color:#f68c29;
+	bottom: 0px;
+	left: 43%;
+}
+
+.reveal .content-section .photo-style {
+	border: 4px solid #fff;
+    box-shadow: 0 0 0px;
+}
+.top-content, .bottom-content {
+    width: 100%;
+    float: left;
+}
+.top-left {
+    width: 48% !important;
+    float: left;
+    padding-left: 2%;
+}
+.top-right {
+    width: 48% !important;
+    float: left;
+    padding-left: 2%;
+}
+.clearfix {
+    clear:both;
+}
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    display:inline-block;
+}
+/* existing edit > */
+.reveal  {
+    background:#000;
+	color:#fff;
+	overflow: inherit;
+}
+/*.reveal .slides {
+	inset: inherit!important;
+	transform: inherit!important;
+}*/
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p {
+    color:#fff!important;
+	position:relative;
+}
+.reveal .line {
+    display:none;
+}
+.reveal .progress {
+    color: #f68c29!important;
+}
+.reveal .controls .controls-arrow::before, .reveal .controls .controls-arrow::after {
+	background-color: #f68c29!important;
+}
+.reveal .slide-background {
+    visibility: inherit!important;
+}
+.reveal .slides {
+    padding-bottom: 150px;
+}
+/* existing ends < */
+
+/* media queries > */
+@media (max-width:1199px) {
+
+}
+@media (max-width:991px) {
+
+}
+@media (max-width:767px) {
+.top-left {
+    width: 100% !important;
+    padding-left: 0%;
+}
+.top-right {
+    width: 100% !important;
+    padding-left: 0%;
+	padding-top: 3%;
+}
+}
+@media (max-width:575px) {
+
+}
+/* media queries < */
+/* custom css /PK/ ends >
+:::::::::::::::::::::::::::::::: */

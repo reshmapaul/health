@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200309T000000
+STATUS:CONFIRMED
+UID:20200309T000000@unblockhealth.com
+DTSTART:20200309T000000
+DTEND:20200313T000000
+SUMMARY:Patient-Centricity is Dead
+DESCRIPTION:HIMSS Global Health Conference &amp; Exhibition: Find out what&rsquo;s next in health.
+Read on himssconference.org
+ (Info: https://www.himssconference.org/Search/SessionSearch?Keywords=grace+cordovano)
+LOCATION:Orange County Convention Center, West Building Orlando, FL
+URL:<no value>http://localhost:36449/events/patient-centricity-is-dead/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nPatient-Centricity is Dead<br>Location: Orange County Convention Center, West Building Orlando, FL<br>HIMSS Global Health Conference &amp; Exhibition: Find out what&rsquo;s next in health.
+Read on himssconference.org
+<br>Read more: <no value>http://localhost:36449/events/patient-centricity-is-dead/<br>https://www.himssconference.org/Search/SessionSearch?Keywords=grace+cordovano\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

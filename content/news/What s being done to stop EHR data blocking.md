@@ -1,5 +1,5 @@
 --- 
-title: "What’s being done to stop EHR data blocking?"
+title: "Whats being done to stop EHR data blocking?"
 cleanUrl: "https://www.managedhealthcareexecutive.com/health-law-policy/whats-being-done-stop-ehr-data-blocking"
 date: "2019-11-01T05:46:42Z"
 sourceBaseUrl: "www.managedhealthcareexecutive.com"

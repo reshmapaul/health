@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20211110T000000
+STATUS:CONFIRMED
+UID:20211110T000000@unblockhealth.com
+DTSTART:20211110T000000
+DTEND:20211113T000000
+SUMMARY:HealthIMPACT Live Fall Forum
+DESCRIPTION:Since July 2020 HealthIMPACT has hosted over 100 conversations on how to leverage technology to build a better, stronger, and more equitable healthcare system.
+Read on healthimpactfall.com
+ (Info: https://www.healthimpactfall.com/home)
+LOCATION:A Virtual Event in Partnership with Google
+URL:<no value>http://localhost:36449/events/healthimpact-live-fall-forum/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nHealthIMPACT Live Fall Forum<br>Location: A Virtual Event in Partnership with Google<br>Since July 2020 HealthIMPACT has hosted over 100 conversations on how to leverage technology to build a better, stronger, and more equitable healthcare system.
+Read on healthimpactfall.com
+<br>Read more: <no value>http://localhost:36449/events/healthimpact-live-fall-forum/<br>https://www.healthimpactfall.com/home\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

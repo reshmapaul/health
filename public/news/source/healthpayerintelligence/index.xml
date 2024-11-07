@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HealthPayerIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
+    <link>http://localhost:36449/news/source/healthpayerintelligence/</link>
+    <description>Recent content in HealthPayerIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2021 16:34:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36449/news/source/healthpayerintelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMS Rule Targets Prior Authorization with Interoperability</title>
+      <link>http://localhost:36449/news/cms-rule-targets-prior-authorization-with-interoperability/</link>
+      <pubDate>Thu, 28 Jan 2021 16:34:03 +0000</pubDate>
+      <guid>http://localhost:36449/news/cms-rule-targets-prior-authorization-with-interoperability/</guid>
+      <description>Today, the Centers for Medicare &amp;amp; Medicaid Services (CMS) passed a final rule that promotes data sharing, patient access to health information, coordinated care, and interoperability to streamline the prior authorization process.The rule is the next phase of CMS interoperability rulemaking, aimed at improving data exchange while reducing provider and patient burden.The CMS Interoperability and Prior Authorization rule will allow certain payers, providers, and patients to have electronic access to pending and active prior authorization decisions.</description>
+    </item>
+  </channel>
+</rss>

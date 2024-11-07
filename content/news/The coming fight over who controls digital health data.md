@@ -7,13 +7,13 @@ banner : "/images/resources/The coming fight over who controls digital health da
 ogSiteName: "TechCrunch"
 ogTitle: "The coming fight over who controls digital health data  TechCrunch"
 ogDescription: "Spending for consumer digital healthcare companies is set to explode in the next few years; the Office of the National Coordinator for Health Information Technology is currently reviewing the requirements for data sharing with the Department of Health and Human Services, and their initiatives will "
-ogImage: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-115049939.jpg?w=554"
+ogImage: "/images/resources/The coming fight over who controls digital health data.png"
 ogType: "article"
 twitterCard: "summary_large_image"
 twitterSite: "@techcrunch"
 twitterTitle: "The coming fight over who controls digital health data  TechCrunch"
 twitterDescription: "Spending for consumer digital healthcare companies is set to explode in the next few years; the Office of the National Coordinator for Health Information Technology is currently reviewing the requirements for data sharing with the Department of Health and Human Services, and their initiatives will unlock a wave of data access never before seen in []"
-twitterImage: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-115049939.jpg?w=554"
+twitterImage: "/images/resources/The coming fight over who controls digital health data.png"
 breadcrumbs:
  - Home
  - News
@@ -29,6 +29,6 @@ Spending for consumer digital healthcare companies is set to explode in the next
 
 Already, startups and large technology companies are jockeying for position over how to leverage this access and take advantage of new sensor technologies that provide unprecedented windows into patient health.
 
-Last week, after reports in [The Wall Street Journal](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790?mod=hp_lead_pos1) and [The New York Times](https://www.nytimes.com/2019/11/11/business/google-ascension-health-data.html), Google confirmed the details of a partnership with religiously-affiliated hospital and assisted living network, [Ascension](https://www.ascension.org/), a deal that involved the movement of millions of patient records into Google’s infrastructure.  
+Last week, after reports in [The Wall Street Journal](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790?mod=hp_lead_pos1) and [The New York Times](https://www.nytimes.com/2019/11/11/business/google-ascension-health-data.html), Google confirmed the details of a partnership with religiously-affiliated hospital and assisted living network, [Ascension](https://www.ascension.org/), a deal that involved the movement of millions of patient records into Googles infrastructure.  
   
 [Read on techcrunch.com](https://techcrunch.com/2019/11/18/the-coming-fight-over-who-controls-digital-health-data/)

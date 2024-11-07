@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>American Medical Association on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
+    <link>http://localhost:36449/news/source/american-medical-association/</link>
+    <description>Recent content in American Medical Association on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 17:58:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36449/news/source/american-medical-association/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refining rules on data release can prevent harm to patients</title>
+      <link>http://localhost:36449/news/refining-rules-on-data-release-can-prevent-harm-to-patients/</link>
+      <pubDate>Mon, 20 Mar 2023 17:58:37 +0000</pubDate>
+      <guid>http://localhost:36449/news/refining-rules-on-data-release-can-prevent-harm-to-patients/</guid>
+      <description>While some patients want immediate release of test results, others complain that getting bad news electronically without physician involvement causes unnecessary anxiety.&#xA;Read on ama-assn.org</description>
+    </item>
+    <item>
+      <title>AMA welcomes HHS privacy guidance in wake of Dobbs decision</title>
+      <link>http://localhost:36449/news/ama-welcomes-hhs-privacy-guidance-in-wake-of-dobbs-decision/</link>
+      <pubDate>Sat, 02 Jul 2022 17:41:27 +0000</pubDate>
+      <guid>http://localhost:36449/news/ama-welcomes-hhs-privacy-guidance-in-wake-of-dobbs-decision/</guid>
+      <description>The AMA has warned (PDF) regulators that the lack of digital privacy can damage the patient-physician relationship &amp;ndash; and the urgency of this threat is much greater with the downfall of reproductive rights. We are grateful that the Biden Administration immediately recognized that these issues have moved from theoretical to frighteningly real. The new guidance makes it clear that physicians are not required to disclose private medical information to third parties and provides patients with tips on the use of personal cell phones and tablets.</description>
+    </item>
+    <item>
+      <title>AMA quick guide to telemedicine in practice</title>
+      <link>http://localhost:36449/news/ama-quick-guide-to-telemedicine-in-practice/</link>
+      <pubDate>Fri, 24 Apr 2020 03:50:55 +0000</pubDate>
+      <guid>http://localhost:36449/news/ama-quick-guide-to-telemedicine-in-practice/</guid>
+      <description>The use of telemedicine and remote care services are critical to the safe management of the COVID-19 pandemic, while also ensuring uninterrupted care for 100 million Americans with chronic conditions. Telemedicine spans a continuum of technologies that offer new ways to deliver care including:Real-time, audio-video communication tools (telehealth) that connect physicians and patients in different locations.Store-and-forward technologies that collect images and data to be transmitted and interpreted later.Remote patient-monitoring tools such as blood pressure monitors, Bluetooth-enabled digital scalesand other wearable devices that can communicate biometric data for review (which may involve the use of mHealth apps).</description>
+    </item>
+  </channel>
+</rss>

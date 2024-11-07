@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200916T000000
+STATUS:CONFIRMED
+UID:20200916T000000@unblockhealth.com
+DTSTART:20200916T000000
+DTEND:20200917T000000
+SUMMARY:2020 PCORI Virtual Annual Meeting
+DESCRIPTION:The 2020 PCORI Annual Meeting, Accelerating Impact on Care and Patient-Centered Outcomes, will be held virtually this year. Join colleagues from across the healthcare community virtually for PCORIs flagship event to learn more about PCORI-funded studies that can help patients and those who care for them make better-informed healthcare choices.
+Read on pcorievents.org
+ (Info: https://www.pcorievents.org/event/51ce5d4e-230e-45a3-b2be-41eb5a3a4857/regProcessStep1:a8b1f4ea-6c09-43e6-aa0e-0ab9d0a3624d)
+LOCATION:TBD
+URL:<no value>http://localhost:36449/events/2020-pcori-virtual-annual-meeting/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\n2020 PCORI Virtual Annual Meeting<br>Location: TBD<br>The 2020 PCORI Annual Meeting, Accelerating Impact on Care and Patient-Centered Outcomes, will be held virtually this year. Join colleagues from across the healthcare community virtually for PCORIs flagship event to learn more about PCORI-funded studies that can help patients and those who care for them make better-informed healthcare choices.
+Read on pcorievents.org
+<br>Read more: <no value>http://localhost:36449/events/2020-pcori-virtual-annual-meeting/<br>https://www.pcorievents.org/event/51ce5d4e-230e-45a3-b2be-41eb5a3a4857/regProcessStep1:a8b1f4ea-6c09-43e6-aa0e-0ab9d0a3624d\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

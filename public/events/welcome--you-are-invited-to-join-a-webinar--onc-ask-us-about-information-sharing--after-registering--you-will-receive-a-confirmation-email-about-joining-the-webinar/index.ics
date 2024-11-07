@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20221027T000000
+STATUS:CONFIRMED
+UID:20221027T000000@unblockhealth.com
+DTSTART:20221027T000000
+DTEND:20221027T000000
+SUMMARY:Welcome! You are invited to join a webinar: ONC Ask Us About Information Sharing. After registering, you will receive a confirmation email about joining the webinar.
+DESCRIPTION:ONC Ask Us About Information Sharing
+Read on kauffmaninc.zoom.us
+ (Info: https://kauffmaninc.zoom.us/webinar/register/WN_YtzRB9CRRRq_AqhNBgkBAw)
+LOCATION:Virtual
+URL:<no value>http://localhost:36449/events/welcome--you-are-invited-to-join-a-webinar--onc-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nWelcome! You are invited to join a webinar: ONC Ask Us About Information Sharing. After registering, you will receive a confirmation email about joining the webinar.<br>Location: Virtual<br>ONC Ask Us About Information Sharing
+Read on kauffmaninc.zoom.us
+<br>Read more: <no value>http://localhost:36449/events/welcome--you-are-invited-to-join-a-webinar--onc-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/<br>https://kauffmaninc.zoom.us/webinar/register/WN_YtzRB9CRRRq_AqhNBgkBAw\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

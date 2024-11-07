@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20201214T000000
+STATUS:CONFIRMED
+UID:20201214T000000@unblockhealth.com
+DTSTART:20201214T000000
+DTEND:20201216T000000
+SUMMARY:13th Annual Conference on the Science of Dissemination and Implementation in Health 
+DESCRIPTION:Upcoming Event
+Bridging the gap between research, practice, and policy.
+The Annual Conference on the Science of Dissemination and Implementation in Health (D&amp;I), co-hosted by the National Institutes of Health (NIH) and AcademyHealth, helps realize the full potential of evidence to optimize health and health care by bridging the gap between research, practice, and policy.
+Stay Connected Sign up to receive up-to-date information about the 13th Annual Conference on the Science of Dissemination and Implementation in Health
+Join the conversation on Twitter using the hashtag #DIScience20 and follow @AcademyHealth and @NCI_ImplSci to receive conference updates, stay connected to past participants and join the conversation.
+Co-Hosts Read on academyhealth.org
+ (Info: https://www.academyhealth.org/events/2020-12/13th-annual-conference-science-dissemination-and-implementation-health)
+LOCATION:Washington DC
+URL:<no value>http://localhost:36449/events/13th-annual-conference-on-the-science-of-dissemination-and-implementation-in-health/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\n13th Annual Conference on the Science of Dissemination and Implementation in Health <br>Location: Washington DC<br>Upcoming Event
+Bridging the gap between research, practice, and policy.
+The Annual Conference on the Science of Dissemination and Implementation in Health (D&amp;I), co-hosted by the National Institutes of Health (NIH) and AcademyHealth, helps realize the full potential of evidence to optimize health and health care by bridging the gap between research, practice, and policy.
+Stay Connected Sign up to receive up-to-date information about the 13th Annual Conference on the Science of Dissemination and Implementation in Health
+Join the conversation on Twitter using the hashtag #DIScience20 and follow @AcademyHealth and @NCI_ImplSci to receive conference updates, stay connected to past participants and join the conversation.
+Co-Hosts Read on academyhealth.org
+<br>Read more: <no value>http://localhost:36449/events/13th-annual-conference-on-the-science-of-dissemination-and-implementation-in-health/<br>https://www.academyhealth.org/events/2020-12/13th-annual-conference-science-dissemination-and-implementation-health\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

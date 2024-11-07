@@ -6,7 +6,7 @@ sourceBaseUrl: "www.modernhealthcare.com"
 banner : "/images/resources/iTWire  Many top websites tracking users every move.png"
 ogTitle: "iTWire - Many top websites tracking users' every move"
 ogType: "article"
-ogImage: "https://www.itwire.com/media/k2/items/cache/3222550cc0eec032581853821fafd3c9_XS.jpg"
+ogImage: "/images/resources/iTWire  Many top websites tracking users every move.png"
 ogDescription: "Many well-known websites are using third-party analytics scripts to track every movement of visitors to their sites, a study claims. Known as session-..."
 breadcrumbs:
  - Home

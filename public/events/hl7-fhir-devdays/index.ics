@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20230606T000000
+STATUS:CONFIRMED
+UID:20230606T000000@unblockhealth.com
+DTSTART:20230606T000000
+DTEND:20230609T000000
+SUMMARY:HL7 FHIR DEVDAYS
+DESCRIPTION:Join us for the hybrid event of HL7 FHIR DevDays, which will be held in Amsterdam (the Netherlands), and/or through your screens!
+Do you need FHIR in your day-to-day job?
+DevDays is where you can learn all about FHIR and sharpen your FHIR expertise. DevDays is where the FHIR community lives and thrives.
+ (Info: https://www.devdays.com/devdays-2023/)
+LOCATION:Amsterdam, NL
+URL:<no value>http://localhost:36449/events/hl7-fhir-devdays/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nHL7 FHIR DEVDAYS<br>Location: Amsterdam, NL<br>Join us for the hybrid event of HL7 FHIR DevDays, which will be held in Amsterdam (the Netherlands), and/or through your screens!
+Do you need FHIR in your day-to-day job?
+DevDays is where you can learn all about FHIR and sharpen your FHIR expertise. DevDays is where the FHIR community lives and thrives.
+<br>Read more: <no value>http://localhost:36449/events/hl7-fhir-devdays/<br>https://www.devdays.com/devdays-2023/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

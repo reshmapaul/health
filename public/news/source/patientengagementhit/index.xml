@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PatientEngagementHIT on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
+    <link>http://localhost:36449/news/source/patientengagementhit/</link>
+    <description>Recent content in PatientEngagementHIT on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 19:35:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36449/news/source/patientengagementhit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Patient Data Access Grows in Large Hospitals, Lags in Small Orgs</title>
+      <link>http://localhost:36449/news/digital-patient-data-access-grows-in-large-hospitals--lags-in-small-orgs/</link>
+      <pubDate>Sat, 22 Oct 2022 19:35:19 +0000</pubDate>
+      <guid>http://localhost:36449/news/digital-patient-data-access-grows-in-large-hospitals--lags-in-small-orgs/</guid>
+      <description>Digital patient data access remains somewhat stable in the nations hospitals, with modest gains in patient portal and FHIR-based app access, according to an October data brief from the Office of the National Coordinator for Health IT (ONC).However, digital patient data access isnt equal across all hospitals and health systems. Rural hospitals, small hospitals, and critical access hospitals (CAHs) all have lower rates of digital patient data access, including via FHIR-based patient engagement apps and the patient portal, the report found.</description>
+    </item>
+    <item>
+      <title>CHIME, WEDI Launch Patient Education Campaign on Health Data Sharing</title>
+      <link>http://localhost:36449/news/chime--wedi-launch-patient-education-campaign-on-health-data-sharing/</link>
+      <pubDate>Thu, 26 May 2022 03:02:40 +0000</pubDate>
+      <guid>http://localhost:36449/news/chime--wedi-launch-patient-education-campaign-on-health-data-sharing/</guid>
+      <description>The initiative will include a 5-step checklist to increase patient education about health data sharing, helping patients protect their health information while using third-party apps.&#xA;Read on patientengagementhit.com</description>
+    </item>
+    <item>
+      <title>More Orgs Add Digital Vaccine Credentialing, Patient Data Access</title>
+      <link>http://localhost:36449/news/more-orgs-add-digital-vaccine-credentialing--patient-data-access/</link>
+      <pubDate>Wed, 07 Jul 2021 12:35:31 +0000</pubDate>
+      <guid>http://localhost:36449/news/more-orgs-add-digital-vaccine-credentialing--patient-data-access/</guid>
+      <description>As an alternative to the paper card, the SMART Health Card cannot be lost or damaged. It is secure and protects the privacy of patient information, Longhurst explained.UCSD said it is the first US health system to adopt the SMART Health Card digital vaccine credential. The SMART Health Card will be usable for all UCSD Health employees, as well as patients who received either COVID-19 vaccine or a COVID-19 test at UCSD Health and who opted into the systems patient portal.</description>
+    </item>
+    <item>
+      <title>Using Smartphone Apps to Unlock Meaningful Patient Data Access</title>
+      <link>http://localhost:36449/news/using-smartphone-apps-to-unlock-meaningful-patient-data-access/</link>
+      <pubDate>Tue, 03 Nov 2020 16:04:51 +0000</pubDate>
+      <guid>http://localhost:36449/news/using-smartphone-apps-to-unlock-meaningful-patient-data-access/</guid>
+      <description>When you have access to a comprehensive history, people are much more likely to find errors in their data, said Pollak, who is the co-founder and chief architect at the Commons Project, which in 2019 built CommonHealth to let Android users access their patient portals on mobile devices.There are scholarly papers showing that people have better patient engagement portability between providers, he pointed out. Certainly, we&amp;rsquo;re at a time when you, in spite of the health information exchange and some of the other platforms, it&amp;rsquo;s still sadly possible to show up somewhere and not have your health data with you.</description>
+    </item>
+    <item>
+      <title>AMA Calls on State Action for Patient Care Access Amid Coronavirus</title>
+      <link>http://localhost:36449/news/ama-calls-on-state-action-for-patient-care-access-amid-coronavirus/</link>
+      <pubDate>Thu, 16 Apr 2020 16:53:20 +0000</pubDate>
+      <guid>http://localhost:36449/news/ama-calls-on-state-action-for-patient-care-access-amid-coronavirus/</guid>
+      <description>Medicare has expanded telehealth reimbursement options and eradicated many interstate telehealth licensure laws. AMA encourages state governors to adopt the same practices, and moreover implored states to create systems that allow patients to see their specific physicians over telehealth.&#xA;Read on patientengagementhit.com</description>
+    </item>
+    <item>
+      <title>How Has Coronavirus Affected Healthcare Consumerism, Tech Use?</title>
+      <link>http://localhost:36449/news/how-has-coronavirus-affected-healthcare-consumerism--tech-use/</link>
+      <pubDate>Thu, 16 Apr 2020 16:51:45 +0000</pubDate>
+      <guid>http://localhost:36449/news/how-has-coronavirus-affected-healthcare-consumerism--tech-use/</guid>
+      <description>Overwhelmingly, patients said they prefer to receive email outreach and education, while a notable cohort of respondents also said they would be interested in television or video updates, updates on the provider website, and SMS or text message patient outreach to receive coronavirus updates.&#xA;Read on patientengagementhit.com</description>
+    </item>
+    <item>
+      <title>Understanding Patient Requests for EHR Corrections, Changes</title>
+      <link>http://localhost:36449/news/understanding-patient-requests-for-ehr-corrections--changes/</link>
+      <pubDate>Wed, 04 Dec 2019 04:55:11 +0000</pubDate>
+      <guid>http://localhost:36449/news/understanding-patient-requests-for-ehr-corrections--changes/</guid>
+      <description>By understanding requirements for patient requests for medical record corrections and working to encourage patient data access and review, clinicians, hospitals, and health systems can empower patients as partners in their pursuit of healthcare safety.&#xA;Read on patientengagementhit.com</description>
+    </item>
+  </channel>
+</rss>

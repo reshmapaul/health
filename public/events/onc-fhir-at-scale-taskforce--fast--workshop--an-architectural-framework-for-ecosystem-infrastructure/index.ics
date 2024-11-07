@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200914T000000
+STATUS:CONFIRMED
+UID:20200914T000000@unblockhealth.com
+DTSTART:20200914T000000
+DTEND:20200914T000000
+SUMMARY:ONC FHIR at Scale Taskforce (FAST) Workshop: An Architectural Framework for Ecosystem Infrastructure 
+DESCRIPTION:Monday, September 14, 2020; 08:30 AM EDT 5:00 PM ET, Join ONC and members of the FHIR at Scale Taskforce (FAST) initiative for a full day workshop titled: FAST, An Architectural Framework for Ecosystem Infrastructure. Having developed andproposed solutionsto addresstechnical infrastructure challengesassociated with deploying FHIR solutions at scale, theFASTcommunity now seeks to explore and solicit feedback on the both the architectural considerations and pathways to implementation for each of these solutions.TheFASTInitiative recognizes that ongoing collaboration and coordination with industry leading efforts and a broader group of industry stakeholders is key to understanding industry challenges and successes, ensuring an accurate industry wide gap analysis, maintaining awareness of new developments, and avoiding duplication of efforts. To that end, this workshop will support TheFASTInitiatives goal to maintain transparency and communication, while welcoming industry feedback that can inform our collective efforts and approaches.For more information on theFASTinitiative, please review the following resources:The OfficialFASTConfluence siteTheFAST2020 Mid-Year ReportTheFAST2019 End of Year Report
+Read on healthit.gov
+ (Info: https://www.healthit.gov/news/events/onc-fhir-scale-taskforce-fast-workshop-architectural-framework-ecosystem-infrastructure)
+LOCATION:TBD
+URL:<no value>http://localhost:36449/events/onc-fhir-at-scale-taskforce--fast--workshop--an-architectural-framework-for-ecosystem-infrastructure/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nONC FHIR at Scale Taskforce (FAST) Workshop: An Architectural Framework for Ecosystem Infrastructure <br>Location: TBD<br>Monday, September 14, 2020; 08:30 AM EDT 5:00 PM ET, Join ONC and members of the FHIR at Scale Taskforce (FAST) initiative for a full day workshop titled: FAST, An Architectural Framework for Ecosystem Infrastructure. Having developed andproposed solutionsto addresstechnical infrastructure challengesassociated with deploying FHIR solutions at scale, theFASTcommunity now seeks to explore and solicit feedback on the both the architectural considerations and pathways to implementation for each of these solutions.TheFASTInitiative recognizes that ongoing collaboration and coordination with industry leading efforts and a broader group of industry stakeholders is key to understanding industry challenges and successes, ensuring an accurate industry wide gap analysis, maintaining awareness of new developments, and avoiding duplication of efforts. To that end, this workshop will support TheFASTInitiatives goal to maintain transparency and communication, while welcoming industry feedback that can inform our collective efforts and approaches.For more information on theFASTinitiative, please review the following resources:The OfficialFASTConfluence siteTheFAST2020 Mid-Year ReportTheFAST2019 End of Year Report
+Read on healthit.gov
+<br>Read more: <no value>http://localhost:36449/events/onc-fhir-at-scale-taskforce--fast--workshop--an-architectural-framework-for-ecosystem-infrastructure/<br>https://www.healthit.gov/news/events/onc-fhir-scale-taskforce-fast-workshop-architectural-framework-ecosystem-infrastructure\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

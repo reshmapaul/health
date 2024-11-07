@@ -8,8 +8,8 @@ ogType: "article"
 ogTitle: "Health Data Outside HIPAA: Simply Extending HIPAA Would Be a #FAIL - The Health Care Blog"
 ogDescription: "By DEVEN McGRAW and VINCE KURAITIS This piece is part of the series The Health Data Goldilocks Dilemma: Sharing? Privacy? Both? which explores whether its possible to advance interoperability while maintaining privacy.Continue reading..."
 ogSiteName: "The Health Care Blog"
-ogImage: "https://thehealthcareblog.com/wp-content/uploads/2019/12/deven-and-vince.jpg"
-ogImage: "https://thehealthcareblog.com/wp-content/uploads/2019/12/deven-and-vince.jpg"
+ogImage: "/images/resources/Health Data Outside HIPAA Simply Extending HIPAA Would Be a FAIL.png"
+ogImage: "/images/resources/Health Data Outside HIPAA Simply Extending HIPAA Would Be a FAIL.png"
 ogDescription: "Vince Kuraitis Deven McGraw By DEVEN McGRAW and VINCE KURAITIS This piece is part of the series The Health Data Goldilocks Dilemma: Sharing? Privacy? Both? which explores whether its possible to advance interoperability while maintaining privacy. Check out other pieces in the serieshere. Early in 2019 the Office of the National Coordinator for Health IT..."
 ogType: "article"
 ogSiteName: "The Health Care Blog"
@@ -21,7 +21,7 @@ twitterCard: "summary_large_image"
 twitterDescription: "By DEVEN McGRAW and VINCE KURAITIS This piece is part of the series The Health Data Goldilocks Dilemma: Sharing? Privacy? Both? which explores whether its possible to advance interoperability while maintaining privacy.Continue reading..."
 twitterTitle: "Health Data Outside HIPAA: Simply Extending HIPAA Would Be a #FAIL - The Health Care Blog"
 twitterSite: "@THCBstaff"
-twitterImage: "https://thehealthcareblog.com/wp-content/uploads/2019/12/deven-and-vince.jpg"
+twitterImage: "/images/resources/Health Data Outside HIPAA Simply Extending HIPAA Would Be a FAIL.png"
 twitterCreator: "@THCBstaff"
 breadcrumbs:
  - Home
@@ -34,6 +34,8 @@ breadcrumbLinks:
 source: "The Health Care Blog"
 news/source: "The Health Care Blog"
 ---
-In summary:HIPAA's rules were not designed to address privacy risks introduced by widespread personal information collection and use in the modern digital ecosystem. HIPAA's rules were designed to support information flows within the health care system and allow for broad uses and disclosures of data by both covered entities and business associates without the need to obtain patient consent. HIPAA is "leaky" it expressly allows covered entities and business associates to share data outside of HIPAA, including selling de-identified data, without patient consent. HIPAA's rules protect data and also protect incumbents' interests in controlling health data. Ultimately Congressional action is needed to establish meaningful privacy protections for personal data.
+In summary:
 
-[Read on thehealthcareblog.com](https://thehealthcareblog.com/blog/2020/01/20/health-data-outside-hipaa-simply-extending-hipaa-would-be-a-fail)
+HIPAAs rules were not designed to address privacy risks introduced by widespread personal information collection and use in the modern digital ecosystem. HIPAAs rules were designed to support information flows within the health care system and allow for broad uses and disclosures of data by both covered entities and business associates without the need to obtain patient consent. HIPAA is leaky it expressly allows covered entities and business associates to share data outside of HIPAA, including selling de-identified data, without patient consent. HIPAAs rules protect data and also protect incumbents interests in controlling health data. Ultimately Congressional action is needed to establish meaningful privacy protections for personal data.  
+  
+[Read on thehealthcareblog.com](https://thehealthcareblog.com/blog/2020/01/20/health-data-outside-hipaa-simply-extending-hipaa-would-be-a-fail/)

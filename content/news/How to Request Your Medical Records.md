@@ -6,13 +6,13 @@ sourceBaseUrl: "journal.ahima.org"
 banner : "/images/resources/How to Request Your Medical Records.png"
 ogTitle: "How to Request Your Medical Records | Journal of AHIMA"
 ogType: "activity"
-ogImage: "https://journal.ahima.org/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+ogImage: "/images/resources/How to Request Your Medical Records.png"
 ogSiteName: "Journal of AHIMA"
 ogDescription: "If you've never requested your medical records from your doctor or hospital before, the process can seem complicated. However, understanding the law, the requirements, and the basic steps will ease the process."
 twitterCard: "summary"
 twitterTitle: "How to Request Your Medical Records | Journal of AHIMA"
 twitterDescription: "If you've never requested your medical records from your doctor or hospital before, the process can seem complicated. However, understanding the law, the requirements, and the basic steps will ease the process."
-twitterImage: "https://journal.ahima.org/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+twitterImage: "/images/resources/How to Request Your Medical Records.png"
 breadcrumbs:
  - Home
  - News

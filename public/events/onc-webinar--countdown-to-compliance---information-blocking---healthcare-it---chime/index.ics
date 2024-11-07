@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20220915T000000
+STATUS:CONFIRMED
+UID:20220915T000000@unblockhealth.com
+DTSTART:20220915T000000
+DTEND:20220915T000000
+SUMMARY:ONC Webinar: Countdown to Compliance  Information Blocking - Healthcare IT - CHIME
+DESCRIPTION:With a three week countdown to the information blocking compliance deadline, join us for a webinar with special guest Elise Sweeney Anthony J.D., from ONC. We will be discussing what healthcare providers need to know for October 6 and beyond, as well as common misconceptions and misunderstandings regarding compliance.
+Read on chimecentral.org
+ (Info: https://chimecentral.org/event/onc-webinar-countdown-to-compliance-information-blocking/)
+LOCATION:online
+URL:<no value>http://localhost:36449/events/onc-webinar--countdown-to-compliance---information-blocking---healthcare-it---chime/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nONC Webinar: Countdown to Compliance  Information Blocking - Healthcare IT - CHIME<br>Location: online<br>With a three week countdown to the information blocking compliance deadline, join us for a webinar with special guest Elise Sweeney Anthony J.D., from ONC. We will be discussing what healthcare providers need to know for October 6 and beyond, as well as common misconceptions and misunderstandings regarding compliance.
+Read on chimecentral.org
+<br>Read more: <no value>http://localhost:36449/events/onc-webinar--countdown-to-compliance---information-blocking---healthcare-it---chime/<br>https://chimecentral.org/event/onc-webinar-countdown-to-compliance-information-blocking/\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR

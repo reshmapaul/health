@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=36449&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field</title>
+    
+    
+    <meta name="description" content="Balancing Patient Privacy with Data Access: Lessons from the Field
+The use of secure, standards-based APIs will create new, exciting opportunities for …">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    
+    <meta property="og:title" content="ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field" />
+    
+    
+    <meta property="og:description" content="Balancing Patient Privacy with Data Access: Lessons from the Field
+The use of secure, standards-based APIs will create new, exciting opportunities for …">
+    
+    <meta property="og:site_name" content="unblock.health" />
+     
+    <meta property="og:image" content="http://localhost:36449/images/resources/ONC%202020%20%20Balancing%20Patient%20Privacy%20with%20Data%20Access%20Lessons%20from%20the%20Field.png" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@unblock.health" />
+    
+    <meta name="twitter:title" content="ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field" />
+    
+    
+    <meta name="twitter:description" content="Balancing Patient Privacy with Data Access: Lessons from the Field
+The use of secure, standards-based APIs will create new, exciting opportunities for …" />
+    
+    
+    <meta property="twitter:image" content="http://localhost:36449/images/resources/ONC%202020%20%20Balancing%20Patient%20Privacy%20with%20Data%20Access%20Lessons%20from%20the%20Field.png"/>
+    
+
+    
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicons/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/design-system/2.14.2/styles/salesforce-lightning-design-system.min.css" integrity="sha512-v9eTZELqSZcRlIRltjIbpM55zkTQ9azkDAjI0IByyjHLWty1U2+CSPtnNxGpC3FFkpsKwAOfciCv4PWhW/pQGw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/styles/salesforce-lightning-custom.css">
+    
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KXR6XQ6');</script>
+    
+ 
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+
+<body id="body">
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXR6XQ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<section>
+  
+<article>  
+  <header class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+   
+   
+<article>
+    <header class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+    <div class="slds-border_bottom">
+      <div class="slds-grid slds-wrap slds-p-vertical_medium">
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_6-of-12 slds-large-size_3-of-12 slds-m-top_small">
+          <div class="slds-context-bar__icon-action">
+            <a href="/" title="Unblock Health"><img src="/images/logo-unblock-health.png" alt="Unblock Health" width="180" class="slds-m-top_xx-small" style="max-width: 180px;"></a>
+          </div>
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_6-of-12 slds-large-size_3-of-12 slds-align_absolute-end slds-m-top_small">
+          
+          <div class="slds-form-element slds-hide" style="min-width: 295px;">
+            <form id="searchsubmit" action="/search/" method="GET">
+              <div class="slds-form-element__control slds-input-has-icon slds-input-has-icon_right">
+                <input type="text" name="s" placeholder="Search" id="search-query" class="slds-input slds-p-vertical_xx-small">
+                <button id="zoomsearch" class="slds-button slds-button_icon slds-input__icon slds-input__icon_right Top_Search_Bar" title="Search">
+                  <svg class="slds-button__icon slds-icon-text-light" aria-hidden="true">
+                    <use xlink:href="/icons/utility-sprite/svg/symbols.svg#search"></use>
+                  </svg>
+                  <span class="slds-assistive-text">Search</span>
+                </button>
+              </div>
+            </form>
+  
+          </div>
+        </div>
+        <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_12-of-12 slds-large-size_6-of-12 slds-grid slds-grid_align-end slds-align-middle slds-m-top_small">
+          <div class="slds-grid slds-gutters slds-wrap slds-m-top_xx-small slds-text-align_right">
+            <div class="slds-col">
+              <ul class="slds-button-group-row">
+                <li class="slds-button-group-item slds-m-right_x-small">
+                  <a href="/individual-access-services" style="text-decoration: none;"><button class="slds-button slds-button_brand slds-p-vertical_xx-small slds-color__text_gray-1" id="individual-access-services">Individual Access Services (IAS) are here!</button></a>
+                </li>
+                <li class="slds-button-group-item slds-m-right_x-small">
+                  <a href="#." style="text-decoration: none;"><button class="slds-button slds-button_success slds-p-vertical_xx-small slds-color__text_gray-1" id="schedule-a-demo">Schedule a Demo</button></a>
+                </li>
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+  
+      <div class="slds-grid slds-grid_vertical-align-end">
+        <div class="slds-col slds-size_12-of-12">
+          
+          <div class="slds-tabs_default slds-tabs_medium slds-grid slds-grid_align-center">
+            <ul class="slds-tabs_default__nav slds-m-bottom_none slds-wrap" style="border-bottom: 0px;"><li class="slds-tabs_default__item " title="Home">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//" id="home-top-menu"><b>Home</b></a>
+                </li><li class="slds-tabs_default__item " title="About">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//about" id="about-top-menu"><b>About</b></a>
+                </li><li class="slds-tabs_default__item " title="Services">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//service" id="services-top-menu"><b>Services</b></a>
+                </li><li class="slds-tabs_default__item " title="Register">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//register" id="register-top-menu"><b>Register</b></a>
+                </li><li class="slds-tabs_default__item " title="News">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//news" id="news-top-menu"><b>News</b></a>
+                </li><li class="slds-tabs_default__item  slds-is-active " title="Press">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//press" id="press-top-menu"><b>Press</b></a>
+                </li><li class="slds-tabs_default__item " title="Events">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//events" id="events-top-menu"><b>Events</b></a>
+                </li><li class="slds-tabs_default__item " title="Blog">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//blog" id="blog-top-menu"><b>Blog</b></a>
+                </li><li class="slds-tabs_default__item " title="FAQs">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//faqs" id="faqs-top-menu"><b>FAQs</b></a>
+                </li><li class="slds-tabs_default__item " title="Patient Impact Stories">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//patient-impact-stories" id="patient-impact-stories-top-menu"><b>Patient Impact Stories</b></a>
+                </li><li class="slds-tabs_default__item " title="Resources">
+                  <a class="slds-tabs_default__link" href="http://localhost:36449//resources" id="resources-top-menu"><b>Resources</b></a>
+                </li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+    </article>
+   
+  
+     
+  </header>
+</article>  
+
+
+<main>
+<section class="slds-p-vertical_x-large">   
+  <div class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+    <aside class="slds-m-bottom_small">
+      <nav role="navigation" aria-label="Breadcrumbs">
+        <ol class="slds-breadcrumb slds-list_horizontal slds-wrap slds-m-bottom_none slds-text-body_small" style="flex-wrap: nowrap;font-size: 13px;" itemprop="itemListElement" itemscope="" itemtype="">
+          <li class="slds-breadcrumb__item">
+            <a itemprop="item" href="#."><span itemprop="name">Home</span></a>
+            <meta itemprop="position" content="1">
+          </li>
+          <li class="slds-breadcrumb__item">
+            <a itemprop="item" href="#."><span itemprop="name">Press</span></a>
+            <meta itemprop="position" content="2">
+          </li>
+          <li class="slds-breadcrumb__item slds-p-left_x-small slds-truncate">
+            ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field
+          </li>
+        </ol>
+    </nav>
+    </aside>
+    
+     
+      <div class="slds-col slds-size_1-of-1 slds-medium-size_12-of-12">
+        <img src="http://localhost:36449/images/resources/ONC%202020%20%20Balancing%20Patient%20Privacy%20with%20Data%20Access%20Lessons%20from%20the%20Field.png" alt="ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field" title="ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field" onerror="this.onerror=null; this.src='/images/noimage.jpg'" style="border-radius: 5px; width:100%; height: 400px; object-fit: cover;">
+    
+
+        <article class="slds-card slds-p-around_medium slds-container_large slds-container_center slds-curated-content" style="margin-top:-100px;">
+          <div class="slds-col slds-size_1-of-1 slds-medium-size_12-of-12 slds-m-top_xx-small">
+            <h2 class="slds-text-heading_medium slds-m-bottom_small" style="font-weight: 700; font-size: 24px;line-height: 26px;">
+              ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field
+            </h2>
+            <p class="slds-m-bottom_small slds-color__text_gray-9"><span class="slds-icon_container">
+              <svg class="slds-icon slds-icon-text-default slds-icon_xx-small slds-m-right_x-small slds-color__fill_gray-9" aria-hidden="true" style="position:relative; top:-2px;">
+              <use xlink:href="/icons/utility-sprite/svg/symbols.svg#event"></use>
+              </svg>
+              </span><time datetime="2022-08-16" style="font-size:15px;">Jan 30, 2020</time></p>
+            <aside>
+              <p><h4 id="balancing-patient-privacy-with-data-access-lessons-from-the-field">Balancing Patient Privacy with Data Access: Lessons from the Field</h4>
+<p>The use of secure, standards-based APIs will create new, exciting opportunities for patients and providers alike to share their data to improve their health. On this International #DataPrivacyDay, join a group of technologists, privacy experts, and patients for a robust discussion on balancing privacy with the expanding flow of health information.</p>
+<p>No comments, be the first one to comment this video!</p>
+<p><a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3956/onc-2020-welcome-and-opening-remarks"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_0830_Welcome.jpg" alt="Screenshot">30</a></p>
+<h5 id="onc-2020---welcome-and-opening-remarkshttpeventstvworldwidecomeventsonc-annual-meeting-2020videoid3956onc-2020-welcome-and-opening-remarks"><a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3956/onc-2020-welcome-and-opening-remarks">ONC 2020 - Welcome and Opening Remarks</a></h5>
+<p><a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3956/onc-2020-welcome-and-opening-remarks"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">Steve Posnack, Deputy National Coordinator for Health IT453 views | 2 days ago</a>[<img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_0845_UniquePatientIDs.jpg" alt="Screenshot">10</p>
+<h5 id="onc-2020---unique-perspectives-on-unique-patient-ids">ONC 2020 - Unique Perspectives on Unique Patient IDs</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">Learn about the unique advantages and disadvantages of implementing a unique patient ID (UPI) in a discussion of UPI creation, assignment, exchange, a&hellip;89 views | 2 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3955/onc-2020-unique-perspectives-on-unique-patient-ids)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_0955_CongressmanFoster.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3955/onc-2020-unique-perspectives-on-unique-patient-ids)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_0955_CongressmanFoster.jpg)10</a></p>
+<h5 id="onc-2020---congressional-perspective-on-unique-patient-ids">ONC 2020 - Congressional Perspective on Unique Patient IDs</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"> Congressman Bill Foster (IL-11)61 views | 2 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3954/onc-2020-congressional-perspective-on-unique-patient-ids)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1015_SecAzar.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3954/onc-2020-congressional-perspective-on-unique-patient-ids)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1015_SecAzar.jpg)10</a></p>
+<h5 id="onc-2020---morning-keynote-alex-m-azar-ii">ONC 2020 - Morning Keynote: Alex M. Azar, II</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"> Alex M. Azar, II, Secretary of Health and Human Services69 views | 2 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3953/onc-2020-morning-keynote-alex-m-azar-ii)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1300_TownHall.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3953/onc-2020-morning-keynote-alex-m-azar-ii)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1300_TownHall.jpg)10</a></p>
+<h5 id="onc-2020---onc-town-hall">ONC 2020 - ONC Town Hall</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"> ONC leadership is ready to take your questions!57 views | 2 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3952/onc-2020-onc-town-hall)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1345_InnovationsHIT.jpg)30">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3952/onc-2020-onc-town-hall)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200127_ONC_1345_InnovationsHIT.jpg)30</a></p>
+<h5 id="onc-2020---innovations-in-health-it">ONC 2020 - Innovations in Health IT</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">What innovations are at the forefront of healthcare? How can we better innovate to improve peoples health? Find out whats at the nexus of policy and&hellip;253 views | 2 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3951/onc-2020-innovations-in-health-it)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1000_KN_Rucker.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3951/onc-2020-innovations-in-health-it)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1000_KN_Rucker.jpg)10</a></p>
+<h5 id="onc-2020---welcome-and-morning-keynote">ONC 2020 - Welcome and Morning Keynote</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">Don Rucker, MD, National Coordinator for Health IT24 views | 3 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3958/onc-2020-welcome-and-morning-keynote)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1030_Balancing.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3958/onc-2020-welcome-and-morning-keynote)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1030_Balancing.jpg)10</a></p>
+<h5 id="onc-2020---balancing-patient-privacy-with-data-access-lessons-from-the-field">ONC 2020 - Balancing Patient Privacy with Data Access: Lessons from the Field</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">The use of secure, standards-based APIs will create new, exciting opportunities for patients and providers alike to share their data to improve their &hellip;26 views | 3 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3959/onc-2020-balancing-patient-privacy-with-data-access-lessons-from-the-field)%5B!%5BScreenshot%5D(chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1345_MergingStandards.jpg)10">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3959/onc-2020-balancing-patient-privacy-with-data-access-lessons-from-the-field)[![Screenshot](chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/onc/200128_ONC_1345_MergingStandards.jpg)10</a></p>
+<h5 id="onc-2020---merging-clinical-and-financial-standards-the-shift-to-value-and-transparency">ONC 2020 - Merging Clinical and Financial Standards: The Shift to Value and Transparency</h5>
+<p><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star"><img src="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/DesktopModules/UltraVideoGallery//images/star_solid.png" alt="star">30 views | 3 days ago](<a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3960/onc-2020-merging-clinical-and-financial-standards-the-shift-to-value-and-transparency">http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3960/onc-2020-merging-clinical-and-financial-standards-the-shift-to-value-and-transparency</a>)</p>
+<p><a href="chrome-extension://www.tvworldwide.net/Support"><strong>CLICK HERE FOR TECHNICAL SUPPORT INFORMATION</strong></a></p>
+<hr>
+<p><strong>ONC 2020 Annual Meeting<br>
+Connecting Policy and Technology: Bringing the EHR to the Patient</strong></p>
+<p><strong>LIVE WEBCAST: January 27-28, 2020</strong></p>
+<p><strong>Washington, DC</strong></p>
+<p><a href="chrome-extension://www.healthit.gov/news/events/2020-onc-annual-meeting"><strong>CLICK HERE TO VIEW THE WEBCAST AGENDA</strong></a><a href="chrome-extension://dlpbiloippbopdafhcbhmlfchfpaebkl/tvwwimages/events/50th-anniversary-symposium-agenda-with-times%20(3).pdf"></a></p>
+<hr>
+<p>The Office of the National Coordinator for Health Information Technology (ONC) will hold the 2020 Annual Meeting January 27-28, 2020 at the JW Marriott in Washington, DC. The 2-day meeting will gather approximately 1,200 health IT partners and will include a combination of plenaries and breakout sessions each day. The plenary sessions will include keynote addresses and panel discussions.</p>
+<p><a href="http://events.tvworldwide.com/Events/ONC-Annual-Meeting-2020/VideoId/3959/onc-2020-balancing-patient-privacy-with-data-access-lessons-from-the-field">Read on events.tvworldwide.com</a></p>
+</p>             
+                 
+                <hr class="slds-m-vertical_medium">
+                <div>
+                <h3 class="slds-text-title_caps slds-m-bottom_xx-small slds-color__text_gray-9"><b class="slds-text-body_small">Share</b></h3>
+                  <a href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a36449%2fpress%2fonc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field%2f" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/facebook.svg">Facebook
+                    </button></a>
+
+                    <a href="http://twitter.com/share?url=http%3a%2f%2flocalhost%3a36449%2fpress%2fonc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field%2f&amp;text=ONC%202020%20-%20Balancing%20Patient%20Privacy%20with%20Data%20Access%3a%20Lessons%20from%20the%20Field&amp;via="
+                    target="_blank"><button class="slds-button slds-button_outline-brand slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/twitter.svg" width="16" height="16">Twitter
+                  </button></a>
+                  
+                  <a href="http://www.linkedin.com/shareArticle?url=http%3a%2f%2flocalhost%3a36449%2fpress%2fonc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field%2f&amp;title=ONC%202020%20-%20Balancing%20Patient%20Privacy%20with%20Data%20Access%3a%20Lessons%20from%20the%20Field" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                    <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/linkedin.svg">Linkedin
+                  </button></a>
+      
+                    <a href="mailto:?subject=Check out this post by http%3a%2f%2flocalhost%3a36449%2fpress%2fonc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field%2f&amp;body=http%3a%2f%2flocalhost%3a36449%2fpress%2fonc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field%2f" target="_blank"><button class="slds-button slds-button_outline-brand slds-p-around_small slds-p-horizontal_small slds-p-vertical_xx-small slds-m-around_xx-small" style="height:45px;justify-content: flex-start;">
+                      <embed class="slds-button__icon slds-button__icon_left slds-icon_small" src="/images/email.svg">Email
+                      </button></a>
+
+              </div>
+          </aside>    
+        </div>
+    </article>
+
+    
+    <div class="slds-m-top_x-large">
+    <h2>Related Article</h2>
+    <article class="slds-card">
+      <div class="slds-p-around_medium slds-grid slds-wrap slds-gutters">
+          
+          <div class="slds-col slds-size_1-of-1 slds-medium-size_3-of-12 slds-large-size_2-of-12 slds-m-bottom_x-small">
+          <span class="slds-avatar" style="width: 100%; height:145px;">
+          <a href="http://localhost:36449/press/grace-cordovano/"><img src="http://localhost:36449/images/resources/Grace%20Cordovano.png" alt="" title="" style="height:145px; object-fit: cover; border-radius: 5px;" onerror="this.onerror=null; this.src='/images/noimage.jpg'"></a></span></div>
+          
+          <div class="slds-col slds-size_1-of-1 slds-medium-size_9-of-12 slds-large-size_10-of-12 slds-m-top_xx-small">
+          <h2 class="slds-text-heading_medium slds-m-bottom_small" style="font-weight: 600; font-size: 24px;line-height: 26px;">
+              
+              
+              <a href="http://localhost:36449/press/grace-cordovano/">
+                  Grace Cordovano  
+              </a>
+              </h2>
+              <aside>
+              <p class="slds-m-bottom_small" style="line-height:21px!important;">Grace Cordovano is a rare breed! She is an official Patient Advocate supporting people in navigating the complex and confusing healthcare system after they have received a cancer diagnosis.
+Read on …</p>
+              <div class="slds-clearfix">
+              <div class="slds-float_left">
+                  <p class="slds-m-bottom_xx-small slds-color__text_gray-9"><span class="slds-icon_container">
+                  <svg class="slds-icon slds-icon-text-default slds-icon_xx-small slds-m-right_x-small slds-color__fill_gray-9" aria-hidden="true" style="position:relative; top:-2px;">
+                  <use xlink:href="/icons/utility-sprite/svg/symbols.svg#event"></use>
+                  </svg>
+                  </span><time datetime="2022-08-16" style="font-size:15px;">Jan 29, 2020</time></p>
+              </div>
+              <div class="slds-float_right">
+      <div class="">
+      <a href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a36449%2fpress%2fgrace-cordovano%2f&amp;title=Grace%20Cordovano%20&amp;summary=%3cp%3eGrace%20Cordovano%20is%20a%20rare%20breed%21%20She%20is%20an%20official%20Patient%20Advocate%20supporting%20people%20in%20navigating%20the%20complex%20and%20confusing%20healthcare%20system%20after%20they%20have%20received%20a%20cancer%20diagnosis.%3c%2fp%3e%0a%3cp%3e%3ca%20href%3d%22https%3a%2f%2fhitlikeagirlpod.com%2fgrace-cordovano%2f%22%3eRead%20on%20hitlikeagirlpod.com%3c%2fa%3e%3c%2fp%3e%0a"
+      target="_blank" style="text-decoration:none;">           
+      <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+          <img src="/images/facebook.svg" class="" alt="" width="16" height="16">
+      </button>
+      </a>
+      <a href="http://twitter.com/share?url=http%3a%2f%2flocalhost%3a36449%2fpress%2fgrace-cordovano%2f&amp;text=Grace%20Cordovano%20&amp;via="
+      target="_blank" style="text-decoration:none;">
+      <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+          <img src="/images/twitter.svg" class="" alt="" width="16" height="16">
+      </button>
+      </a>
+      <a href="http://www.linkedin.com/shareArticle?url=http%3a%2f%2flocalhost%3a36449%2fpress%2fgrace-cordovano%2f&amp;title=Grace%20Cordovano%20"
+      target="_blank" style="text-decoration:none;">
+      <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+          <img src="/images/linkedin.svg" class="" width="16" height="16">
+      </button>
+      </a>
+      <a href="mailto:?subject=Check out this post by &amp;body=http%3a%2f%2flocalhost%3a36449%2fpress%2fgrace-cordovano%2f"
+      target="_blank" style="text-decoration:none;">
+      <button class="slds-button slds-button_outline-brand slds-p-around_x-small slds-m-right_xx-small" title="">
+          <img src="/images/email.svg" class="" alt="" width="16" height="16">
+      </button>
+      </a>         
+      </div>
+              </div>
+              </div>
+          </aside>    
+          </div>
+      </div>
+      </article>
+    </div>
+    
+
+  </div>
+</section>
+</main>
+
+
+
+
+
+
+
+
+<footer class="slds-p-vertical_large slds-border_top" style="background: #2a416a; border-top: 10px solid #6c8ecc; color: #6c8ecc;">
+    <div class="slds-container_x-large slds-container_center slds-p-left_small slds-p-right_small">
+      <input type="hidden" name="searchKeyValue" value="" id="searchKeyValue">
+      <article class="slds-p-top_large slds-p-bottom_large">
+        <div class="slds-m-bottom_small slds-m-top_large">
+          <div class="slds-grid slds-gutters slds-wrap slds-align_absolute-center">
+            <div class="slds-col slds-size_1-of-1 slds-small-size_6-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12">
+              <p class="slds-m-bottom_x-large">
+                <a href="/"><img src="/images/logo-footer.png" alt="" title="" width="170" height="41"></a>
+              </p>
+              <p class="slds-text-body_small" style="color: #6c8ecc;">
+                Unblock Health rejects traditional barriers to patient health information. We empower patients to play an active role in their care and help HIM professionals deliver a positive experience.
+              </p>
+              <hr class="slds-m-top_x-large slds-m-bottom_x-large" style="height: 0px; border-color: #6c8ecc;">
+  
+              <p class="slds-text-align_center" style="color: #6c8ecc;"><b>Founded by</b></p>
+              <div class="slds-grid slds-grid_align-center">
+                <div class="slds-clearfix slds-m-bottom_xx-small">
+                  <div class="slds-float_left non-authenticated-section slds-text-align_center slds-m-horizontal_small">
+                    <span class="slds-avatar slds-avatar_circle slds-avatar_large slds-color__background_gray-1">
+                      <img alt="Grace" src="/images/grace.png" title="Grace">
+                    </span>
+                    <p class="slds-m-top_xx-small slds-text-body_small"><a href="https://www.linkedin.com/in/gcordovano/" style="color:#6c8ecc;" target="_blank" title="Link to shahidshah.com"><i>@GraceCordovano</i></a></p>
+                  </div>
+                  <div class="slds-float_left non-authenticated-section slds-text-align_center slds-m-horizontal_small">
+                    <span class="slds-avatar slds-avatar_circle slds-avatar_large slds-color__background_gray-1">
+                      <img alt="Shahid Sha" src="/images/shahid-sha.png" title="Shahid Sha">
+                    </span>
+                    <p class="slds-m-top_xx-small slds-text-body_small"><a href="https://www.linkedin.com/in/shahidshah/" style="color:#6c8ecc;" target="_blank" title="Link to shahidshah.com"><i>@ShahidNShah</i></a></p>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="slds-col slds-size_1-of-1 slds-small-size_6-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12 twitter-feed slds-hide">
+              <h3 class="slds-text-heading_medium slds-m-bottom_large" style="font-size: 24px; font-weight: 400; line-height: 24px;color: #6c8ecc;"><a href="https://www.twitter.com/hashtag/UnblockHealth" target="_blank">#UnblockHealth</a>                
+              </h3>
+              <p>
+                
+              </p>
+              <div id="twitter_feed">
+              <div class="demo-only twitter-loader slds-hide" style="height:6rem;position:relative">
+                <div class="slds-spinner_container slds-hide" style="background-color: transparent!important;">
+                  <div role="status" class="slds-spinner slds-spinner_medium slds-spinner_brand" style="left: 20% !important;">
+                    <span class="slds-assistive-text">Loading</span>
+                    <div class="slds-spinner__dot-a"></div>
+                    <div class="slds-spinner__dot-b"></div>
+                  </div>
+                </div>
+              </div>
+              </div>
+              
+            </div>
+            <div class="slds-col slds-size_1-of-1 slds-small-size_12-of-12 slds-medium-size_4-of-12 slds-large-size_4-of-12">
+              <h3 class="slds-text-heading_medium medium" style="font-size: 24px; font-weight: 400; color: #6c8ecc;">
+                Contact Us
+              </h3>
+              <aside>
+                <form method="POST" name="contactform" id="contactform">
+                  <div class="slds-form-element">
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="text" name="Name" id="quickname" placeholder="Name*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="email" name="Email" id="quickemail" placeholder="Email Address*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <input type="text" name="Subject" id="quicksubject" placeholder="Subject*" class="slds-input slds-p-vertical_x-small" required/>
+                    </div>
+                    <div class="slds-form-element__control slds-m-bottom_medium">
+                      <textarea name="Message" id="quickmessage" placeholder="Message*" class="slds-input slds-p-vertical_x-small" style="min-height:138px;" required></textarea>
+                    </div>
+                    <input type="hidden" name="_subject" value="[UnBlock Health] - Contact Form Submission" />
+                    <button id="contact-submit"  class="g-recaptcha slds-button slds-button_brand slds-button_stretch slds-p-vertical_small slds-p-horizontal_medium slds-color__text_gray-1" data-sitekey="6LcEYS0qAAAAACChUxV8_ayeIPJ9hXvJmfmn3ivT"  data-callback="verifyCallback0"  data-size="invisible">
+                      <span class="slds-text-body_small slds-text-title_caps slds-color__text_gray-1"><b>Send</b></span></button>
+                      <div class="slds-form-element__control slds-m-bottom_medium slds-text-body_small slds-text-align_center slds-m-top_medium">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy" target="_blank" class="text-blue-600" style="color: #aac1eb;">Privacy Policy</a> and <a href="https://policies.google.com/terms" target="_blank" class="text-blue-600" style="color: #aac1eb;">Terms of Service</a> apply.</div>
+                  </div>
+                  </form>
+                  <div id="successfooter" style="display:none;">
+                            
+                  </div>
+                  <div id="errorfooter" style="display:none;">
+                     
+                  </div>
+              </aside>
+              
+            </div>
+          </div>
+        </div>
+      </article>
+      <hr class="slds-color__border_gray-8 slds-m-top_small slds-m-bottom_large" style="height: 0px; border-color: #6c8ecc!important;">
+      <article class="slds-text-align_center slds-p-top_small slds-p-bottom_x-large">
+        <aside>
+          <ul class="slds-grid slds-grid_align-center slds-list_horizontal slds-has-inline-block-links slds-text-heading_small" style="font-size:18px;flex-wrap: wrap;"><li><a href="http://localhost:36449//" id ="home" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Home</b></a></li><li><a href="http://localhost:36449//about" id ="about" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>About</b></a></li><li><a href="http://localhost:36449//service" id ="services" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Services</b></a></li><li><a href="http://localhost:36449//register" id ="register" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Register</b></a></li><li><a href="http://localhost:36449//sitemap" id ="sitemap" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Sitemap</b></a></li><li><a href="http://localhost:36449//privacy-policy" id ="privacy-policy" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Privacy Policy</b></a></li><li><a href="http://localhost:36449//terms-and-conditions" id ="terms-and-conditions" class="slds-p-horizontal_small slds-p-vertical_xx-small" style="color: #6c8ecc;"><b>Terms and Conditions</b></a></li></ul>
+          </aside>
+        
+        <p class="slds-text-body_small" style="line-height: 18px; color: #6c8ecc;">
+          Comprehensive Healthcare Suite of Patient Advocacy Services Designed for Patients and Consumers - Unblock Health | Copyright © 2024. All Rights Reserved.
+        </p>
+  
+      </article>
+    </div> 
+  </footer>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script>
+$(document).ready(function () {
+$("#register-btn").click(function(){
+  window.location.href="/register";
+});
+$("#schedule-a-demo").click(function(){
+  window.location.href="https://webinar.unblock.health/free-trial";
+});
+});
+</script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="http://localhost:36449/js/jquery.validate.min.js"></script>
+<script src="http://localhost:36449/js/jquery.form.js"></script>
+<script src="http://localhost:36449/js/main-new.js"></script>
+</section> 
+
+</body>
+</html>

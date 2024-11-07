@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20230810T000000
+STATUS:CONFIRMED
+UID:20230810T000000@unblockhealth.com
+DTSTART:20230810T000000
+DTEND:20230813T000000
+SUMMARY:forum.defcon.org
+DESCRIPTION:A community for Hackers, Researchers, DEF CON Groups, and anyone looking to explore the world of security.
+Read on forum.defcon.org
+ (Info: https://forum.defcon.org/node/243763)
+LOCATION:Las Vegas
+URL:<no value>http://localhost:36449/events/forum-defcon-org/
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
+ N""><HTML><BODY>\nforum.defcon.org<br>Location: Las Vegas<br>A community for Hackers, Researchers, DEF CON Groups, and anyone looking to explore the world of security.
+Read on forum.defcon.org
+<br>Read more: <no value>http://localhost:36449/events/forum-defcon-org/<br>https://forum.defcon.org/node/243763\n</BODY></HTML>
+END:VEVENT
+END:VCALENDAR
