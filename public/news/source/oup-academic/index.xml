@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OUP Academic on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/oup-academic/</link>
+    <link>http://localhost:1313/news/source/oup-academic/</link>
     <description>Recent content in OUP Academic on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jan 2022 03:26:09 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/oup-academic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/oup-academic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>role of electronic health record developers in hospital patient sharing</title>
-      <link>http://localhost:36449/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</link>
+      <link>http://localhost:1313/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</link>
       <pubDate>Wed, 05 Jan 2022 03:26:09 +0000</pubDate>
-      <guid>http://localhost:36449/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</guid>
+      <guid>http://localhost:1313/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</guid>
       <description>We identify a systematic concentration in patient sharing between hospitals in different healthcare networks that switch to the same EHR developer. The change in transfer and referral patterns occurs immediately after the focal hospital switches EHR developers, which suggests it could be due to technical attributes of the new EHR system, rather than a shift in providers preferences for hospitals based on their quality of care. Future research is needed to determine whether increased patient sharing among hospitals with the same EHR developer adversely affects patient outcomes</description>
     </item>
   </channel>

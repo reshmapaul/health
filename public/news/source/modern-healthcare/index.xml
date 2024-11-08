@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modern Healthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/modern-healthcare/</link>
+    <link>http://localhost:1313/news/source/modern-healthcare/</link>
     <description>Recent content in Modern Healthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Mar 2020 14:14:57 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/modern-healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/modern-healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HHS releases final interoperability rules</title>
-      <link>http://localhost:36449/news/hhs-releases-final-interoperability-rules/</link>
+      <link>http://localhost:1313/news/hhs-releases-final-interoperability-rules/</link>
       <pubDate>Mon, 09 Mar 2020 14:14:57 +0000</pubDate>
-      <guid>http://localhost:36449/news/hhs-releases-final-interoperability-rules/</guid>
+      <guid>http://localhost:1313/news/hhs-releases-final-interoperability-rules/</guid>
       <description>&amp;ldquo;From the start of our efforts to put patients and value at the center of our healthcare system, we&amp;rsquo;ve been clear: Patients should have control of their records, period. Now that&amp;rsquo;s becoming a reality,&amp;rdquo; HHS Secretary Alex Azar said in a statement. &amp;ldquo;These rules are the start of a new chapter in how patients experience American healthcare, opening up countless new opportunities for them to improve their own health, find the providers that meet their needs, and drive quality through greater coordination.</description>
     </item>
     <item>
       <title>Florida provider to pay $85K fine for not sharing timely patient records</title>
-      <link>http://localhost:36449/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</link>
+      <link>http://localhost:1313/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</link>
       <pubDate>Mon, 16 Dec 2019 03:34:57 +0000</pubDate>
-      <guid>http://localhost:36449/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</guid>
+      <guid>http://localhost:1313/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</guid>
       <description>The fine marks the second settlement HHS&amp;rsquo; Office for Civil Rights has announced as part of its Right of Access Initiative, an effort the agency launched earlier this year to ensure patients have access to their medical records as mandated under HIPAA.&#xA;Read on modernhealthcare.com</description>
     </item>
   </channel>

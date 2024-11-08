@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medscape on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/medscape/</link>
+    <link>http://localhost:1313/news/source/medscape/</link>
     <description>Recent content in Medscape on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jun 2023 18:16:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/medscape/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/medscape/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reconnecting With Patients to &#39;Rediscover Joy of Oncology&#39;</title>
-      <link>http://localhost:36449/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</link>
+      <link>http://localhost:1313/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</link>
       <pubDate>Tue, 06 Jun 2023 18:16:13 +0000</pubDate>
-      <guid>http://localhost:36449/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</guid>
+      <guid>http://localhost:1313/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</guid>
       <description>Oncologists are facing burnout in ever-greater numbers as overwhelming nonclinical demands are preventing them from reconnecting with patients in a meaningful manner, say leading experts.&#xA;Read on medscape.com</description>
     </item>
     <item>
       <title>What Will It Take to Cure EHR Note Bloat?</title>
-      <link>http://localhost:36449/news/what-will-it-take-to-cure-ehr-note-bloat/</link>
+      <link>http://localhost:1313/news/what-will-it-take-to-cure-ehr-note-bloat/</link>
       <pubDate>Wed, 01 Jun 2022 17:32:08 +0000</pubDate>
-      <guid>http://localhost:36449/news/what-will-it-take-to-cure-ehr-note-bloat/</guid>
+      <guid>http://localhost:1313/news/what-will-it-take-to-cure-ehr-note-bloat/</guid>
       <description>I reached out to Kaiser Permanente and received an email from Ken Robinson, MD, the physician lead for Systems Solutions &amp;amp; Deployment at Kaiser Permanente Southern California. He explained how they improved their system after asking the hard questions.&amp;ldquo;We learned that not all organizations require password authorization,&amp;rdquo; he said, a fact that was met with initial skepticism and even alarm by many in the organization. But they investigated the regulatory situation and found no compelling reason to keep password authorization for most order entry needs.</description>
     </item>
     <item>
       <title>&#39;Doctor, I&#39;d Like You to Change My Medical Record&#39;</title>
-      <link>http://localhost:36449/news/doctor--i-d-like-you-to-change-my-medical-record/</link>
+      <link>http://localhost:1313/news/doctor--i-d-like-you-to-change-my-medical-record/</link>
       <pubDate>Fri, 10 Dec 2021 02:56:06 +0000</pubDate>
-      <guid>http://localhost:36449/news/doctor--i-d-like-you-to-change-my-medical-record/</guid>
+      <guid>http://localhost:1313/news/doctor--i-d-like-you-to-change-my-medical-record/</guid>
       <description>In the UMHS study, requests to expunge correct information represented just a sliver of patients&amp;rsquo; total requests. The requests amounted to 6.6% of all requests, whereas 77.8% of requests involved real errors or omissions, according to the investigators. Of the valid requests, only about half were approved meaning that doctors in the UMHS study denied a large number of legitimate requests.&#xA;Read on medscape.com</description>
     </item>
     <item>
       <title>&#39;You Have Cancer&#39;: When the Computer Pre-empts the Doctor</title>
-      <link>http://localhost:36449/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</link>
+      <link>http://localhost:1313/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</link>
       <pubDate>Sat, 14 Aug 2021 14:59:50 +0000</pubDate>
-      <guid>http://localhost:36449/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</guid>
+      <guid>http://localhost:1313/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</guid>
       <description>Discovering that you have cancer usually takes place in a doctor&amp;rsquo;s office &amp;ndash; but not anymore. Now that patients have immediate access to clinical notes, some learn of their diagnosis electronically.&#xA;Read on medscape.com</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/nature/</link>
+    <link>http://localhost:1313/news/source/nature/</link>
     <description>Recent content in Nature on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Mar 2022 17:38:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/nature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Synthetic data in machine learning for medicine and healthcare - Nature Biomedical Engineering</title>
-      <link>http://localhost:36449/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</link>
+      <link>http://localhost:1313/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</link>
       <pubDate>Thu, 10 Mar 2022 17:38:54 +0000</pubDate>
-      <guid>http://localhost:36449/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</guid>
+      <guid>http://localhost:1313/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</guid>
       <description>The proliferation of synthetic data in artificial intelligence for medicine and healthcare raises concerns about the vulnerabilities of the software and the challenges of current policy.&#xA;Read on nature.com</description>
     </item>
   </channel>

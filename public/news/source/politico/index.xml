@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>POLITICO on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/politico/</link>
+    <link>http://localhost:1313/news/source/politico/</link>
     <description>Recent content in POLITICO on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2020 14:17:39 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/politico/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/politico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health care data-sharing rules touch off intense lobbying fight</title>
-      <link>http://localhost:36449/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</link>
+      <link>http://localhost:1313/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</link>
       <pubDate>Fri, 17 Jan 2020 14:17:39 +0000</pubDate>
-      <guid>http://localhost:36449/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</guid>
+      <guid>http://localhost:1313/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</guid>
       <description>The proposed rules, currently under White House review, would allow patients to access their health information and share it with third-party apps, require hospitals to send notifications of admits, discharges or transfers, penalize information blocking and allow researchers and doctors to share screenshots of software to promote safety.Story Continued Below&#xA;Read on politico.com</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boing Boing on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/boing-boing/</link>
+    <link>http://localhost:1313/news/source/boing-boing/</link>
     <description>Recent content in Boing Boing on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Dec 2019 14:18:45 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/boing-boing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/boing-boing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abbott Labs kills free tool that lets you own the blood-sugar data from your glucose monitor, saying it violates copyright law</title>
-      <link>http://localhost:36449/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</link>
+      <link>http://localhost:1313/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</link>
       <pubDate>Mon, 16 Dec 2019 14:18:45 +0000</pubDate>
-      <guid>http://localhost:36449/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</guid>
+      <guid>http://localhost:1313/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</guid>
       <description>Glucose monitors and insulin pumps are, effectively, prostheses: artificial organs that are basically parts of your body. Abbott&amp;rsquo;s position is that they own part of your body and you can only use it in ways that don&amp;rsquo;t upset their shareholders. This is an outrageous position. I mean, forget all the bullshit about whether your blood is copyrighted and if so, by whom &amp;ndash; they&amp;rsquo;re saying that your organs are copyrighted works whose usage is subject to the whims of a white-shoe law firm that is prepared to delete your code and send you a bowel-looseningly terrifying legal threat any time you dare to assert your bodily autonomy.</description>
     </item>
   </channel>

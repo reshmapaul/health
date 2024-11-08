@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CancerX on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/cancerx/</link>
+    <link>http://localhost:1313/news/source/cancerx/</link>
     <description>Recent content in CancerX on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jun 2023 19:40:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/cancerx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/cancerx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Founding Members</title>
-      <link>http://localhost:36449/news/founding-members/</link>
+      <link>http://localhost:1313/news/founding-members/</link>
       <pubDate>Tue, 06 Jun 2023 19:40:51 +0000</pubDate>
-      <guid>http://localhost:36449/news/founding-members/</guid>
+      <guid>http://localhost:1313/news/founding-members/</guid>
       <description>Founding members drive the success of CancerX to set priorities and practices that will help us harness the full power of innovation.&#xA;Read on cancerx.health</description>
     </item>
   </channel>

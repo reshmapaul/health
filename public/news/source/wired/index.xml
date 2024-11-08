@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wired on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/wired/</link>
+    <link>http://localhost:1313/news/source/wired/</link>
     <description>Recent content in Wired on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jun 2022 16:47:15 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/wired/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/wired/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Its Time to Burn Medical Consent Forms</title>
-      <link>http://localhost:36449/news/it-s-time-to-burn-medical-consent-forms/</link>
+      <link>http://localhost:1313/news/it-s-time-to-burn-medical-consent-forms/</link>
       <pubDate>Mon, 20 Jun 2022 16:47:15 +0000</pubDate>
-      <guid>http://localhost:36449/news/it-s-time-to-burn-medical-consent-forms/</guid>
+      <guid>http://localhost:1313/news/it-s-time-to-burn-medical-consent-forms/</guid>
       <description>If we frame consent not as a bureaucratic speed bump, but as the first step in a trusted relationship between patients and researchers, the goal shifts. Instead of thinking about how to build an assembly line of consent forms, we start thinking about how to enrich relationships.&#xA;Read on wired.com</description>
     </item>
     <item>
       <title>Health Officials Say &#39;No Thanks&#39; to Contact-Tracing Tech</title>
-      <link>http://localhost:36449/news/health-officials-say--no-thanks--to-contact-tracing-tech/</link>
+      <link>http://localhost:1313/news/health-officials-say--no-thanks--to-contact-tracing-tech/</link>
       <pubDate>Sat, 16 May 2020 17:00:21 +0000</pubDate>
-      <guid>http://localhost:36449/news/health-officials-say--no-thanks--to-contact-tracing-tech/</guid>
+      <guid>http://localhost:1313/news/health-officials-say--no-thanks--to-contact-tracing-tech/</guid>
       <description>Silicon Valley companies have proposed automating the arduous task of identifying people potentially exposed to Covid-19. They&amp;rsquo;re finding few takers.&#xA;Read on wired.com</description>
     </item>
   </channel>

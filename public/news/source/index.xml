@@ -2,647 +2,647 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/</link>
+    <link>http://localhost:1313/news/source/</link>
     <description>Recent content in Source on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Sep 2023 11:58:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DirectTrust</title>
-      <link>http://localhost:36449/news/source/directtrust/</link>
+      <link>http://localhost:1313/news/source/directtrust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/directtrust/</guid>
+      <guid>http://localhost:1313/news/source/directtrust/</guid>
       <description></description>
     </item>
     <item>
       <title>CommonWell Health Alliance</title>
-      <link>http://localhost:36449/news/source/commonwell-health-alliance/</link>
+      <link>http://localhost:1313/news/source/commonwell-health-alliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/commonwell-health-alliance/</guid>
+      <guid>http://localhost:1313/news/source/commonwell-health-alliance/</guid>
       <description></description>
     </item>
     <item>
       <title>WSJ</title>
-      <link>http://localhost:36449/news/source/wsj/</link>
+      <link>http://localhost:1313/news/source/wsj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/wsj/</guid>
+      <guid>http://localhost:1313/news/source/wsj/</guid>
       <description></description>
     </item>
     <item>
       <title>STAT</title>
-      <link>http://localhost:36449/news/source/stat/</link>
+      <link>http://localhost:1313/news/source/stat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/stat/</guid>
+      <guid>http://localhost:1313/news/source/stat/</guid>
       <description></description>
     </item>
     <item>
       <title>Fierce Healthcare</title>
-      <link>http://localhost:36449/news/source/fierce-healthcare/</link>
+      <link>http://localhost:1313/news/source/fierce-healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/fierce-healthcare/</guid>
+      <guid>http://localhost:1313/news/source/fierce-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Federal Trade Commission</title>
-      <link>http://localhost:36449/news/source/federal-trade-commission/</link>
+      <link>http://localhost:1313/news/source/federal-trade-commission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/federal-trade-commission/</guid>
+      <guid>http://localhost:1313/news/source/federal-trade-commission/</guid>
       <description></description>
     </item>
     <item>
       <title>The Sequoia Project</title>
-      <link>http://localhost:36449/news/source/the-sequoia-project/</link>
+      <link>http://localhost:1313/news/source/the-sequoia-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-sequoia-project/</guid>
+      <guid>http://localhost:1313/news/source/the-sequoia-project/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare Innovation</title>
-      <link>http://localhost:36449/news/source/healthcare-innovation/</link>
+      <link>http://localhost:1313/news/source/healthcare-innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-innovation/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>http://localhost:36449/news/source/youtube/</link>
+      <link>http://localhost:1313/news/source/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/youtube/</guid>
+      <guid>http://localhost:1313/news/source/youtube/</guid>
       <description></description>
     </item>
     <item>
       <title>CancerX</title>
-      <link>http://localhost:36449/news/source/cancerx/</link>
+      <link>http://localhost:1313/news/source/cancerx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/cancerx/</guid>
+      <guid>http://localhost:1313/news/source/cancerx/</guid>
       <description></description>
     </item>
     <item>
       <title>Medscape</title>
-      <link>http://localhost:36449/news/source/medscape/</link>
+      <link>http://localhost:1313/news/source/medscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/medscape/</guid>
+      <guid>http://localhost:1313/news/source/medscape/</guid>
       <description></description>
     </item>
     <item>
       <title>Health IT Buzz</title>
-      <link>http://localhost:36449/news/source/health-it-buzz/</link>
+      <link>http://localhost:1313/news/source/health-it-buzz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/health-it-buzz/</guid>
+      <guid>http://localhost:1313/news/source/health-it-buzz/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare IT Today | Fresh, Daily, Practical Healthcare IT Insights</title>
-      <link>http://localhost:36449/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</link>
+      <link>http://localhost:1313/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</guid>
       <description></description>
     </item>
     <item>
       <title>American Medical Association</title>
-      <link>http://localhost:36449/news/source/american-medical-association/</link>
+      <link>http://localhost:1313/news/source/american-medical-association/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/american-medical-association/</guid>
+      <guid>http://localhost:1313/news/source/american-medical-association/</guid>
       <description></description>
     </item>
     <item>
       <title>HHS.gov</title>
-      <link>http://localhost:36449/news/source/hhs.gov/</link>
+      <link>http://localhost:1313/news/source/hhs.gov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/hhs.gov/</guid>
+      <guid>http://localhost:1313/news/source/hhs.gov/</guid>
       <description></description>
     </item>
     <item>
       <title>MedicalEconomics</title>
-      <link>http://localhost:36449/news/source/medicaleconomics/</link>
+      <link>http://localhost:1313/news/source/medicaleconomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/medicaleconomics/</guid>
+      <guid>http://localhost:1313/news/source/medicaleconomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Economics</title>
-      <link>http://localhost:36449/news/source/medical-economics/</link>
+      <link>http://localhost:1313/news/source/medical-economics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/medical-economics/</guid>
+      <guid>http://localhost:1313/news/source/medical-economics/</guid>
       <description></description>
     </item>
     <item>
       <title>American Hospital Association</title>
-      <link>http://localhost:36449/news/source/american-hospital-association/</link>
+      <link>http://localhost:1313/news/source/american-hospital-association/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/american-hospital-association/</guid>
+      <guid>http://localhost:1313/news/source/american-hospital-association/</guid>
       <description></description>
     </item>
     <item>
       <title>HealthPopuli.com</title>
-      <link>http://localhost:36449/news/source/healthpopuli.com/</link>
+      <link>http://localhost:1313/news/source/healthpopuli.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthpopuli.com/</guid>
+      <guid>http://localhost:1313/news/source/healthpopuli.com/</guid>
       <description></description>
     </item>
     <item>
       <title>ONC TEFCA RCE</title>
-      <link>http://localhost:36449/news/source/onc-tefca-rce/</link>
+      <link>http://localhost:1313/news/source/onc-tefca-rce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/onc-tefca-rce/</guid>
+      <guid>http://localhost:1313/news/source/onc-tefca-rce/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare Dive</title>
-      <link>http://localhost:36449/news/source/healthcare-dive/</link>
+      <link>http://localhost:1313/news/source/healthcare-dive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-dive/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-dive/</guid>
       <description></description>
     </item>
     <item>
       <title>4sight Health</title>
-      <link>http://localhost:36449/news/source/4sight-health/</link>
+      <link>http://localhost:1313/news/source/4sight-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/4sight-health/</guid>
+      <guid>http://localhost:1313/news/source/4sight-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Policy &amp; Medicine</title>
-      <link>http://localhost:36449/news/source/policy--medicine/</link>
+      <link>http://localhost:1313/news/source/policy--medicine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/policy--medicine/</guid>
+      <guid>http://localhost:1313/news/source/policy--medicine/</guid>
       <description></description>
     </item>
     <item>
       <title>MedCity News</title>
-      <link>http://localhost:36449/news/source/medcity-news/</link>
+      <link>http://localhost:1313/news/source/medcity-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/medcity-news/</guid>
+      <guid>http://localhost:1313/news/source/medcity-news/</guid>
       <description></description>
     </item>
     <item>
       <title>PatientEngagementHIT</title>
-      <link>http://localhost:36449/news/source/patientengagementhit/</link>
+      <link>http://localhost:1313/news/source/patientengagementhit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/patientengagementhit/</guid>
+      <guid>http://localhost:1313/news/source/patientengagementhit/</guid>
       <description></description>
     </item>
     <item>
       <title>GlobeNewswire News Room</title>
-      <link>http://localhost:36449/news/source/globenewswire-news-room/</link>
+      <link>http://localhost:1313/news/source/globenewswire-news-room/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/globenewswire-news-room/</guid>
+      <guid>http://localhost:1313/news/source/globenewswire-news-room/</guid>
       <description></description>
     </item>
     <item>
       <title>HealthITSecurity</title>
-      <link>http://localhost:36449/news/source/healthitsecurity/</link>
+      <link>http://localhost:1313/news/source/healthitsecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthitsecurity/</guid>
+      <guid>http://localhost:1313/news/source/healthitsecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Forbes</title>
-      <link>http://localhost:36449/news/source/forbes/</link>
+      <link>http://localhost:1313/news/source/forbes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/forbes/</guid>
+      <guid>http://localhost:1313/news/source/forbes/</guid>
       <description></description>
     </item>
     <item>
       <title>Ad Law Access</title>
-      <link>http://localhost:36449/news/source/ad-law-access/</link>
+      <link>http://localhost:1313/news/source/ad-law-access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/ad-law-access/</guid>
+      <guid>http://localhost:1313/news/source/ad-law-access/</guid>
       <description></description>
     </item>
     <item>
       <title>NBC News</title>
-      <link>http://localhost:36449/news/source/nbc-news/</link>
+      <link>http://localhost:1313/news/source/nbc-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/nbc-news/</guid>
+      <guid>http://localhost:1313/news/source/nbc-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Health IT Answers</title>
-      <link>http://localhost:36449/news/source/health-it-answers/</link>
+      <link>http://localhost:1313/news/source/health-it-answers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/health-it-answers/</guid>
+      <guid>http://localhost:1313/news/source/health-it-answers/</guid>
       <description></description>
     </item>
     <item>
       <title>CNBC</title>
-      <link>http://localhost:36449/news/source/cnbc/</link>
+      <link>http://localhost:1313/news/source/cnbc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/cnbc/</guid>
+      <guid>http://localhost:1313/news/source/cnbc/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare IT News</title>
-      <link>http://localhost:36449/news/source/healthcare-it-news/</link>
+      <link>http://localhost:1313/news/source/healthcare-it-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-it-news/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-it-news/</guid>
       <description></description>
     </item>
     <item>
       <title>FamJustice</title>
-      <link>http://localhost:36449/news/source/famjustice/</link>
+      <link>http://localhost:1313/news/source/famjustice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/famjustice/</guid>
+      <guid>http://localhost:1313/news/source/famjustice/</guid>
       <description></description>
     </item>
     <item>
       <title>Wired</title>
-      <link>http://localhost:36449/news/source/wired/</link>
+      <link>http://localhost:1313/news/source/wired/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/wired/</guid>
+      <guid>http://localhost:1313/news/source/wired/</guid>
       <description></description>
     </item>
     <item>
       <title>Axios</title>
-      <link>http://localhost:36449/news/source/axios/</link>
+      <link>http://localhost:1313/news/source/axios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/axios/</guid>
+      <guid>http://localhost:1313/news/source/axios/</guid>
       <description></description>
     </item>
     <item>
       <title>EHRIntelligence</title>
-      <link>http://localhost:36449/news/source/ehrintelligence/</link>
+      <link>http://localhost:1313/news/source/ehrintelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/ehrintelligence/</guid>
+      <guid>http://localhost:1313/news/source/ehrintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:36449/news/source/nature/</link>
+      <link>http://localhost:1313/news/source/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/nature/</guid>
+      <guid>http://localhost:1313/news/source/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Enlightening Results</title>
-      <link>http://localhost:36449/news/source/enlightening-results/</link>
+      <link>http://localhost:1313/news/source/enlightening-results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/enlightening-results/</guid>
+      <guid>http://localhost:1313/news/source/enlightening-results/</guid>
       <description></description>
     </item>
     <item>
       <title>OUP Academic</title>
-      <link>http://localhost:36449/news/source/oup-academic/</link>
+      <link>http://localhost:1313/news/source/oup-academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/oup-academic/</guid>
+      <guid>http://localhost:1313/news/source/oup-academic/</guid>
       <description></description>
     </item>
     <item>
       <title>The BMJ</title>
-      <link>http://localhost:36449/news/source/the-bmj/</link>
+      <link>http://localhost:1313/news/source/the-bmj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-bmj/</guid>
+      <guid>http://localhost:1313/news/source/the-bmj/</guid>
       <description></description>
     </item>
     <item>
       <title>Association of Health Care Journalists</title>
-      <link>http://localhost:36449/news/source/association-of-health-care-journalists/</link>
+      <link>http://localhost:1313/news/source/association-of-health-care-journalists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/association-of-health-care-journalists/</guid>
+      <guid>http://localhost:1313/news/source/association-of-health-care-journalists/</guid>
       <description></description>
     </item>
     <item>
       <title>U.S. Food and Drug Administration</title>
-      <link>http://localhost:36449/news/source/u.s.-food-and-drug-administration/</link>
+      <link>http://localhost:1313/news/source/u.s.-food-and-drug-administration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/u.s.-food-and-drug-administration/</guid>
+      <guid>http://localhost:1313/news/source/u.s.-food-and-drug-administration/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal of AHIMA</title>
-      <link>http://localhost:36449/news/source/journal-of-ahima/</link>
+      <link>http://localhost:1313/news/source/journal-of-ahima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/journal-of-ahima/</guid>
+      <guid>http://localhost:1313/news/source/journal-of-ahima/</guid>
       <description></description>
     </item>
     <item>
       <title>SC Media</title>
-      <link>http://localhost:36449/news/source/sc-media/</link>
+      <link>http://localhost:1313/news/source/sc-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/sc-media/</guid>
+      <guid>http://localhost:1313/news/source/sc-media/</guid>
       <description></description>
     </item>
     <item>
       <title>National Institutes of Health (NIH)</title>
-      <link>http://localhost:36449/news/source/national-institutes-of-health-nih/</link>
+      <link>http://localhost:1313/news/source/national-institutes-of-health-nih/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/national-institutes-of-health-nih/</guid>
+      <guid>http://localhost:1313/news/source/national-institutes-of-health-nih/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare and IT Marketing Community | a Community for and by Healthcare Marketers</title>
-      <link>http://localhost:36449/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</link>
+      <link>http://localhost:1313/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</guid>
       <description></description>
     </item>
     <item>
       <title>The National Law Review</title>
-      <link>http://localhost:36449/news/source/the-national-law-review/</link>
+      <link>http://localhost:1313/news/source/the-national-law-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-national-law-review/</guid>
+      <guid>http://localhost:1313/news/source/the-national-law-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Cbs8.com</title>
-      <link>http://localhost:36449/news/source/cbs8.com/</link>
+      <link>http://localhost:1313/news/source/cbs8.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/cbs8.com/</guid>
+      <guid>http://localhost:1313/news/source/cbs8.com/</guid>
       <description></description>
     </item>
     <item>
       <title>MarketWatch</title>
-      <link>http://localhost:36449/news/source/marketwatch/</link>
+      <link>http://localhost:1313/news/source/marketwatch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/marketwatch/</guid>
+      <guid>http://localhost:1313/news/source/marketwatch/</guid>
       <description></description>
     </item>
     <item>
       <title>Medium</title>
-      <link>http://localhost:36449/news/source/medium/</link>
+      <link>http://localhost:1313/news/source/medium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/medium/</guid>
+      <guid>http://localhost:1313/news/source/medium/</guid>
       <description></description>
     </item>
     <item>
       <title>Health Evolution</title>
-      <link>http://localhost:36449/news/source/health-evolution/</link>
+      <link>http://localhost:1313/news/source/health-evolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/health-evolution/</guid>
+      <guid>http://localhost:1313/news/source/health-evolution/</guid>
       <description></description>
     </item>
     <item>
       <title>BuzzFeed News</title>
-      <link>http://localhost:36449/news/source/buzzfeed-news/</link>
+      <link>http://localhost:1313/news/source/buzzfeed-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/buzzfeed-news/</guid>
+      <guid>http://localhost:1313/news/source/buzzfeed-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Paddy Padmanabhan</title>
-      <link>http://localhost:36449/news/source/paddy-padmanabhan/</link>
+      <link>http://localhost:1313/news/source/paddy-padmanabhan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/paddy-padmanabhan/</guid>
+      <guid>http://localhost:1313/news/source/paddy-padmanabhan/</guid>
       <description></description>
     </item>
     <item>
       <title>HealthPayerIntelligence</title>
-      <link>http://localhost:36449/news/source/healthpayerintelligence/</link>
+      <link>http://localhost:1313/news/source/healthpayerintelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthpayerintelligence/</guid>
+      <guid>http://localhost:1313/news/source/healthpayerintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Washington Post</title>
-      <link>http://localhost:36449/news/source/washington-post/</link>
+      <link>http://localhost:1313/news/source/washington-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/washington-post/</guid>
+      <guid>http://localhost:1313/news/source/washington-post/</guid>
       <description></description>
     </item>
     <item>
       <title>MHealthIntelligence</title>
-      <link>http://localhost:36449/news/source/mhealthintelligence/</link>
+      <link>http://localhost:1313/news/source/mhealthintelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/mhealthintelligence/</guid>
+      <guid>http://localhost:1313/news/source/mhealthintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare IT Today</title>
-      <link>http://localhost:36449/news/source/healthcare-it-today/</link>
+      <link>http://localhost:1313/news/source/healthcare-it-today/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-it-today/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-it-today/</guid>
       <description></description>
     </item>
     <item>
       <title>AP NEWS</title>
-      <link>http://localhost:36449/news/source/ap-news/</link>
+      <link>http://localhost:1313/news/source/ap-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/ap-news/</guid>
+      <guid>http://localhost:1313/news/source/ap-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Dropbox</title>
-      <link>http://localhost:36449/news/source/dropbox/</link>
+      <link>http://localhost:1313/news/source/dropbox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/dropbox/</guid>
+      <guid>http://localhost:1313/news/source/dropbox/</guid>
       <description></description>
     </item>
     <item>
       <title>The Medical Futurist</title>
-      <link>http://localhost:36449/news/source/the-medical-futurist/</link>
+      <link>http://localhost:1313/news/source/the-medical-futurist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-medical-futurist/</guid>
+      <guid>http://localhost:1313/news/source/the-medical-futurist/</guid>
       <description></description>
     </item>
     <item>
       <title>ASPE</title>
-      <link>http://localhost:36449/news/source/aspe/</link>
+      <link>http://localhost:1313/news/source/aspe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/aspe/</guid>
+      <guid>http://localhost:1313/news/source/aspe/</guid>
       <description></description>
     </item>
     <item>
       <title>HIMSS</title>
-      <link>http://localhost:36449/news/source/himss/</link>
+      <link>http://localhost:1313/news/source/himss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/himss/</guid>
+      <guid>http://localhost:1313/news/source/himss/</guid>
       <description></description>
     </item>
     <item>
       <title>Bill of Health</title>
-      <link>http://localhost:36449/news/source/bill-of-health/</link>
+      <link>http://localhost:1313/news/source/bill-of-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/bill-of-health/</guid>
+      <guid>http://localhost:1313/news/source/bill-of-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthcare Finance News</title>
-      <link>http://localhost:36449/news/source/healthcare-finance-news/</link>
+      <link>http://localhost:1313/news/source/healthcare-finance-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthcare-finance-news/</guid>
+      <guid>http://localhost:1313/news/source/healthcare-finance-news/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Patient Dave</title>
-      <link>http://localhost:36449/news/source/e-patient-dave/</link>
+      <link>http://localhost:1313/news/source/e-patient-dave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/e-patient-dave/</guid>
+      <guid>http://localhost:1313/news/source/e-patient-dave/</guid>
       <description></description>
     </item>
     <item>
       <title>TheHill</title>
-      <link>http://localhost:36449/news/source/thehill/</link>
+      <link>http://localhost:1313/news/source/thehill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/thehill/</guid>
+      <guid>http://localhost:1313/news/source/thehill/</guid>
       <description></description>
     </item>
     <item>
       <title>CNN</title>
-      <link>http://localhost:36449/news/source/cnn/</link>
+      <link>http://localhost:1313/news/source/cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/cnn/</guid>
+      <guid>http://localhost:1313/news/source/cnn/</guid>
       <description></description>
     </item>
     <item>
       <title>MobiHealthNews</title>
-      <link>http://localhost:36449/news/source/mobihealthnews/</link>
+      <link>http://localhost:1313/news/source/mobihealthnews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/mobihealthnews/</guid>
+      <guid>http://localhost:1313/news/source/mobihealthnews/</guid>
       <description></description>
     </item>
     <item>
       <title>Kaiser Health News</title>
-      <link>http://localhost:36449/news/source/kaiser-health-news/</link>
+      <link>http://localhost:1313/news/source/kaiser-health-news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/kaiser-health-news/</guid>
+      <guid>http://localhost:1313/news/source/kaiser-health-news/</guid>
       <description></description>
     </item>
     <item>
       <title>Federal Register</title>
-      <link>http://localhost:36449/news/source/federal-register/</link>
+      <link>http://localhost:1313/news/source/federal-register/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/federal-register/</guid>
+      <guid>http://localhost:1313/news/source/federal-register/</guid>
       <description></description>
     </item>
     <item>
       <title>U.S.</title>
-      <link>http://localhost:36449/news/source/u.s./</link>
+      <link>http://localhost:1313/news/source/u.s./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/u.s./</guid>
+      <guid>http://localhost:1313/news/source/u.s./</guid>
       <description></description>
     </item>
     <item>
       <title>AppleInsider</title>
-      <link>http://localhost:36449/news/source/appleinsider/</link>
+      <link>http://localhost:1313/news/source/appleinsider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/appleinsider/</guid>
+      <guid>http://localhost:1313/news/source/appleinsider/</guid>
       <description></description>
     </item>
     <item>
       <title>RWJBarnabas Health</title>
-      <link>http://localhost:36449/news/source/rwjbarnabas-health/</link>
+      <link>http://localhost:1313/news/source/rwjbarnabas-health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/rwjbarnabas-health/</guid>
+      <guid>http://localhost:1313/news/source/rwjbarnabas-health/</guid>
       <description></description>
     </item>
     <item>
       <title>The Pulse</title>
-      <link>http://localhost:36449/news/source/the-pulse/</link>
+      <link>http://localhost:1313/news/source/the-pulse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-pulse/</guid>
+      <guid>http://localhost:1313/news/source/the-pulse/</guid>
       <description></description>
     </item>
     <item>
       <title>ProPublica</title>
-      <link>http://localhost:36449/news/source/propublica/</link>
+      <link>http://localhost:1313/news/source/propublica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/propublica/</guid>
+      <guid>http://localhost:1313/news/source/propublica/</guid>
       <description></description>
     </item>
     <item>
       <title>Modern Healthcare</title>
-      <link>http://localhost:36449/news/source/modern-healthcare/</link>
+      <link>http://localhost:1313/news/source/modern-healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/modern-healthcare/</guid>
+      <guid>http://localhost:1313/news/source/modern-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Joseph C. Kvedar, MD - Reinventing Healthcare</title>
-      <link>http://localhost:36449/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</link>
+      <link>http://localhost:1313/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</guid>
+      <guid>http://localhost:1313/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Chilmark Research</title>
-      <link>http://localhost:36449/news/source/chilmark-research/</link>
+      <link>http://localhost:1313/news/source/chilmark-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/chilmark-research/</guid>
+      <guid>http://localhost:1313/news/source/chilmark-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Time</title>
-      <link>http://localhost:36449/news/source/time/</link>
+      <link>http://localhost:1313/news/source/time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/time/</guid>
+      <guid>http://localhost:1313/news/source/time/</guid>
       <description></description>
     </item>
     <item>
       <title>The Health Care Blog</title>
-      <link>http://localhost:36449/news/source/the-health-care-blog/</link>
+      <link>http://localhost:1313/news/source/the-health-care-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/the-health-care-blog/</guid>
+      <guid>http://localhost:1313/news/source/the-health-care-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>POLITICO</title>
-      <link>http://localhost:36449/news/source/politico/</link>
+      <link>http://localhost:1313/news/source/politico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/politico/</guid>
+      <guid>http://localhost:1313/news/source/politico/</guid>
       <description></description>
     </item>
     <item>
       <title>Manatt</title>
-      <link>http://localhost:36449/news/source/manatt/</link>
+      <link>http://localhost:1313/news/source/manatt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/manatt/</guid>
+      <guid>http://localhost:1313/news/source/manatt/</guid>
       <description></description>
     </item>
     <item>
       <title>Scientific American</title>
-      <link>http://localhost:36449/news/source/scientific-american/</link>
+      <link>http://localhost:1313/news/source/scientific-american/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/scientific-american/</guid>
+      <guid>http://localhost:1313/news/source/scientific-american/</guid>
       <description></description>
     </item>
     <item>
       <title>Boing Boing</title>
-      <link>http://localhost:36449/news/source/boing-boing/</link>
+      <link>http://localhost:1313/news/source/boing-boing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/boing-boing/</guid>
+      <guid>http://localhost:1313/news/source/boing-boing/</guid>
       <description></description>
     </item>
     <item>
       <title>FierceHealthcare</title>
-      <link>http://localhost:36449/news/source/fiercehealthcare/</link>
+      <link>http://localhost:1313/news/source/fiercehealthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/fiercehealthcare/</guid>
+      <guid>http://localhost:1313/news/source/fiercehealthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>SearchHealthIT</title>
-      <link>http://localhost:36449/news/source/searchhealthit/</link>
+      <link>http://localhost:1313/news/source/searchhealthit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/searchhealthit/</guid>
+      <guid>http://localhost:1313/news/source/searchhealthit/</guid>
       <description></description>
     </item>
     <item>
       <title>HealthITAnalytics</title>
-      <link>http://localhost:36449/news/source/healthitanalytics/</link>
+      <link>http://localhost:1313/news/source/healthitanalytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/healthitanalytics/</guid>
+      <guid>http://localhost:1313/news/source/healthitanalytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Health Data Management</title>
-      <link>http://localhost:36449/news/source/health-data-management/</link>
+      <link>http://localhost:1313/news/source/health-data-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/health-data-management/</guid>
+      <guid>http://localhost:1313/news/source/health-data-management/</guid>
       <description></description>
     </item>
     <item>
       <title>TechCrunch</title>
-      <link>http://localhost:36449/news/source/techcrunch/</link>
+      <link>http://localhost:1313/news/source/techcrunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/techcrunch/</guid>
+      <guid>http://localhost:1313/news/source/techcrunch/</guid>
       <description></description>
     </item>
     <item>
       <title>Sun-Sentinel.com</title>
-      <link>http://localhost:36449/news/source/sun-sentinel.com/</link>
+      <link>http://localhost:1313/news/source/sun-sentinel.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/source/sun-sentinel.com/</guid>
+      <guid>http://localhost:1313/news/source/sun-sentinel.com/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TheHill on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/thehill/</link>
+    <link>http://localhost:1313/news/source/thehill/</link>
     <description>Recent content in TheHill on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 May 2020 03:19:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/thehill/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/thehill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Federal health IT rules remain on track to improve care and public health</title>
-      <link>http://localhost:36449/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</link>
+      <link>http://localhost:1313/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</link>
       <pubDate>Tue, 12 May 2020 03:19:00 +0000</pubDate>
-      <guid>http://localhost:36449/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</guid>
+      <guid>http://localhost:1313/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</guid>
       <description>But the pandemic highlights that the current health IT system is broken. The new rules on electronic health information are an important step in addressing the gaps in the system and setting the health care industry on a path to a future in which technology plays a greater role in connecting patients to care, whenever and wherever they need it.&#xA;Read on thehill.com</description>
     </item>
     <item>
       <title>Expert suggests Hippocratic oath for health data privacy</title>
-      <link>http://localhost:36449/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</link>
+      <link>http://localhost:1313/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</link>
       <pubDate>Fri, 22 Nov 2019 19:12:07 +0000</pubDate>
-      <guid>http://localhost:36449/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</guid>
+      <guid>http://localhost:1313/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</guid>
       <description>Personal data is aggregated, packaged and sold every day without the knowledge or full consent of the subject consumers, and it has been exploited and abused to the detriment of those consumers. However, overly stringent privacy rules regarding health data could impede timely care and patient safety, writes Piers Nash, former director at the Center for Data Intensive Science, who suggests a Hippocratic oath for using and sharing personal health data.</description>
     </item>
   </channel>

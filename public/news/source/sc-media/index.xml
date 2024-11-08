@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SC Media on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/sc-media/</link>
+    <link>http://localhost:1313/news/source/sc-media/</link>
     <description>Recent content in SC Media on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Oct 2021 10:26:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/sc-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/sc-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Critical flaws found in interoperability backbone: FHIR APIs vulnerable to abuse</title>
-      <link>http://localhost:36449/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</link>
+      <link>http://localhost:1313/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</link>
       <pubDate>Thu, 14 Oct 2021 10:26:19 +0000</pubDate>
-      <guid>http://localhost:36449/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</guid>
+      <guid>http://localhost:1313/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</guid>
       <description>Researcher Alissa Knight found pervasive authorization vulnerabilities in an app ecosystem of 48 FHIR apps and APIs that enabled access to patient data. APIs are intended as the backbone of health care interoperability.&#xA;Read on scmagazine.com</description>
     </item>
   </channel>

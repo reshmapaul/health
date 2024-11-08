@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MedCity News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/medcity-news/</link>
+    <link>http://localhost:1313/news/source/medcity-news/</link>
     <description>Recent content in MedCity News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Nov 2022 23:34:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/medcity-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/medcity-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experts Unpack the True Meaning Behind 3 Healthcare Buzzwords</title>
-      <link>http://localhost:36449/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</link>
+      <link>http://localhost:1313/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</link>
       <pubDate>Wed, 16 Nov 2022 23:34:58 +0000</pubDate>
-      <guid>http://localhost:36449/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</guid>
+      <guid>http://localhost:1313/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</guid>
       <description>A panel of healthcare data experts broke down some of healthcares most common buzzwords on Sunday at HLTH 2022 in Las Vegas. While the panelists agreed that many industry professionals still struggle to grasp the true denotations of words and phrases like interoperability and reimagining healthcare, the experts said these terms can be quite meaningful once theyre unpacked.&#xA;Read on medcitynews.com</description>
     </item>
   </channel>

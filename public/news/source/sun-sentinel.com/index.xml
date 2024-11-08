@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sun-Sentinel.com on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/sun-sentinel.com/</link>
+    <link>http://localhost:1313/news/source/sun-sentinel.com/</link>
     <description>Recent content in Sun-Sentinel.com on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2019 20:40:59 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/sun-sentinel.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/sun-sentinel.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding the true cost of ensuring privacy of medical records </title>
-      <link>http://localhost:36449/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</link>
+      <link>http://localhost:1313/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</link>
       <pubDate>Thu, 31 Oct 2019 20:40:59 +0000</pubDate>
-      <guid>http://localhost:36449/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</guid>
+      <guid>http://localhost:1313/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</guid>
       <description>Protecting our medical records takes highly qualified and trained staff, and costs money. If the fee structure is reduced or eliminated by the Florida Legislature, the cost for protecting patient privacy will fall back on the patients with higher fees for medical services.&#xA;Read on sun-sentinel.com</description>
     </item>
   </channel>

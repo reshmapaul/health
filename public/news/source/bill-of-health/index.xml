@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bill of Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/bill-of-health/</link>
+    <link>http://localhost:1313/news/source/bill-of-health/</link>
     <description>Recent content in Bill of Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jun 2020 19:46:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/bill-of-health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/bill-of-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Traditional Health Records Bolster Structural Racism </title>
-      <link>http://localhost:36449/news/how-traditional-health-records-bolster-structural-racism/</link>
+      <link>http://localhost:1313/news/how-traditional-health-records-bolster-structural-racism/</link>
       <pubDate>Sat, 27 Jun 2020 19:46:16 +0000</pubDate>
-      <guid>http://localhost:36449/news/how-traditional-health-records-bolster-structural-racism/</guid>
+      <guid>http://localhost:1313/news/how-traditional-health-records-bolster-structural-racism/</guid>
       <description>As the U.S. reckons with centuries of structural racism, an important step toward making health care more equitable will require transferring control of health records to patients and patient groups.&#xA;Read on blog.petrieflom.law.harvard.edu</description>
     </item>
   </channel>

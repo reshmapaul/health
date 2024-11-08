@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FierceHealthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/fiercehealthcare/</link>
+    <link>http://localhost:1313/news/source/fiercehealthcare/</link>
     <description>Recent content in FierceHealthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Dec 2019 16:10:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/fiercehealthcare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/fiercehealthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lawmakers push HHS for more clarity, stronger data privacy protections in federal data sharing rules</title>
-      <link>http://localhost:36449/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</link>
+      <link>http://localhost:1313/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</link>
       <pubDate>Wed, 04 Dec 2019 16:10:08 +0000</pubDate>
-      <guid>http://localhost:36449/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</guid>
+      <guid>http://localhost:1313/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</guid>
       <description>Warner urged that, at aminimum, CMS&amp;rsquo; final rule should include standards that guarantee patients have ready access to their personal health data and an ability to regularly monitor the information for accuracy. Patients need to beinformed of all commercial uses of their data, including any third parties their data have been shared with, Warner urged.&#xA;Read on fiercehealthcare.com</description>
     </item>
     <item>
       <title>Final ONC, CMS interoperability rules under review by OMB</title>
-      <link>http://localhost:36449/news/final-onc--cms-interoperability-rules-under-review-by-omb/</link>
+      <link>http://localhost:1313/news/final-onc--cms-interoperability-rules-under-review-by-omb/</link>
       <pubDate>Fri, 22 Nov 2019 11:08:19 +0000</pubDate>
-      <guid>http://localhost:36449/news/final-onc--cms-interoperability-rules-under-review-by-omb/</guid>
+      <guid>http://localhost:1313/news/final-onc--cms-interoperability-rules-under-review-by-omb/</guid>
       <description>Major federal rules aimed at stopping information blocking and spurring data sharing are one step closer to being finalized. The Office of the National Coordinator for Health IT&amp;rsquo;s interoperability and information blocking rule is now under reviewat the Office of Management and Budget, the last step before publication.&#xA;Read on fiercehealthcare.com</description>
     </item>
     <item>
       <title>Providers, payers unprepared for data blocking, interoperability rules: Accenture survey</title>
-      <link>http://localhost:36449/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</link>
+      <link>http://localhost:1313/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</link>
       <pubDate>Fri, 25 Oct 2019 16:55:56 +0000</pubDate>
-      <guid>http://localhost:36449/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</guid>
+      <guid>http://localhost:1313/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</guid>
       <description>One in six (17%) healthcare executives arecompletely unaware of new legislation that requires greater patient access to healthcare records and sharing of such recordswith two-thirds (65%) only somewhat or vaguely familiar, a new Accenture survey finds.&#xA;Read on fiercehealthcare.com</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Pulse on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/the-pulse/</link>
+    <link>http://localhost:1313/news/source/the-pulse/</link>
     <description>Recent content in The Pulse on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Apr 2020 13:21:02 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/the-pulse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/the-pulse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19 Community Testing: Getting HIPAA Protection</title>
-      <link>http://localhost:36449/news/covid-19-community-testing--getting-hipaa-protection/</link>
+      <link>http://localhost:1313/news/covid-19-community-testing--getting-hipaa-protection/</link>
       <pubDate>Sat, 11 Apr 2020 13:21:02 +0000</pubDate>
-      <guid>http://localhost:36449/news/covid-19-community-testing--getting-hipaa-protection/</guid>
+      <guid>http://localhost:1313/news/covid-19-community-testing--getting-hipaa-protection/</guid>
       <description>The fear of violating HIPAA, as with many such fears, was not necessarily well placed. A CBTS is an extension of operations to any number of healthcare providers, including hospitals, physician groups, and pharmacies. The testing would be a healthcare service that is part of operations. From that perspective, a CBTS is similar to setting up a new office. As such, it seems that the attention garnered by COVID-19 was just thrown up as a barrier to getting needed care.</description>
     </item>
   </channel>

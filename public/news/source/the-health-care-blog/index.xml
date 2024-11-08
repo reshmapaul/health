@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Health Care Blog on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36449/news/source/the-health-care-blog/</link>
+    <link>http://localhost:1313/news/source/the-health-care-blog/</link>
     <description>Recent content in The Health Care Blog on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 20:29:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36449/news/source/the-health-care-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/the-health-care-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health Data Outside HIPAA: Simply Extending HIPAA Would Be a #FAIL</title>
-      <link>http://localhost:36449/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</link>
+      <link>http://localhost:1313/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</link>
       <pubDate>Mon, 20 Jan 2020 20:29:11 +0000</pubDate>
-      <guid>http://localhost:36449/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</guid>
+      <guid>http://localhost:1313/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</guid>
       <description>In summary:&#xA;HIPAAs rules were not designed to address privacy risks introduced by widespread personal information collection and use in the modern digital ecosystem. HIPAAs rules were designed to support information flows within the health care system and allow for broad uses and disclosures of data by both covered entities and business associates without the need to obtain patient consent. HIPAA is leaky it expressly allows covered entities and business associates to share data outside of HIPAA, including selling de-identified data, without patient consent.</description>
     </item>
     <item>
       <title>Barbarians at the Gate</title>
-      <link>http://localhost:36449/news/barbarians-at-the-gate/</link>
+      <link>http://localhost:1313/news/barbarians-at-the-gate/</link>
       <pubDate>Fri, 17 Jan 2020 14:44:32 +0000</pubDate>
-      <guid>http://localhost:36449/news/barbarians-at-the-gate/</guid>
+      <guid>http://localhost:1313/news/barbarians-at-the-gate/</guid>
       <description>It seems that the definition of a barbarian is anyone who aims to get patient records under the current laws and the explicit direction of the patient. The opposite of barbarians, whoever they may be within the gates of HIPAA, are able to get patient records without consent or accounting for disclosures by asserting Treatment, Payment, or Operations as well as the pretense of de-identification. Meanwhile, these HIPAA non-barbarians are able to sell off the machine learning and other medical science teachings as trade secret intellectual property in the form of computer decision support and other for-profit algorithms.</description>
     </item>
   </channel>
