@@ -5,8 +5,7 @@ theme = "infinity-hugo"
 paginate = 10
 [markup]
 defaultMarkdownHandler            = "goldmark"
-[permalinks]
-  post = "/blog/:slug/"
+
 [markup.goldmark.renderer]
 unsafe                            = true
 
