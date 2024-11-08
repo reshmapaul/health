@@ -3,19 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/individual-access-services-ias--why-patients-and-families-should-pay-attention/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/the-missing-code-in-ai_-the-patient-voice/</loc>
-    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/if-you-give-a-patient-a-copy-of-her-medical-records/</loc>
-    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/2023-annual-meeting/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
@@ -40,12 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/events/home---future-of-cancer-care/</loc>
     <lastmod>2023-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cracking-open-the-other-black-box-unmasking-ais-role-in-patient-care/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/nightmare-on-prior-auth-street/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/enabling-patient-access-to-health-data-for-actionable-results/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
@@ -86,9 +68,6 @@
     <loc>http://localhost:1313/press/</loc>
     <lastmod>2023-09-20T20:49:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/release-the-results/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</loc>
     <lastmod>2023-09-14T22:23:26+00:00</lastmod>
   </url><url>
@@ -115,9 +94,6 @@
   </url><url>
     <loc>http://localhost:1313/news/unlocking-healthcare-s-interoperability-potential--the-tefca-journey---health-data-management/</loc>
     <lastmod>2023-08-20T20:18:48+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/to-message-or-not-to-message-that-is-the-question/</loc>
-    <lastmod>2023-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/source/fierce-healthcare/</loc>
     <lastmod>2023-08-14T09:44:35+00:00</lastmod>
@@ -158,9 +134,6 @@
     <loc>http://localhost:1313/news/how-unitedhealth-s-acquisition-of-a-popular-medicare-advantage-algorithm-sparked-internal-dissent-over-denied-care/</loc>
     <lastmod>2023-07-12T16:41:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/patients-cant-wait-its-time-to-unblock-health/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/data-usability-takes-root-nationwide-through-a-joint-project-between-the-sequoia-project-and-ahima---the-sequoia-project/</loc>
     <lastmod>2023-07-11T18:00:13+00:00</lastmod>
   </url><url>
@@ -181,9 +154,6 @@
   </url><url>
     <loc>http://localhost:1313/news/source/youtube/</loc>
     <lastmod>2023-07-06T02:41:59+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/hti-1-proposed-rule-public-comments/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/press/is-getting-test-results-online-right-away-a-good-idea--yes--patients-say/</loc>
     <lastmod>2023-06-07T14:06:49+00:00</lastmod>
@@ -224,14 +194,14 @@
     <loc>http://localhost:1313/press/patients-need-more-info--tools-and-support/</loc>
     <lastmod>2023-05-26T18:04:39+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/the-five-key-points-missing-from-the-majority-of-digital-health-transformation-strategies/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/summary---digital-health-transformation-summit-2023/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/collections--recollections-of-casey-quinlan/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/iha-health-literacy-conference/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
@@ -286,9 +256,6 @@
   </url><url>
     <loc>http://localhost:1313/events/x4---the-experience-management-summit/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/dress-in-blue-day/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/press/ai-driven-medical-care--a-health-data-reality-check/</loc>
     <lastmod>2023-02-28T12:22:30+00:00</lastmod>
@@ -442,9 +409,6 @@
   </url><url>
     <loc>http://localhost:1313/press/patient-need-to-knows--the-abcs-of-hies/</loc>
     <lastmod>2022-10-03T10:35:01+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/patient-need-to-knows-abcs-of-hies/</loc>
-    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/prevalence-and-sources-of-duplicate-information-in-the-electronic-medical-record/</loc>
     <lastmod>2022-09-27T01:52:35+00:00</lastmod>
@@ -1739,9 +1703,6 @@
     <loc>http://localhost:1313/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</loc>
     <lastmod>2020-02-04T21:43:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/when-a-failing-heart-faces-information-blocking/</loc>
-    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/new-additions-to-the-health-it-playbook/</loc>
     <lastmod>2020-02-03T18:48:33+00:00</lastmod>
   </url><url>
@@ -1963,6 +1924,8 @@
   </url><url>
     <loc>http://localhost:1313/press/who-s-got-the-patient-s-back--with-patient-advocate-grace-cordovano/</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2024-11-08-tester/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>

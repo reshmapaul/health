@@ -6,14 +6,56 @@
     <description>Recent content in Blog on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individual Access Services (IAS): Why Patients and Families Should Pay Attention</title>
+      <link>http://localhost:1313/blog/individual-access-services-ias--why-patients-and-families-should-pay-attention/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/individual-access-services-ias--why-patients-and-families-should-pay-attention/</guid>
+      <description>From since the formal launch of TEFCA at the HHS event in early December 2023, it’s been exhilarating to watch the first IAS queries become a reality. While the majority of the industry has balked at IAS, a partnership between Health Gorilla, Clear, and Unblock Health is lighting the way.&#xA;Many patients and advocates are asking me:&#xA;What does this really mean for patients? So what? Who cares about a new set of acronyms in healthcare, including TEFCA and IAS?</description>
+    </item>
+    <item>
+      <title>The Missing Code in AI: the Patient Voice</title>
+      <link>http://localhost:1313/blog/the-missing-code-in-ai_-the-patient-voice/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-missing-code-in-ai_-the-patient-voice/</guid>
+      <description>The accompanying image was created by DALL-E. &#39;The Missing Code in AI: The Patient Voice.&#39; Generated image. OpenAI, [1/12/2024]&#xA;It&amp;rsquo;s crystal clear that the patient and carepartner voice is not diversely represented in the co-creation of AI-powered solutions used in patient care and patient coordination of care.&#xA;Implementation and integration of AI-powered solutions based on assumptions of what innovators, healthcare executives, and providers think patients and their families need to be successful in their care is a red flag for failure.</description>
+    </item>
+    <item>
+      <title>If You Give a Patient a Copy of Her Medical Records(an ode to If You Give a Mouse a Cookie by Laura Numeroff)</title>
+      <link>http://localhost:1313/blog/if-you-give-a-patient-a-copy-of-her-medical-records/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/if-you-give-a-patient-a-copy-of-her-medical-records/</guid>
+      <description>If you give a patient a cancer diagnosis, she may request a copy of her medical records. When she gets her medical records, she may pore over them, carefully deciphering their secrets, jotting down notes with a furrowed brow.&#xA;If you present a patient with her medical records, she may begin peppering her doctors with questions about her care. Each question, a step towards understanding, may fuel a desire for a broader perspective and she may seek a second opinion.</description>
+    </item>
+    <item>
+      <title>Cracking Open the Other Black Box: Unmasking AI&#39;s Role in Patient Care</title>
+      <link>http://localhost:1313/blog/cracking-open-the-other-black-box-unmasking-ais-role-in-patient-care/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cracking-open-the-other-black-box-unmasking-ais-role-in-patient-care/</guid>
+      <description>Let&amp;rsquo;s talk breast cancer screening, access to results in the portal, and AI powered breast cancer detection.&#xA;It was exciting to see my local imaging center offering Enhanced Breast Cancer Detection (EBCD) using Deep Health&amp;rsquo;s SAIGE-Dx, a mammography diagnostic aid software.&#xA;As someone who has a family history of breast cancer and extremely dense breasts, I&amp;rsquo;ve been getting routine mammograms with ultrasounds since my early 30&amp;rsquo;s. About 10% of women fall into the category of dense breasts, where it is extremely difficult to detect a tumor on a mammogram.</description>
+    </item>
     <item>
       <title>Nightmare on Prior Auth Street</title>
       <link>http://localhost:1313/blog/nightmare-on-prior-auth-street/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/nightmare-on-prior-auth-street/</guid>
       <description>With Halloween upon us, who doesn&amp;rsquo;t love a good scary story or movie?!&#xA;The longer I work in healthcare and in patient advocacy, the more I&amp;rsquo;ve come to realize that the real horror stories and things that nightmares are made of often come from the fragmentation and administrative burden that is embedded within US healthcare. These are stories that are all too frequent and stories that I wish no one needed to tell.</description>
+    </item>
+    <item>
+      <title>Release the Results</title>
+      <link>http://localhost:1313/blog/release-the-results/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/release-the-results/</guid>
+      <description>A recent article published in the Wall Street Journal entitled Raw Medical Test Results Right to Your Inbox Spark Confusion and Concern continues to beat a dead horse. The only thing that is sparking confusion and concern is why we are still debating whether patients can handle their health information as if becoming a patient strips one of being a consenting adult with choices.&#xA;Here are my top four thoughts on this WSJ piece:</description>
+    </item>
+    <item>
+      <title>To Message or not to Message: that is the Question</title>
+      <link>http://localhost:1313/blog/to-message-or-not-to-message-that-is-the-question/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/to-message-or-not-to-message-that-is-the-question/</guid>
+      <description>It’s been months of debate and controversy surrounding what to do about the ever increasing rates of patient portal messages. Healthcare is adept at finding ways to charge for things. And so, along come patient portal messages and this line from this recent article from STAT:&#xA;&amp;ldquo;Introducing fees might remind patients that there’s a human on the other end of the patient portal who has to spend time answering each question, pushing them to “pause and think before they send a message.</description>
     </item>
     <item>
       <title>Patients Can’t Wait: It’s Time to Unblock Health</title>
@@ -317,6 +359,13 @@
       <description>So you get a copy of your medical records &amp;amp; dive in, reading line by line, trying to make sense of your new lung cancer diagnosis.&#xA;&amp;ldquo;Wait a second, this doesn’t sound right. This is a mistake. I don’t have a history of a heart condition &amp;amp; I don’t smoke cigarettes&amp;rdquo;, you mutter to yourself.&#xA;You call your oncologist’s office to report the mistake you found &amp;amp; ask to have it updated.</description>
     </item>
     <item>
+      <title>When a Failing Heart Faces Information Blocking</title>
+      <link>http://localhost:1313/blog/when-a-failing-heart-faces-information-blocking/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/when-a-failing-heart-faces-information-blocking/</guid>
+      <description>A 65 year old patient with multiple comorbidities has been in &amp;amp; out of the hospital with what has recently been diagnosed as advanced congestive heart failure. The patient &amp;amp; family are advised to seek a 2nd opinion immediately to both confirm the diagnosis as well as to see if the patient is a potential candidate for a specific, last resort procedure. If the patient is deemed not a candidate for the surgery, at home hospice is advised to be urgently pursued.</description>
+    </item>
+    <item>
       <title>What’s Social Media Got to Do With It?</title>
       <link>http://localhost:1313/blog/whats-social-media-got-to-do-with-it/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
@@ -350,13 +399,6 @@
       <pubDate>Fri, 03 Jan 2020 06:50:23 +0000</pubDate>
       <guid>http://localhost:1313/blog/the-birth-of-unblock-health/</guid>
       <description>Happy New Year 2020! With a new year and new decade upon us, we’d like to tell you the story of how Unblock Health was born.&#xA;Once upon a time, at HIT Expo 2018 in sunny New Orleans, a board-certified patient advocate and a health IT thought leader got to talking about patient unmet needs. The advocate fervently emphasized the struggles patients and their loved ones faced due to lack of interoperability, rampant data blocking, and little to no transparency while trying to navigate their life-altering diagnoses.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/blog/2024-11-08-tester/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2024-11-08-tester/</guid>
-      <description>gvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</description>
     </item>
   </channel>
 </rss>
