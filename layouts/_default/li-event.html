@@ -112,7 +112,7 @@
     <div class="slds-clearfix slds-m-bottom_small">
       <div class="slds-float_right">
         {{ with  .OutputFormats.Get "Calendar" -}}
-          <a href="{{ .RelPermalink | safeURL }}"><button class="slds-button slds-button_outline-brand slds-p-around_small">
+          <a href="{{ .Permalink | safeURL }}"><button class="slds-button slds-button_outline-brand slds-p-around_small">
             <svg class="slds-button__icon slds-icon_x-small slds-m-right_x-small" aria-hidden="true">
               <use xlink:href="/icons/utility-sprite/svg/symbols.svg#event"></use>
             </svg><span style="font-size: 14px;line-height: 14px;">Add to Calender</span></button></a>

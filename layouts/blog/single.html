@@ -5,7 +5,7 @@
   {{ $context := . }}
   {{- partialCached "head" (dict "activeMenu" "Blog" "context" $context ) "blog-detail-page" -}}  
   <!-- top < ends < -->  
-  {{ $filePath := .File.Path }}  <!-- Use .File.Path directly -->
+  {{ $filePath := printf "%s%s" "content/" .File.Path }}
 
 <!-- top < ends < -->  
 <script 
@@ -16,7 +16,7 @@
   imagesFolder="static/images"
   githubUsername="reshmapaul"
   githubRepoName="health"
-  postfilepath="{{ .Site.BaseURL }}{{ $filePath }}"
+  postfilepath="{{ $filePath }}"
 ></script>
 
   </header>
