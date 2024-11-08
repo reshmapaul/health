@@ -5,10 +5,10 @@
   {{ $context := . }}
   {{- partialCached "head" (dict "activeMenu" "Blog" "context" $context ) "blog-detail-page" -}}  
   <!-- top < ends < -->  
-  {{ $filePath := printf "%s%s" "content/" .File.Path }}
+  {{ $filePath := .File.Path }}  <!-- Use .File.Path directly -->
 
-  <!-- top < ends < -->  
-  <script 
+<!-- top < ends < -->  
+<script 
   type="module" 
   src="https://penmark.appsinprogress.com/dist/PostClient.js"
   draftsFolder="drafts"
@@ -16,8 +16,9 @@
   imagesFolder="static/images"
   githubUsername="reshmapaul"
   githubRepoName="health"
-  postfilepath="{{ $filePath }}"
+  postfilepath="{{ .Site.BaseURL }}{{ $filePath }}"
 ></script>
+
   </header>
 </article>  
 
