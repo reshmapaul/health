@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GlobeNewswire News Room on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/globenewswire-news-room/</link>
+    <link>http://localhost:36193/news/source/globenewswire-news-room/</link>
     <description>Recent content in GlobeNewswire News Room on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Sep 2022 15:22:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/globenewswire-news-room/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/globenewswire-news-room/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sequoia Projects Information Blocking Compliance Workgroup ReleasesFinal Versions of Five Industry-Focused Resources</title>
-      <link>http://localhost:1313/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</link>
+      <link>http://localhost:36193/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</link>
       <pubDate>Mon, 26 Sep 2022 15:22:48 +0000</pubDate>
-      <guid>http://localhost:1313/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</guid>
+      <guid>http://localhost:36193/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</guid>
       <description>The Sequoia Project, a non-profit and trusted advocate for nationwide health information exchange, released the final version of the set of resources designed to help regulated entities better comply with the information blocking requirements of the 21st Century Cures Rule. The resources include:Good practices for information sharing and information blocking complianceA further exploration of the expanded definition of electronic health information (EHI) and related considerationsAn infographic depicting the web of information systems included in the expanded definition of EHIOperational implications of the move to an expanded definitionPolicy considerations</description>
     </item>
   </channel>

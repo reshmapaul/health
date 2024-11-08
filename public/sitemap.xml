@@ -2,1963 +2,1997 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:36193/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/blog/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/blog/individual-access-services-ias--why-patients-and-families-should-pay-attention/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/blog/the-missing-code-in-ai_-the-patient-voice/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/blog/if-you-give-a-patient-a-copy-of-her-medical-records/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/events/2023-annual-meeting/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2023-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/events/node-health-s-7th-annual-digital-medicine-conference/</loc>
+    <loc>http://localhost:36193/events/node-health-s-7th-annual-digital-medicine-conference/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/home-sabcs-2023/</loc>
+    <loc>http://localhost:36193/events/home-sabcs-2023/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/the-sequoia-project/</loc>
+    <loc>http://localhost:36193/events/the-sequoia-project/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/amia-2023-annual-symposium-registration/</loc>
+    <loc>http://localhost:36193/events/amia-2023-annual-symposium-registration/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/home---cns-summit/</loc>
+    <loc>http://localhost:36193/events/home---cns-summit/</loc>
     <lastmod>2023-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/home---future-of-cancer-care/</loc>
+    <loc>http://localhost:36193/events/home---future-of-cancer-care/</loc>
     <lastmod>2023-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/enabling-patient-access-to-health-data-for-actionable-results/</loc>
+    <loc>http://localhost:36193/blog/cracking-open-the-other-black-box-unmasking-ais-role-in-patient-care/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/blog/nightmare-on-prior-auth-street/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/events/enabling-patient-access-to-health-data-for-actionable-results/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/exploring-the-state-of-healthcare/</loc>
+    <loc>http://localhost:36193/events/exploring-the-state-of-healthcare/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/hlth-2023/</loc>
+    <loc>http://localhost:36193/events/hlth-2023/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/directtrust/</loc>
+    <loc>http://localhost:36193/news/source/directtrust/</loc>
     <lastmod>2023-09-30T11:58:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>http://localhost:36193/news/</loc>
     <lastmod>2023-09-30T11:58:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/</loc>
+    <loc>http://localhost:36193/news/source/</loc>
     <lastmod>2023-09-30T11:58:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</loc>
+    <loc>http://localhost:36193/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</loc>
     <lastmod>2023-09-30T11:58:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/the-echalliance-global-health-connector-event---unga78---echalliance/</loc>
+    <loc>http://localhost:36193/events/the-echalliance-global-health-connector-event---unga78---echalliance/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hospitals-should-take-a-page-out-of-amazon-s-digital-engagement-playbook--argues-providence-digital-chief/</loc>
+    <loc>http://localhost:36193/news/hospitals-should-take-a-page-out-of-amazon-s-digital-engagement-playbook--argues-providence-digital-chief/</loc>
     <lastmod>2023-09-25T19:37:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/bringing--interop-in-2030--to-the-present---are-we-there-yet/</loc>
+    <loc>http://localhost:36193/news/bringing--interop-in-2030--to-the-present---are-we-there-yet/</loc>
     <lastmod>2023-09-20T21:14:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/commonwell-health-alliance/</loc>
+    <loc>http://localhost:36193/news/source/commonwell-health-alliance/</loc>
     <lastmod>2023-09-20T21:14:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/national-cancer-navigation---goinvo/</loc>
+    <loc>http://localhost:36193/press/national-cancer-navigation---goinvo/</loc>
     <lastmod>2023-09-20T20:49:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/</loc>
+    <loc>http://localhost:36193/press/</loc>
     <lastmod>2023-09-20T20:49:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</loc>
+    <loc>http://localhost:36193/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</loc>
     <lastmod>2023-09-14T22:23:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/wsj/</loc>
+    <loc>http://localhost:36193/news/source/wsj/</loc>
     <lastmod>2023-09-14T22:23:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/stat/</loc>
+    <loc>http://localhost:36193/news/source/stat/</loc>
     <lastmod>2023-09-14T17:10:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/what-to-make-of-biden-s-latest-cancer-moonshot-efforts/</loc>
+    <loc>http://localhost:36193/news/what-to-make-of-biden-s-latest-cancer-moonshot-efforts/</loc>
     <lastmod>2023-09-14T17:10:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-challenge-of-federal-coverage-and-payment-for-ai-innovation-in-health-care/</loc>
+    <loc>http://localhost:36193/news/the-challenge-of-federal-coverage-and-payment-for-ai-innovation-in-health-care/</loc>
     <lastmod>2023-09-07T00:46:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-ai-assisted--mobile-first-health-care-journey/</loc>
+    <loc>http://localhost:36193/news/the-ai-assisted--mobile-first-health-care-journey/</loc>
     <lastmod>2023-09-07T00:33:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/opinion--will-tefca-rule-making-stop-patient-digital-access/</loc>
+    <loc>http://localhost:36193/news/opinion--will-tefca-rule-making-stop-patient-digital-access/</loc>
     <lastmod>2023-08-20T20:45:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/correcting-the-record-on-tefca/</loc>
+    <loc>http://localhost:36193/news/correcting-the-record-on-tefca/</loc>
     <lastmod>2023-08-20T20:25:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/unlocking-healthcare-s-interoperability-potential--the-tefca-journey---health-data-management/</loc>
+    <loc>http://localhost:36193/news/unlocking-healthcare-s-interoperability-potential--the-tefca-journey---health-data-management/</loc>
     <lastmod>2023-08-20T20:18:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/fierce-healthcare/</loc>
+    <loc>http://localhost:36193/blog/to-message-or-not-to-message-that-is-the-question/</loc>
+    <lastmod>2023-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/news/source/fierce-healthcare/</loc>
     <lastmod>2023-08-14T09:44:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</loc>
+    <loc>http://localhost:36193/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</loc>
     <lastmod>2023-08-14T09:44:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/forum-defcon-org/</loc>
+    <loc>http://localhost:36193/events/forum-defcon-org/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/tell-me-where-it-hurts-podcast--guest-grace-cordovano--healthcare-navigating-solutionist--co-founder-of-unblock-health---medicomp-systems/</loc>
+    <loc>http://localhost:36193/press/tell-me-where-it-hurts-podcast--guest-grace-cordovano--healthcare-navigating-solutionist--co-founder-of-unblock-health---medicomp-systems/</loc>
     <lastmod>2023-07-27T15:17:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patients-want-health-record-access-with-usability--says-sequoia-project/</loc>
+    <loc>http://localhost:36193/press/patients-want-health-record-access-with-usability--says-sequoia-project/</loc>
     <lastmod>2023-07-26T20:47:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/federal-trade-commission/</loc>
+    <loc>http://localhost:36193/news/source/federal-trade-commission/</loc>
     <lastmod>2023-07-26T20:46:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/protecting-the-privacy-of-health-information--a-baker-s-dozen-takeaways-from-ftc-cases/</loc>
+    <loc>http://localhost:36193/news/protecting-the-privacy-of-health-information--a-baker-s-dozen-takeaways-from-ftc-cases/</loc>
     <lastmod>2023-07-26T20:46:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/misdiagnoses-cost-the-u-s--800-000-deaths-and-serious-disabilities-every-year--study-finds/</loc>
+    <loc>http://localhost:36193/news/misdiagnoses-cost-the-u-s--800-000-deaths-and-serious-disabilities-every-year--study-finds/</loc>
     <lastmod>2023-07-26T16:51:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--unpacking-the-state-of-patient-privacy--a-survey-of-american-consumers--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--unpacking-the-state-of-patient-privacy--a-survey-of-american-consumers--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/enlightening-results/</loc>
+    <loc>http://localhost:36193/press/enlightening-results/</loc>
     <lastmod>2023-07-21T14:02:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/united-states-core-data-for-interoperability--uscdi----version-4---july-2023/</loc>
+    <loc>http://localhost:36193/news/united-states-core-data-for-interoperability--uscdi----version-4---july-2023/</loc>
     <lastmod>2023-07-21T13:29:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/as-fear-rises-over-ai--google-and-epic-fight-stronger-regulation-of-the-technology-in-health-care/</loc>
+    <loc>http://localhost:36193/news/as-fear-rises-over-ai--google-and-epic-fight-stronger-regulation-of-the-technology-in-health-care/</loc>
     <lastmod>2023-07-17T21:17:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-unitedhealth-s-acquisition-of-a-popular-medicare-advantage-algorithm-sparked-internal-dissent-over-denied-care/</loc>
+    <loc>http://localhost:36193/news/how-unitedhealth-s-acquisition-of-a-popular-medicare-advantage-algorithm-sparked-internal-dissent-over-denied-care/</loc>
     <lastmod>2023-07-12T16:41:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/data-usability-takes-root-nationwide-through-a-joint-project-between-the-sequoia-project-and-ahima---the-sequoia-project/</loc>
+    <loc>http://localhost:36193/blog/patients-cant-wait-its-time-to-unblock-health/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/news/data-usability-takes-root-nationwide-through-a-joint-project-between-the-sequoia-project-and-ahima---the-sequoia-project/</loc>
     <lastmod>2023-07-11T18:00:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-sequoia-project/</loc>
+    <loc>http://localhost:36193/news/source/the-sequoia-project/</loc>
     <lastmod>2023-07-11T18:00:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-innovation/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-innovation/</loc>
     <lastmod>2023-07-06T03:24:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</loc>
+    <loc>http://localhost:36193/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</loc>
     <lastmod>2023-07-06T03:24:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-oig-releases-final-rule-for-information-blocking-penaltie/</loc>
+    <loc>http://localhost:36193/news/hhs-oig-releases-final-rule-for-information-blocking-penaltie/</loc>
     <lastmod>2023-07-06T03:22:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/morgue-duty-with-national-coordinator-for-health-it--dr--micky-tripathi/</loc>
+    <loc>http://localhost:36193/news/morgue-duty-with-national-coordinator-for-health-it--dr--micky-tripathi/</loc>
     <lastmod>2023-07-06T02:41:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/youtube/</loc>
+    <loc>http://localhost:36193/news/source/youtube/</loc>
     <lastmod>2023-07-06T02:41:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/is-getting-test-results-online-right-away-a-good-idea--yes--patients-say/</loc>
+    <loc>http://localhost:36193/blog/hti-1-proposed-rule-public-comments/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/press/is-getting-test-results-online-right-away-a-good-idea--yes--patients-say/</loc>
     <lastmod>2023-06-07T14:06:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthimpact-forum--scalability--security--and-smart-automation-in-healthcare/</loc>
+    <loc>http://localhost:36193/events/healthimpact-forum--scalability--security--and-smart-automation-in-healthcare/</loc>
     <lastmod>2023-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/cancerx/</loc>
+    <loc>http://localhost:36193/news/source/cancerx/</loc>
     <lastmod>2023-06-06T19:40:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/founding-members/</loc>
+    <loc>http://localhost:36193/news/founding-members/</loc>
     <lastmod>2023-06-06T19:40:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/medscape/</loc>
+    <loc>http://localhost:36193/news/source/medscape/</loc>
     <lastmod>2023-06-06T18:16:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</loc>
+    <loc>http://localhost:36193/news/reconnecting-with-patients-to--rediscover-joy-of-oncology/</loc>
     <lastmod>2023-06-06T18:16:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/health-it-buzz/</loc>
+    <loc>http://localhost:36193/news/source/health-it-buzz/</loc>
     <lastmod>2023-06-06T18:13:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</loc>
+    <loc>http://localhost:36193/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</loc>
     <lastmod>2023-06-06T18:13:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/policy-in-practice--supporting-ready-patient-access-to-test-results/</loc>
+    <loc>http://localhost:36193/press/policy-in-practice--supporting-ready-patient-access-to-test-results/</loc>
     <lastmod>2023-06-06T18:10:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/hl7-fhir-devdays/</loc>
+    <loc>http://localhost:36193/events/hl7-fhir-devdays/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/the-future-of-ai-and-personalized-cancer-care/</loc>
+    <loc>http://localhost:36193/events/the-future-of-ai-and-personalized-cancer-care/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/techquity-in-2023/</loc>
+    <loc>http://localhost:36193/press/techquity-in-2023/</loc>
     <lastmod>2023-05-30T12:21:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patients-need-more-info--tools-and-support/</loc>
+    <loc>http://localhost:36193/press/patients-need-more-info--tools-and-support/</loc>
     <lastmod>2023-05-26T18:04:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:36193/blog/the-five-key-points-missing-from-the-majority-of-digital-health-transformation-strategies/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-five-key-points-missing-from-the-majority-of-digital-health-transformation-strategies/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/events/summary---digital-health-transformation-summit-2023/</loc>
+    <loc>http://localhost:36193/events/summary---digital-health-transformation-summit-2023/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/iha-health-literacy-conference/</loc>
+    <loc>http://localhost:36193/blog/collections--recollections-of-casey-quinlan/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/blueprint-for-trustworthy-ai-implementation-guidance-and-assurance-for-healthcare/</loc>
+    <loc>http://localhost:36193/events/iha-health-literacy-conference/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/news/blueprint-for-trustworthy-ai-implementation-guidance-and-assurance-for-healthcare/</loc>
     <lastmod>2023-05-04T23:51:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-tribute-to-casey-quinlan---advocate-and-renaissance-woman/</loc>
+    <loc>http://localhost:36193/news/a-tribute-to-casey-quinlan---advocate-and-renaissance-woman/</loc>
     <lastmod>2023-04-29T12:14:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-it-today--fresh-daily-practical-healthcare-it-insights/</loc>
     <lastmod>2023-04-29T12:14:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/same-team/</loc>
+    <loc>http://localhost:36193/press/same-team/</loc>
     <lastmod>2023-04-29T12:13:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/why-patient-burnout-is-a--silent-public-health-crisis/</loc>
+    <loc>http://localhost:36193/press/why-patient-burnout-is-a--silent-public-health-crisis/</loc>
     <lastmod>2023-04-22T18:31:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-high-hopes---and-high-stakes---behind-microsoft-and-epic-s-plan-to-use-ai-to-answer-patient-questions/</loc>
+    <loc>http://localhost:36193/news/the-high-hopes---and-high-stakes---behind-microsoft-and-epic-s-plan-to-use-ai-to-answer-patient-questions/</loc>
     <lastmod>2023-04-22T14:36:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/himss-global-health-conference---exhibition/</loc>
+    <loc>http://localhost:36193/events/himss-global-health-conference---exhibition/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/public-inspection--health-data--technology--and-interoperability--certification-program-updates--algorithm-transparency--and-information-sharing/</loc>
+    <loc>http://localhost:36193/news/public-inspection--health-data--technology--and-interoperability--certification-program-updates--algorithm-transparency--and-information-sharing/</loc>
     <lastmod>2023-04-11T21:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/transfers-of-care_-the-silent-natural-disaster/</loc>
+    <loc>http://localhost:36193/blog/transfers-of-care_-the-silent-natural-disaster/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</loc>
+    <loc>http://localhost:36193/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</loc>
     <lastmod>2023-04-01T17:41:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/vive-2023/</loc>
+    <loc>http://localhost:36193/events/vive-2023/</loc>
     <lastmod>2023-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/we-re-getting-much-more-aggressive--microsoft-s-nuance-adds-gpt-4-ai-to-its-medical-note-taking-tool/</loc>
+    <loc>http://localhost:36193/news/we-re-getting-much-more-aggressive--microsoft-s-nuance-adds-gpt-4-ai-to-its-medical-note-taking-tool/</loc>
     <lastmod>2023-03-20T21:25:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/patient-perspectives-about-immediate-access-to-test-results-through-an-online-patient-portal/</loc>
+    <loc>http://localhost:36193/news/patient-perspectives-about-immediate-access-to-test-results-through-an-online-patient-portal/</loc>
     <lastmod>2023-03-20T18:17:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/american-medical-association/</loc>
+    <loc>http://localhost:36193/news/source/american-medical-association/</loc>
     <lastmod>2023-03-20T17:58:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/refining-rules-on-data-release-can-prevent-harm-to-patients/</loc>
+    <loc>http://localhost:36193/news/refining-rules-on-data-release-can-prevent-harm-to-patients/</loc>
     <lastmod>2023-03-20T17:58:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/attend-the-sxsw-conference---festivals/</loc>
+    <loc>http://localhost:36193/events/attend-the-sxsw-conference---festivals/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/x4---the-experience-management-summit/</loc>
+    <loc>http://localhost:36193/events/x4---the-experience-management-summit/</loc>
     <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/ai-driven-medical-care--a-health-data-reality-check/</loc>
+    <loc>http://localhost:36193/blog/dress-in-blue-day/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/press/ai-driven-medical-care--a-health-data-reality-check/</loc>
     <lastmod>2023-02-28T12:22:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-sequoia-project-launches-consumer-voices-workgroup-to-improve-patient-access-to-health-information/</loc>
+    <loc>http://localhost:36193/press/the-sequoia-project-launches-consumer-voices-workgroup-to-improve-patient-access-to-health-information/</loc>
     <lastmod>2023-02-27T13:51:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-open-data-and-innovationx-for-impact-at-the-2023-health-datap/</loc>
+    <loc>http://localhost:36193/news/hhs-open-data-and-innovationx-for-impact-at-the-2023-health-datap/</loc>
     <lastmod>2023-02-23T21:53:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/hhs.gov/</loc>
+    <loc>http://localhost:36193/news/source/hhs.gov/</loc>
     <lastmod>2023-02-23T21:53:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2023-health-datapalooza/</loc>
+    <loc>http://localhost:36193/events/2023-health-datapalooza/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-sequoia-project-launches-consumer-voices-workgroup-to-improve-patient-access-to-health-information---the-sequoia-project/</loc>
+    <loc>http://localhost:36193/press/the-sequoia-project-launches-consumer-voices-workgroup-to-improve-patient-access-to-health-information---the-sequoia-project/</loc>
     <lastmod>2023-02-21T21:24:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/medicaleconomics/</loc>
+    <loc>http://localhost:36193/news/source/medicaleconomics/</loc>
     <lastmod>2023-02-21T21:23:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/progress-toward-interoperability-is-gaining-momentum/</loc>
+    <loc>http://localhost:36193/news/progress-toward-interoperability-is-gaining-momentum/</loc>
     <lastmod>2023-02-21T21:23:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/63-system-execs-share-the-most-valuable-tech-investments-in-the-last-2-years/</loc>
+    <loc>http://localhost:36193/news/63-system-execs-share-the-most-valuable-tech-investments-in-the-last-2-years/</loc>
     <lastmod>2023-02-21T13:55:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/standard-operating-procedure--sop--qhin-onboarding---designation/</loc>
+    <loc>http://localhost:36193/news/standard-operating-procedure--sop--qhin-onboarding---designation/</loc>
     <lastmod>2023-02-20T13:57:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hlth-foundation-launches-techquity-for-health-coalition-to-help-integrate-health-equity-standards-into-healthcare-technology-and-data-practices/</loc>
+    <loc>http://localhost:36193/news/hlth-foundation-launches-techquity-for-health-coalition-to-help-integrate-health-equity-standards-into-healthcare-technology-and-data-practices/</loc>
     <lastmod>2023-02-08T10:31:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</loc>
+    <loc>http://localhost:36193/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</loc>
     <lastmod>2023-02-08T08:38:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</loc>
+    <loc>http://localhost:36193/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</loc>
     <lastmod>2023-02-08T08:36:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/medical-economics/</loc>
+    <loc>http://localhost:36193/news/source/medical-economics/</loc>
     <lastmod>2023-02-08T08:17:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ready-or-not--interoperability-is-coming/</loc>
+    <loc>http://localhost:36193/news/ready-or-not--interoperability-is-coming/</loc>
     <lastmod>2023-02-08T08:17:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</loc>
+    <loc>http://localhost:36193/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</loc>
     <lastmod>2023-02-07T21:11:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/ready-set-action-20-things-you-can-do-with-your-medical-records/</loc>
+    <loc>http://localhost:36193/blog/ready-set-action-20-things-you-can-do-with-your-medical-records/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthcare-and-it-marketing---pr-conference----hitmc/</loc>
+    <loc>http://localhost:36193/events/healthcare-and-it-marketing---pr-conference----hitmc/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/american-hospital-association/</loc>
+    <loc>http://localhost:36193/news/source/american-hospital-association/</loc>
     <lastmod>2023-01-30T21:26:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/developing-a-universal-and-secure-electronic-health-information-system/</loc>
+    <loc>http://localhost:36193/news/developing-a-universal-and-secure-electronic-health-information-system/</loc>
     <lastmod>2023-01-30T21:26:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthpopuli.com/</loc>
+    <loc>http://localhost:36193/news/source/healthpopuli.com/</loc>
     <lastmod>2023-01-30T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</loc>
+    <loc>http://localhost:36193/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</loc>
     <lastmod>2023-01-30T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/benefits-for-patients-and-consumers---onc-tefca-rce/</loc>
+    <loc>http://localhost:36193/news/benefits-for-patients-and-consumers---onc-tefca-rce/</loc>
     <lastmod>2023-01-30T14:27:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/onc-tefca-rce/</loc>
+    <loc>http://localhost:36193/news/source/onc-tefca-rce/</loc>
     <lastmod>2023-01-30T14:27:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ehi-is-not-what-it-used-to-be--but-don-t-panic/</loc>
+    <loc>http://localhost:36193/news/ehi-is-not-what-it-used-to-be--but-don-t-panic/</loc>
     <lastmod>2023-01-30T14:26:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-dive/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-dive/</loc>
     <lastmod>2023-01-30T11:31:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/more-hospitals-are-electronically-sharing-health-information/</loc>
+    <loc>http://localhost:36193/news/more-hospitals-are-electronically-sharing-health-information/</loc>
     <lastmod>2023-01-30T11:31:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/4sight-health/</loc>
+    <loc>http://localhost:36193/news/source/4sight-health/</loc>
     <lastmod>2023-01-10T16:11:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</loc>
+    <loc>http://localhost:36193/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</loc>
     <lastmod>2023-01-10T16:11:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/gao-makes-appointments-to-the-health-information-technology-advisory-committee/</loc>
+    <loc>http://localhost:36193/news/gao-makes-appointments-to-the-health-information-technology-advisory-committee/</loc>
     <lastmod>2023-01-10T16:10:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</loc>
+    <loc>http://localhost:36193/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</loc>
     <lastmod>2023-01-10T16:09:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/policy--medicine/</loc>
+    <loc>http://localhost:36193/news/source/policy--medicine/</loc>
     <lastmod>2023-01-10T16:09:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/what-can-be-done-to-address-the-burden-on-non-clinical-staff/</loc>
+    <loc>http://localhost:36193/news/what-can-be-done-to-address-the-burden-on-non-clinical-staff/</loc>
     <lastmod>2023-01-10T14:16:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blocking-access-through-hidden-dams/</loc>
+    <loc>http://localhost:36193/blog/blocking-access-through-hidden-dams/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/sequoia-project-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/sequoia-project-annual-meeting/</loc>
     <lastmod>2022-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/annual-digital-medicine-conference/</loc>
+    <loc>http://localhost:36193/events/annual-digital-medicine-conference/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/patient-need-to-knows-the-information-blocking-rules/</loc>
+    <loc>http://localhost:36193/blog/patient-need-to-knows-the-information-blocking-rules/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</loc>
+    <loc>http://localhost:36193/news/experts-unpack-the-true-meaning-behind-3-healthcare-buzzwords/</loc>
     <lastmod>2022-11-16T23:34:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/medcity-news/</loc>
+    <loc>http://localhost:36193/news/source/medcity-news/</loc>
     <lastmod>2022-11-16T23:34:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/hlth-2022/</loc>
+    <loc>http://localhost:36193/events/hlth-2022/</loc>
     <lastmod>2022-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/amia-2022-annual-symposium/</loc>
+    <loc>http://localhost:36193/events/amia-2022-annual-symposium/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/all-of-your-health-information-is-now-a-right-not-a-privilege---onc-head-tells-us-more/</loc>
+    <loc>http://localhost:36193/news/all-of-your-health-information-is-now-a-right-not-a-privilege---onc-head-tells-us-more/</loc>
     <lastmod>2022-11-04T21:11:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/supporting-healthy-communities--global-perspectives-on-equity-and-digital-health/</loc>
+    <loc>http://localhost:36193/events/supporting-healthy-communities--global-perspectives-on-equity-and-digital-health/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--onc-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--onc-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-secret-society-that-is-aiml-powered-clinical-decision-support-cds/</loc>
+    <loc>http://localhost:36193/blog/the-secret-society-that-is-aiml-powered-clinical-decision-support-cds/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/global-health-equity-week/</loc>
+    <loc>http://localhost:36193/events/global-health-equity-week/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/digital-patient-data-access-grows-in-large-hospitals--lags-in-small-orgs/</loc>
+    <loc>http://localhost:36193/news/digital-patient-data-access-grows-in-large-hospitals--lags-in-small-orgs/</loc>
     <lastmod>2022-10-22T19:35:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/patientengagementhit/</loc>
+    <loc>http://localhost:36193/news/source/patientengagementhit/</loc>
     <lastmod>2022-10-22T19:35:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patient-expectations/</loc>
+    <loc>http://localhost:36193/press/patient-expectations/</loc>
     <lastmod>2022-10-21T16:31:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/consumer-choice-in-u-s--health-care--using-insights-from-the-past-to-inform-the-way-forward/</loc>
+    <loc>http://localhost:36193/press/consumer-choice-in-u-s--health-care--using-insights-from-the-past-to-inform-the-way-forward/</loc>
     <lastmod>2022-10-12T15:39:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patient-need-to-knows--the-abcs-of-hies/</loc>
+    <loc>http://localhost:36193/press/patient-need-to-knows--the-abcs-of-hies/</loc>
     <lastmod>2022-10-03T10:35:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/prevalence-and-sources-of-duplicate-information-in-the-electronic-medical-record/</loc>
+    <loc>http://localhost:36193/blog/patient-need-to-knows-abcs-of-hies/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/news/prevalence-and-sources-of-duplicate-information-in-the-electronic-medical-record/</loc>
     <lastmod>2022-09-27T01:52:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/globenewswire-news-room/</loc>
+    <loc>http://localhost:36193/news/source/globenewswire-news-room/</loc>
     <lastmod>2022-09-26T15:22:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</loc>
+    <loc>http://localhost:36193/news/the-sequoia-project-s-information-blocking-compliance-workgroup-releases-final-versions-of-five-industry-focused-resources/</loc>
     <lastmod>2022-09-26T15:22:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthitsecurity/</loc>
+    <loc>http://localhost:36193/news/source/healthitsecurity/</loc>
     <lastmod>2022-09-22T19:41:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-settles-three-hipaa-right-of-access-cases-with-dental-practices/</loc>
+    <loc>http://localhost:36193/news/ocr-settles-three-hipaa-right-of-access-cases-with-dental-practices/</loc>
     <lastmod>2022-09-22T19:41:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--onc-s-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--onc-s-ask-us-about-information-sharing--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/minimal-compliance--or-meaningful-change--epic-faces-a-crossroads-as-new-rules-put-pressure-on-health-data-sharing/</loc>
+    <loc>http://localhost:36193/news/minimal-compliance--or-meaningful-change--epic-faces-a-crossroads-as-new-rules-put-pressure-on-health-data-sharing/</loc>
     <lastmod>2022-09-21T02:11:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/onc-webinar--countdown-to-compliance---information-blocking---healthcare-it---chime/</loc>
+    <loc>http://localhost:36193/events/onc-webinar--countdown-to-compliance---information-blocking---healthcare-it---chime/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/commercial-surveillance-and-data-security-public-forum/</loc>
+    <loc>http://localhost:36193/events/commercial-surveillance-and-data-security-public-forum/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/2022-civitas-recap--day-one--we-are--bettertogether2022/</loc>
+    <loc>http://localhost:36193/press/2022-civitas-recap--day-one--we-are--bettertogether2022/</loc>
     <lastmod>2022-08-30T01:36:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/amazon-vs--apple--only-one-will-rewrite-the-rules-of-healthcare/</loc>
+    <loc>http://localhost:36193/news/amazon-vs--apple--only-one-will-rewrite-the-rules-of-healthcare/</loc>
     <lastmod>2022-08-29T12:44:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/when-efforts-to-bridge-the-digital-divide-fail-dont-blame-patients/</loc>
+    <loc>http://localhost:36193/blog/when-efforts-to-bridge-the-digital-divide-fail-dont-blame-patients/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</loc>
+    <loc>http://localhost:36193/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</loc>
     <lastmod>2022-08-27T03:13:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-data-federalism/</loc>
+    <loc>http://localhost:36193/news/health-data-federalism/</loc>
     <lastmod>2022-08-21T20:41:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2022-annual-conference/</loc>
+    <loc>http://localhost:36193/events/2022-annual-conference/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/digital-medical-companies-funnel-patient-data-to-facebook-for-advertising/</loc>
+    <loc>http://localhost:36193/news/digital-medical-companies-funnel-patient-data-to-facebook-for-advertising/</loc>
     <lastmod>2022-08-18T12:44:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/forbes/</loc>
+    <loc>http://localhost:36193/news/source/forbes/</loc>
     <lastmod>2022-08-18T12:44:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ftc-explores-rules-cracking-down-on-commercial-surveillance-and-lax-data-security-practices/</loc>
+    <loc>http://localhost:36193/news/ftc-explores-rules-cracking-down-on-commercial-surveillance-and-lax-data-security-practices/</loc>
     <lastmod>2022-08-17T23:58:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/ad-law-access/</loc>
+    <loc>http://localhost:36193/news/source/ad-law-access/</loc>
     <lastmod>2022-08-17T23:54:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-ftc-s-privacy-rulemaking--broad-and-far-reaching--but-unlikely-to-lead-to-a-rule-anytime-soon/</loc>
+    <loc>http://localhost:36193/news/the-ftc-s-privacy-rulemaking--broad-and-far-reaching--but-unlikely-to-lead-to-a-rule-anytime-soon/</loc>
     <lastmod>2022-08-17T23:54:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2--are-connections-needed-to-survive-hospitalization/</loc>
+    <loc>http://localhost:36193/news/2--are-connections-needed-to-survive-hospitalization/</loc>
     <lastmod>2022-08-17T18:29:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/webinar-registration---zoom/</loc>
+    <loc>http://localhost:36193/events/webinar-registration---zoom/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/we-can-reduce-eliminate-patient-medication-errors/</loc>
+    <loc>http://localhost:36193/blog/we-can-reduce-eliminate-patient-medication-errors/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-downstream-effects-of-fractured-medication-data/</loc>
+    <loc>http://localhost:36193/news/the-downstream-effects-of-fractured-medication-data/</loc>
     <lastmod>2022-08-04T13:58:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/patient-need-to-knows-data-exchange-and-medical-records/</loc>
+    <loc>http://localhost:36193/blog/patient-need-to-knows-data-exchange-and-medical-records/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/internal-documents-show-privacy-lapses-at-a-data-powerhouse-that-holds-health-records-and-consumer-information-on-millions-of-americans/</loc>
+    <loc>http://localhost:36193/news/internal-documents-show-privacy-lapses-at-a-data-powerhouse-that-holds-health-records-and-consumer-information-on-millions-of-americans/</loc>
     <lastmod>2022-07-28T16:09:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/nbc-news/</loc>
+    <loc>http://localhost:36193/news/source/nbc-news/</loc>
     <lastmod>2022-07-28T01:57:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/online-privacy-is-so-much-more-than-having--nothing-to-hide--here-s-why/</loc>
+    <loc>http://localhost:36193/news/online-privacy-is-so-much-more-than-having--nothing-to-hide--here-s-why/</loc>
     <lastmod>2022-07-28T01:57:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/data-exchange-and-medical-records/</loc>
+    <loc>http://localhost:36193/press/data-exchange-and-medical-records/</loc>
     <lastmod>2022-07-27T18:22:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/health-it-answers/</loc>
+    <loc>http://localhost:36193/news/source/health-it-answers/</loc>
     <lastmod>2022-07-26T19:37:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</loc>
+    <loc>http://localhost:36193/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</loc>
     <lastmod>2022-07-26T19:37:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-troubling-report-on-cerner-s-va-rollout-offers-a-rare-look-into-the-hidden-harms-of-health-records/</loc>
+    <loc>http://localhost:36193/news/a-troubling-report-on-cerner-s-va-rollout-offers-a-rare-look-into-the-hidden-harms-of-health-records/</loc>
     <lastmod>2022-07-26T03:50:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/amazon-already-knows-a-lot-about-me--but-one-medical-takes-it-to-a-whole-new-level/</loc>
+    <loc>http://localhost:36193/news/amazon-already-knows-a-lot-about-me--but-one-medical-takes-it-to-a-whole-new-level/</loc>
     <lastmod>2022-07-26T03:48:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/cnbc/</loc>
+    <loc>http://localhost:36193/news/source/cnbc/</loc>
     <lastmod>2022-07-26T03:48:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-it-news/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-it-news/</loc>
     <lastmod>2022-07-15T23:05:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-to-fix-ehrs--one-health-it-leader-has-some-ideas/</loc>
+    <loc>http://localhost:36193/news/how-to-fix-ehrs--one-health-it-leader-has-some-ideas/</loc>
     <lastmod>2022-07-15T23:05:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/it-s-time-we-treat-medical-records-requests-as-a-critical-customer-service-issue-with-grace-cordovano/</loc>
+    <loc>http://localhost:36193/press/it-s-time-we-treat-medical-records-requests-as-a-critical-customer-service-issue-with-grace-cordovano/</loc>
     <lastmod>2022-07-15T06:02:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/we-can-attest--100--compliance-for-firsttime-attestations/</loc>
+    <loc>http://localhost:36193/news/we-can-attest--100--compliance-for-firsttime-attestations/</loc>
     <lastmod>2022-07-14T18:20:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/famjustice/</loc>
+    <loc>http://localhost:36193/news/source/famjustice/</loc>
     <lastmod>2022-07-14T17:43:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/illinois-establishes-patient-rights-to-emr-metadata/</loc>
+    <loc>http://localhost:36193/news/illinois-establishes-patient-rights-to-emr-metadata/</loc>
     <lastmod>2022-07-14T17:43:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-sit-down-with-epic-to-learn-about-their-decision-to-support-tefca/</loc>
+    <loc>http://localhost:36193/news/a-sit-down-with-epic-to-learn-about-their-decision-to-support-tefca/</loc>
     <lastmod>2022-07-13T13:46:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hipaa-privacy-rule-and-disclosures-of-information-relating-to-reproductive-health-care/</loc>
+    <loc>http://localhost:36193/news/hipaa-privacy-rule-and-disclosures-of-information-relating-to-reproductive-health-care/</loc>
     <lastmod>2022-07-08T14:02:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/protecting-the-privacy-and-security-of-your-health-information-when-using-your-personal-cell-phone-or-tablet/</loc>
+    <loc>http://localhost:36193/news/protecting-the-privacy-and-security-of-your-health-information-when-using-your-personal-cell-phone-or-tablet/</loc>
     <lastmod>2022-07-08T14:02:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/non-clinical-uses-of-medical-records-in-medically-complex-pediatrics/</loc>
+    <loc>http://localhost:36193/press/non-clinical-uses-of-medical-records-in-medically-complex-pediatrics/</loc>
     <lastmod>2022-07-06T14:41:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/patient-need-to-knows-non-clinical-uses-of-medical-records--pediatrics/</loc>
+    <loc>http://localhost:36193/blog/patient-need-to-knows-non-clinical-uses-of-medical-records--pediatrics/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ama-welcomes-hhs-privacy-guidance-in-wake-of-dobbs-decision/</loc>
+    <loc>http://localhost:36193/news/ama-welcomes-hhs-privacy-guidance-in-wake-of-dobbs-decision/</loc>
     <lastmod>2022-07-02T17:41:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/supreme-court-s-decision-on-abortion-sparks-health-tech-s-cambridge-analytica-moment/</loc>
+    <loc>http://localhost:36193/news/supreme-court-s-decision-on-abortion-sparks-health-tech-s-cambridge-analytica-moment/</loc>
     <lastmod>2022-07-01T23:25:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-national-patient-id-is-essential-for-patient-safety/</loc>
+    <loc>http://localhost:36193/news/a-national-patient-id-is-essential-for-patient-safety/</loc>
     <lastmod>2022-06-24T03:10:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/senators-aim-to-ban-data-brokers-from-selling-health-data-with-new-bill/</loc>
+    <loc>http://localhost:36193/news/senators-aim-to-ban-data-brokers-from-selling-health-data-with-new-bill/</loc>
     <lastmod>2022-06-21T16:19:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/it-s-time-to-burn-medical-consent-forms/</loc>
+    <loc>http://localhost:36193/news/it-s-time-to-burn-medical-consent-forms/</loc>
     <lastmod>2022-06-20T16:47:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/wired/</loc>
+    <loc>http://localhost:36193/news/source/wired/</loc>
     <lastmod>2022-06-20T16:47:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/video-conferencing--web-conferencing--webinars--screen-sharing/</loc>
+    <loc>http://localhost:36193/events/video-conferencing--web-conferencing--webinars--screen-sharing/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/registration---devdays/</loc>
+    <loc>http://localhost:36193/events/registration---devdays/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/harnessing-the-power-of-automation-to-address-the-information-blocking-rule-and-empower-healthcare/</loc>
+    <loc>http://localhost:36193/press/harnessing-the-power-of-automation-to-address-the-information-blocking-rule-and-empower-healthcare/</loc>
     <lastmod>2022-06-03T03:59:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/medical-records-precision-medicine/</loc>
+    <loc>http://localhost:36193/blog/medical-records-precision-medicine/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/what-will-it-take-to-cure-ehr-note-bloat/</loc>
+    <loc>http://localhost:36193/news/what-will-it-take-to-cure-ehr-note-bloat/</loc>
     <lastmod>2022-06-01T17:32:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/13-areas-to-improve-electronic-prior-authorization/</loc>
+    <loc>http://localhost:36193/news/13-areas-to-improve-electronic-prior-authorization/</loc>
     <lastmod>2022-06-01T16:52:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/axios/</loc>
+    <loc>http://localhost:36193/news/source/axios/</loc>
     <lastmod>2022-05-31T02:29:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/language-in-medical-records-may-be-due-for-an-update/</loc>
+    <loc>http://localhost:36193/news/language-in-medical-records-may-be-due-for-an-update/</loc>
     <lastmod>2022-05-31T02:29:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-secretary--cures-act-enforcement--long-overdue/</loc>
+    <loc>http://localhost:36193/news/hhs-secretary--cures-act-enforcement--long-overdue/</loc>
     <lastmod>2022-05-31T01:13:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/methods-for-de-identification-of-phi/</loc>
+    <loc>http://localhost:36193/news/methods-for-de-identification-of-phi/</loc>
     <lastmod>2022-05-28T21:51:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-a-complex-web-of-businesses-turned-private-health-records-from-ge-into-a-lucrative-portrait-of-patients/</loc>
+    <loc>http://localhost:36193/news/how-a-complex-web-of-businesses-turned-private-health-records-from-ge-into-a-lucrative-portrait-of-patients/</loc>
     <lastmod>2022-05-28T21:51:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/top-privacy-researchers-urge-the-health-care-industry-to-safeguard-patient-data/</loc>
+    <loc>http://localhost:36193/news/top-privacy-researchers-urge-the-health-care-industry-to-safeguard-patient-data/</loc>
     <lastmod>2022-05-27T12:23:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/chime--wedi-launch-patient-education-campaign-on-health-data-sharing/</loc>
+    <loc>http://localhost:36193/news/chime--wedi-launch-patient-education-campaign-on-health-data-sharing/</loc>
     <lastmod>2022-05-26T03:02:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/assisting-patients-dealing-with-an-administrative-burden/</loc>
+    <loc>http://localhost:36193/press/assisting-patients-dealing-with-an-administrative-burden/</loc>
     <lastmod>2022-05-13T02:52:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/patient-need-to-knows--working-with-oncology-registered-dieticians/</loc>
+    <loc>http://localhost:36193/blog/patient-need-to-knows--working-with-oncology-registered-dieticians/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-turns-18/</loc>
+    <loc>http://localhost:36193/news/onc-turns-18/</loc>
     <lastmod>2022-05-04T12:23:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/ai--ml--and-nlp-snub-patients--right-of-access/</loc>
+    <loc>http://localhost:36193/press/ai--ml--and-nlp-snub-patients--right-of-access/</loc>
     <lastmod>2022-05-02T19:02:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/ehrintelligence/</loc>
+    <loc>http://localhost:36193/news/source/ehrintelligence/</loc>
     <lastmod>2022-04-20T17:35:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</loc>
+    <loc>http://localhost:36193/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</loc>
     <lastmod>2022-04-20T17:35:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2022-onc-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/2022-onc-annual-meeting/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/calculating--value--in-healthcare/</loc>
+    <loc>http://localhost:36193/news/calculating--value--in-healthcare/</loc>
     <lastmod>2022-04-11T14:53:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-announces-four-hipaa-enforcement-actions/</loc>
+    <loc>http://localhost:36193/news/ocr-announces-four-hipaa-enforcement-actions/</loc>
     <lastmod>2022-04-06T14:16:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hitac-history-and-highlights/</loc>
+    <loc>http://localhost:36193/news/hitac-history-and-highlights/</loc>
     <lastmod>2022-04-06T05:05:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/consumer-and-patient-experience---same-or-different/</loc>
+    <loc>http://localhost:36193/press/consumer-and-patient-experience---same-or-different/</loc>
     <lastmod>2022-04-05T17:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/twitter-mourns-educator-dr--nadia-chaudhri--what-can-be-learned-from-her-story/</loc>
+    <loc>http://localhost:36193/press/twitter-mourns-educator-dr--nadia-chaudhri--what-can-be-learned-from-her-story/</loc>
     <lastmod>2022-04-05T17:45:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2022-health-datapalooza-and-national-health-policy-conference/</loc>
+    <loc>http://localhost:36193/events/2022-health-datapalooza-and-national-health-policy-conference/</loc>
     <lastmod>2022-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/himss-22/</loc>
+    <loc>http://localhost:36193/events/himss-22/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/nature/</loc>
+    <loc>http://localhost:36193/news/source/nature/</loc>
     <lastmod>2022-03-10T17:38:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</loc>
+    <loc>http://localhost:36193/news/synthetic-data-in-machine-learning-for-medicine-and-healthcare---nature-biomedical-engineering/</loc>
     <lastmod>2022-03-10T17:38:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-information-technology-and-hipaa/</loc>
+    <loc>http://localhost:36193/news/health-information-technology-and-hipaa/</loc>
     <lastmod>2022-03-10T16:09:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/virtual-care-enhances-experience-for-chronically-ill-patients/</loc>
+    <loc>http://localhost:36193/press/virtual-care-enhances-experience-for-chronically-ill-patients/</loc>
     <lastmod>2022-03-07T04:08:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/vive-2022/</loc>
+    <loc>http://localhost:36193/events/vive-2022/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/when-titles-tell-tall-tales-patients-can-suffer-the-consequences/</loc>
+    <loc>http://localhost:36193/blog/when-titles-tell-tall-tales-patients-can-suffer-the-consequences/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/an-upcoming-milestone-in-our-interoperability-journey/</loc>
+    <loc>http://localhost:36193/news/an-upcoming-milestone-in-our-interoperability-journey/</loc>
     <lastmod>2022-03-04T18:14:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/embracing-health-equity-by-design/</loc>
+    <loc>http://localhost:36193/news/embracing-health-equity-by-design/</loc>
     <lastmod>2022-03-03T12:08:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/sharing-clinical-notes-potential-medical-legal-benefits-and-risks/</loc>
+    <loc>http://localhost:36193/news/sharing-clinical-notes-potential-medical-legal-benefits-and-risks/</loc>
     <lastmod>2022-02-09T21:47:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/world-cancer-day-2022-eliminating-patient-administrative-burden/</loc>
+    <loc>http://localhost:36193/blog/world-cancer-day-2022-eliminating-patient-administrative-burden/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/loss-of-already-limited-time/</loc>
+    <loc>http://localhost:36193/blog/loss-of-already-limited-time/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-a-decades-old-database-became-a-hugely-profitable-dossier-on-the-health-of-270-million-americans/</loc>
+    <loc>http://localhost:36193/news/how-a-decades-old-database-became-a-hugely-profitable-dossier-on-the-health-of-270-million-americans/</loc>
     <lastmod>2022-02-02T11:25:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/registration/</loc>
+    <loc>http://localhost:36193/events/registration/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/say-hi-to-ehi/</loc>
+    <loc>http://localhost:36193/news/say-hi-to-ehi/</loc>
     <lastmod>2022-01-31T04:35:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/so-tefca-is-live--now-what/</loc>
+    <loc>http://localhost:36193/news/so-tefca-is-live--now-what/</loc>
     <lastmod>2022-01-27T11:52:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/false-dawns--implications-for-patients-of-the-theranos-debacle/</loc>
+    <loc>http://localhost:36193/news/false-dawns--implications-for-patients-of-the-theranos-debacle/</loc>
     <lastmod>2022-01-25T20:00:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/3-2-1-tefca-is-go-for-launch/</loc>
+    <loc>http://localhost:36193/news/3-2-1-tefca-is-go-for-launch/</loc>
     <lastmod>2022-01-18T17:21:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/an-onc-artificial-intelligence-showcase---seizing-the-opportunities-and-managing-the-risks-of-use-of-ai-in-health-it/</loc>
+    <loc>http://localhost:36193/events/an-onc-artificial-intelligence-showcase---seizing-the-opportunities-and-managing-the-risks-of-use-of-ai-in-health-it/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/enlightening-results/</loc>
+    <loc>http://localhost:36193/news/source/enlightening-results/</loc>
     <lastmod>2022-01-12T10:36:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-silence-is-deafening---enlightening-results/</loc>
+    <loc>http://localhost:36193/news/the-silence-is-deafening---enlightening-results/</loc>
     <lastmod>2022-01-12T10:36:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/oup-academic/</loc>
+    <loc>http://localhost:36193/news/source/oup-academic/</loc>
     <lastmod>2022-01-05T03:26:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</loc>
+    <loc>http://localhost:36193/news/role-of-electronic-health-record-developers-in-hospital-patient-sharing/</loc>
     <lastmod>2022-01-05T03:26:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/surprise-no-more-surprise-billing/</loc>
+    <loc>http://localhost:36193/blog/surprise-no-more-surprise-billing/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/machine-learning---ai-for-healthcare-forum/</loc>
+    <loc>http://localhost:36193/press/machine-learning---ai-for-healthcare-forum/</loc>
     <lastmod>2021-12-15T22:23:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/doctor--i-d-like-you-to-change-my-medical-record/</loc>
+    <loc>http://localhost:36193/news/doctor--i-d-like-you-to-change-my-medical-record/</loc>
     <lastmod>2021-12-10T02:56:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/tessa-richards--thank-goodness-for-google/</loc>
+    <loc>http://localhost:36193/news/tessa-richards--thank-goodness-for-google/</loc>
     <lastmod>2021-12-09T00:41:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-bmj/</loc>
+    <loc>http://localhost:36193/news/source/the-bmj/</loc>
     <lastmod>2021-12-09T00:41:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/journey-of-a-patient-editor/</loc>
+    <loc>http://localhost:36193/news/journey-of-a-patient-editor/</loc>
     <lastmod>2021-12-08T23:46:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/when-patient-advocacy-goes-global/</loc>
+    <loc>http://localhost:36193/blog/when-patient-advocacy-goes-global/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</loc>
+    <loc>http://localhost:36193/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</loc>
     <lastmod>2021-11-24T14:22:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2030-interoperability-projections-emphasize-clinical-decision-support/</loc>
+    <loc>http://localhost:36193/news/2030-interoperability-projections-emphasize-clinical-decision-support/</loc>
     <lastmod>2021-11-24T14:21:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/webinar--what-health-healthcare-providers-need-to-know-about-information-sharing--amp--the-information-blocking-regulation--webinar--2/</loc>
+    <loc>http://localhost:36193/events/webinar--what-health-healthcare-providers-need-to-know-about-information-sharing--amp--the-information-blocking-regulation--webinar--2/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthimpact-live-fall-forum/</loc>
+    <loc>http://localhost:36193/events/healthimpact-live-fall-forum/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</loc>
+    <loc>http://localhost:36193/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</loc>
     <lastmod>2021-11-05T21:25:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hlth2021-top-8-insights-from-the-patient-and-carepartner-perspective/</loc>
+    <loc>http://localhost:36193/blog/hlth2021-top-8-insights-from-the-patient-and-carepartner-perspective/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/healthcare-data-privacy--who-s-doing-it-right----dedalus-na/</loc>
+    <loc>http://localhost:36193/news/healthcare-data-privacy--who-s-doing-it-right----dedalus-na/</loc>
     <lastmod>2021-11-03T01:15:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/interoperability--where-it-s-headed--and-where-it-leaders-will-be-investing/</loc>
+    <loc>http://localhost:36193/news/interoperability--where-it-s-headed--and-where-it-leaders-will-be-investing/</loc>
     <lastmod>2021-11-02T16:38:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/association-of-health-care-journalists/</loc>
+    <loc>http://localhost:36193/news/source/association-of-health-care-journalists/</loc>
     <lastmod>2021-11-01T21:28:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</loc>
+    <loc>http://localhost:36193/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</loc>
     <lastmod>2021-11-01T21:28:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/good-machine-learning-practice-for-medical-device-development/</loc>
+    <loc>http://localhost:36193/news/good-machine-learning-practice-for-medical-device-development/</loc>
     <lastmod>2021-11-01T20:57:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/u.s.-food-and-drug-administration/</loc>
+    <loc>http://localhost:36193/news/source/u.s.-food-and-drug-administration/</loc>
     <lastmod>2021-11-01T20:57:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</loc>
+    <loc>http://localhost:36193/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</loc>
     <lastmod>2021-10-26T21:14:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/accelerating-the-patient-voice--empathy-amplifier/</loc>
+    <loc>http://localhost:36193/press/accelerating-the-patient-voice--empathy-amplifier/</loc>
     <lastmod>2021-10-26T20:47:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/if-patients-only-knew/</loc>
+    <loc>http://localhost:36193/news/if-patients-only-knew/</loc>
     <lastmod>2021-10-26T14:20:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/journal-of-ahima/</loc>
+    <loc>http://localhost:36193/news/source/journal-of-ahima/</loc>
     <lastmod>2021-10-26T14:20:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/de-identification-of-phi-according-to-the-hipaa-privacy-rule/</loc>
+    <loc>http://localhost:36193/news/de-identification-of-phi-according-to-the-hipaa-privacy-rule/</loc>
     <lastmod>2021-10-26T03:23:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/transparency-of-artificial-intelligence-machine-learning-enabled-medical-devices/</loc>
+    <loc>http://localhost:36193/press/transparency-of-artificial-intelligence-machine-learning-enabled-medical-devices/</loc>
     <lastmod>2021-10-16T21:05:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</loc>
+    <loc>http://localhost:36193/news/critical-flaws-found-in-interoperability-backbone--fhir-apis-vulnerable-to-abuse/</loc>
     <lastmod>2021-10-14T10:26:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/sc-media/</loc>
+    <loc>http://localhost:36193/news/source/sc-media/</loc>
     <lastmod>2021-10-14T10:26:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-impact-of-health-literacy/</loc>
+    <loc>http://localhost:36193/press/the-impact-of-health-literacy/</loc>
     <lastmod>2021-10-12T13:05:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/cri-virtual-immunotherapy-patient-summit---cancer-research-institute--cri/</loc>
+    <loc>http://localhost:36193/events/cri-virtual-immunotherapy-patient-summit---cancer-research-institute--cri/</loc>
     <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/francis-collins-to-step-down-as-director-of-the-national-institutes-of-health/</loc>
+    <loc>http://localhost:36193/news/francis-collins-to-step-down-as-director-of-the-national-institutes-of-health/</loc>
     <lastmod>2021-10-05T13:10:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/national-institutes-of-health-nih/</loc>
+    <loc>http://localhost:36193/news/source/national-institutes-of-health-nih/</loc>
     <lastmod>2021-10-05T13:10:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/pinktober/</loc>
+    <loc>http://localhost:36193/blog/pinktober/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-announces-former-dhs-official-lisa-j--pino-as-new-ocr-director/</loc>
+    <loc>http://localhost:36193/news/hhs-announces-former-dhs-official-lisa-j--pino-as-new-ocr-director/</loc>
     <lastmod>2021-09-30T15:00:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/wide-variety-of-topics-at--ahima21/</loc>
+    <loc>http://localhost:36193/press/wide-variety-of-topics-at--ahima21/</loc>
     <lastmod>2021-09-30T14:38:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patient-experience-podcast---the-beryl-institute---improving-the-patient-experience/</loc>
+    <loc>http://localhost:36193/press/patient-experience-podcast---the-beryl-institute---improving-the-patient-experience/</loc>
     <lastmod>2021-09-30T01:47:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/moving-ahead-on-information-sharing/</loc>
+    <loc>http://localhost:36193/news/moving-ahead-on-information-sharing/</loc>
     <lastmod>2021-09-21T18:02:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-resolves-twentieth-investigation-in-hipaa-right-of-access-initiative-with--80-000-settlement/</loc>
+    <loc>http://localhost:36193/news/ocr-resolves-twentieth-investigation-in-hipaa-right-of-access-initiative-with--80-000-settlement/</loc>
     <lastmod>2021-09-13T17:02:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2021-onc-tech-forum-virtual/</loc>
+    <loc>http://localhost:36193/events/2021-onc-tech-forum-virtual/</loc>
     <lastmod>2021-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/policies--techies--amp--vcs---what-s-next-for-health-care/</loc>
+    <loc>http://localhost:36193/events/policies--techies--amp--vcs---what-s-next-for-health-care/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/advancing-data-interoperability-with-the-national-coordinator-for-health-it/</loc>
+    <loc>http://localhost:36193/events/advancing-data-interoperability-with-the-national-coordinator-for-health-it/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-and-it-marketing-community--a-community-for-and-by-healthcare-marketers/</loc>
     <lastmod>2021-08-31T17:00:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-s-health-it-buzz-blog--a-peek-behind-the-curtain/</loc>
+    <loc>http://localhost:36193/news/onc-s-health-it-buzz-blog--a-peek-behind-the-curtain/</loc>
     <lastmod>2021-08-31T17:00:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/epic-s-ugm--user--conference--insights--perspectives--and-the-experience/</loc>
+    <loc>http://localhost:36193/news/epic-s-ugm--user--conference--insights--perspectives--and-the-experience/</loc>
     <lastmod>2021-08-27T11:41:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/monthly-meeting-minutes---codex---confluence/</loc>
+    <loc>http://localhost:36193/news/monthly-meeting-minutes---codex---confluence/</loc>
     <lastmod>2021-08-25T20:39:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--from-dx-to-rx--collaborating-for-a-better-patient-experience-in-cancer--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--from-dx-to-rx--collaborating-for-a-better-patient-experience-in-cancer--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/yes--himss21-was-worth-attending/</loc>
+    <loc>http://localhost:36193/news/yes--himss21-was-worth-attending/</loc>
     <lastmod>2021-08-17T14:45:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/clinical-decision-support-cds-accessing-data-you-dont-even-know-exists/</loc>
+    <loc>http://localhost:36193/blog/clinical-decision-support-cds-accessing-data-you-dont-even-know-exists/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</loc>
+    <loc>http://localhost:36193/news/you-have-cancer--when-the-computer-pre-empts-the-doctor/</loc>
     <lastmod>2021-08-14T14:59:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/views-from-the-top/</loc>
+    <loc>http://localhost:36193/events/views-from-the-top/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-message-are-you-sending/</loc>
+    <loc>http://localhost:36193/blog/what-message-are-you-sending/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</loc>
+    <loc>http://localhost:36193/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</loc>
     <lastmod>2021-07-22T17:39:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/award-winner-pam-landis--bringing-health-it--communications---operations-together/</loc>
+    <loc>http://localhost:36193/press/award-winner-pam-landis--bringing-health-it--communications---operations-together/</loc>
     <lastmod>2021-07-20T14:32:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/insights-into-ehr-documentation-workstations/</loc>
+    <loc>http://localhost:36193/news/insights-into-ehr-documentation-workstations/</loc>
     <lastmod>2021-07-17T17:14:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/5-tips-for-smoother-patient-access-to-health-information/</loc>
+    <loc>http://localhost:36193/press/5-tips-for-smoother-patient-access-to-health-information/</loc>
     <lastmod>2021-07-17T17:01:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</loc>
+    <loc>http://localhost:36193/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</loc>
     <lastmod>2021-07-13T13:19:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/northwestern-memorial-healthcare-latest-victim-of-elekta-s-phi-data-breach/</loc>
+    <loc>http://localhost:36193/news/northwestern-memorial-healthcare-latest-victim-of-elekta-s-phi-data-breach/</loc>
     <lastmod>2021-07-08T17:32:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/more-orgs-add-digital-vaccine-credentialing--patient-data-access/</loc>
+    <loc>http://localhost:36193/news/more-orgs-add-digital-vaccine-credentialing--patient-data-access/</loc>
     <lastmod>2021-07-07T12:35:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/from-pharma-research-to-virtual-first-strategies-and-state-policy-trends--ata2021-delivers-insights--best-practices-and-innovations-to-catalyze-change/</loc>
+    <loc>http://localhost:36193/press/from-pharma-research-to-virtual-first-strategies-and-state-policy-trends--ata2021-delivers-insights--best-practices-and-innovations-to-catalyze-change/</loc>
     <lastmod>2021-06-29T11:51:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/freedom-as-a-patient/</loc>
+    <loc>http://localhost:36193/blog/freedom-as-a-patient/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</loc>
+    <loc>http://localhost:36193/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</loc>
     <lastmod>2021-06-28T03:27:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/information-blocking---how-did-i-become-an--actor/</loc>
+    <loc>http://localhost:36193/news/information-blocking---how-did-i-become-an--actor/</loc>
     <lastmod>2021-06-25T20:37:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-national-law-review/</loc>
+    <loc>http://localhost:36193/news/source/the-national-law-review/</loc>
     <lastmod>2021-06-25T20:37:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/clinicians-open-their-notes-to-patients-in-grand-experiment-in-medical-care/</loc>
+    <loc>http://localhost:36193/news/clinicians-open-their-notes-to-patients-in-grand-experiment-in-medical-care/</loc>
     <lastmod>2021-06-18T15:02:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2021-annual-research-meeting/</loc>
+    <loc>http://localhost:36193/events/2021-annual-research-meeting/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/information-blocking-through-the-eyes-of-health-information-exchanges/</loc>
+    <loc>http://localhost:36193/news/information-blocking-through-the-eyes-of-health-information-exchanges/</loc>
     <lastmod>2021-06-10T02:11:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/catalyst/</loc>
+    <loc>http://localhost:36193/events/catalyst/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/physician-viewpoint--4-ways-to-protect-patient-privacy-in-the--big-data-era/</loc>
+    <loc>http://localhost:36193/news/physician-viewpoint--4-ways-to-protect-patient-privacy-in-the--big-data-era/</loc>
     <lastmod>2021-06-08T00:05:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/i-dont-want-surveys-i-want-solutions/</loc>
+    <loc>http://localhost:36193/blog/i-dont-want-surveys-i-want-solutions/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hipaa-privacy-rule-modification---removing-barriers-and-promoting-coordinated-care-at-what-cost/</loc>
+    <loc>http://localhost:36193/news/hipaa-privacy-rule-modification---removing-barriers-and-promoting-coordinated-care-at-what-cost/</loc>
     <lastmod>2021-05-23T23:41:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--hipaa-for-dummies-part-ii--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--hipaa-for-dummies-part-ii--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/doctors-routinely-share-health-data-electronically-under-hipaa--and-sharing-with-patients-and-patients--third-party-health-apps-is-consistent--interoperability-and-privacy-analysis/</loc>
+    <loc>http://localhost:36193/news/doctors-routinely-share-health-data-electronically-under-hipaa--and-sharing-with-patients-and-patients--third-party-health-apps-is-consistent--interoperability-and-privacy-analysis/</loc>
     <lastmod>2021-05-13T13:15:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/speakers-sessions/</loc>
+    <loc>http://localhost:36193/events/speakers-sessions/</loc>
     <lastmod>2021-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/cbs8.com/</loc>
+    <loc>http://localhost:36193/news/source/cbs8.com/</loc>
     <lastmod>2021-05-11T16:14:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/scripps-health-patients-frustrated-after-may-1-cyber-attack/</loc>
+    <loc>http://localhost:36193/news/scripps-health-patients-frustrated-after-may-1-cyber-attack/</loc>
     <lastmod>2021-05-11T16:14:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/interoperability-lessons-for-the-post-pandemic-era/</loc>
+    <loc>http://localhost:36193/events/interoperability-lessons-for-the-post-pandemic-era/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/information-blocking-rules-whats-uscdi-have-to-do-with-it/</loc>
+    <loc>http://localhost:36193/blog/information-blocking-rules-whats-uscdi-have-to-do-with-it/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/webinar--avoiding-interoperability-penalties/</loc>
+    <loc>http://localhost:36193/events/webinar--avoiding-interoperability-penalties/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-to-take-control-of-your-medical-records/</loc>
+    <loc>http://localhost:36193/news/how-to-take-control-of-your-medical-records/</loc>
     <lastmod>2021-04-26T13:34:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/marketwatch/</loc>
+    <loc>http://localhost:36193/news/source/marketwatch/</loc>
     <lastmod>2021-04-26T13:34:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/medium/</loc>
+    <loc>http://localhost:36193/news/source/medium/</loc>
     <lastmod>2021-04-26T11:25:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/why-the-new-interoperability-rules-don-t-yet-mean-the-death-of-the-fax-machine/</loc>
+    <loc>http://localhost:36193/news/why-the-new-interoperability-rules-don-t-yet-mean-the-death-of-the-fax-machine/</loc>
     <lastmod>2021-04-26T11:25:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--nyshealth-webinar--supporting-patient-and-family-access-to-health-information--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--nyshealth-webinar--supporting-patient-and-family-access-to-health-information--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/building-confidence-in-covid-19-vaccines/</loc>
+    <loc>http://localhost:36193/press/building-confidence-in-covid-19-vaccines/</loc>
     <lastmod>2021-04-22T18:33:06+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-sequoia-project-announces-new-members-to-its-board-of-directors/</loc>
+    <loc>http://localhost:36193/news/the-sequoia-project-announces-new-members-to-its-board-of-directors/</loc>
     <lastmod>2021-04-14T17:19:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cio-must-dos--reduce-bureaucracy--boost-patient-experience-and-improve-data-governance/</loc>
+    <loc>http://localhost:36193/news/cio-must-dos--reduce-bureaucracy--boost-patient-experience-and-improve-data-governance/</loc>
     <lastmod>2021-04-12T16:13:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/us-policy-requires-immediate-release-of-records-to-patients/</loc>
+    <loc>http://localhost:36193/news/us-policy-requires-immediate-release-of-records-to-patients/</loc>
     <lastmod>2021-04-12T13:47:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/confusion-remains-about-onc-information-blocking-rules--even-after-start-date/</loc>
+    <loc>http://localhost:36193/news/confusion-remains-about-onc-information-blocking-rules--even-after-start-date/</loc>
     <lastmod>2021-04-11T20:53:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</loc>
+    <loc>http://localhost:36193/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</loc>
     <lastmod>2021-04-10T03:19:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/health-evolution/</loc>
+    <loc>http://localhost:36193/news/source/health-evolution/</loc>
     <lastmod>2021-04-10T03:19:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-sharing-clinical-notes-affects-the-patient-physician-relationship/</loc>
+    <loc>http://localhost:36193/news/how-sharing-clinical-notes-affects-the-patient-physician-relationship/</loc>
     <lastmod>2021-04-07T18:07:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/top-takeaways-from-the-2021-onc-annual-meeting/</loc>
+    <loc>http://localhost:36193/news/top-takeaways-from-the-2021-onc-annual-meeting/</loc>
     <lastmod>2021-04-06T17:38:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</loc>
+    <loc>http://localhost:36193/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</loc>
     <lastmod>2021-04-06T14:41:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/information-blocking-faqs/</loc>
+    <loc>http://localhost:36193/news/information-blocking-faqs/</loc>
     <lastmod>2021-04-05T17:42:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/federal-rules-mandating-open-notes/</loc>
+    <loc>http://localhost:36193/news/federal-rules-mandating-open-notes/</loc>
     <lastmod>2021-04-05T11:34:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/understanding-information-blocking-exceptions-and-compliance/</loc>
+    <loc>http://localhost:36193/news/understanding-information-blocking-exceptions-and-compliance/</loc>
     <lastmod>2021-04-05T11:28:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/let-us-back-in/</loc>
+    <loc>http://localhost:36193/blog/let-us-back-in/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-settles-seventeenth-investigation-in-hipaa-right-of-access-initiative/</loc>
+    <loc>http://localhost:36193/news/ocr-settles-seventeenth-investigation-in-hipaa-right-of-access-initiative/</loc>
     <lastmod>2021-03-30T23:05:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr--healthcare-hipaa-compliance-report-finds-phi-security-failures/</loc>
+    <loc>http://localhost:36193/news/ocr--healthcare-hipaa-compliance-report-finds-phi-security-failures/</loc>
     <lastmod>2021-03-30T23:03:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/5-ways-to-connect-with-patients-in-post-vaccine-covid-world/</loc>
+    <loc>http://localhost:36193/press/5-ways-to-connect-with-patients-in-post-vaccine-covid-world/</loc>
     <lastmod>2021-03-30T12:48:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-glimpse-into-the-real-world-access-barriers-after-death/</loc>
+    <loc>http://localhost:36193/news/a-glimpse-into-the-real-world-access-barriers-after-death/</loc>
     <lastmod>2021-03-30T03:37:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/faqs-on-requesting-images-on-cd/</loc>
+    <loc>http://localhost:36193/news/faqs-on-requesting-images-on-cd/</loc>
     <lastmod>2021-03-30T03:35:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/obtaining-records-from-closed-practices/</loc>
+    <loc>http://localhost:36193/news/obtaining-records-from-closed-practices/</loc>
     <lastmod>2021-03-30T03:32:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/himsscast--what-the-new-info-blocking-rules-mean-for-you---with-deven-mcgraw/</loc>
+    <loc>http://localhost:36193/news/himsscast--what-the-new-info-blocking-rules-mean-for-you---with-deven-mcgraw/</loc>
     <lastmod>2021-03-30T03:18:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/we-are-the-ever-given/</loc>
+    <loc>http://localhost:36193/news/we-are-the-ever-given/</loc>
     <lastmod>2021-03-30T02:06:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2021-onc-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/2021-onc-annual-meeting/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/opennotes--drop-in-clinic--prepares-u-s--healthcare-professionals-for-federal-rule-mandating-open-visit-notes/</loc>
+    <loc>http://localhost:36193/events/opennotes--drop-in-clinic--prepares-u-s--healthcare-professionals-for-federal-rule-mandating-open-visit-notes/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-chief-micky-tripathi-talks-public-health-data-systems-and--health-equity-by-design/</loc>
+    <loc>http://localhost:36193/news/onc-chief-micky-tripathi-talks-public-health-data-systems-and--health-equity-by-design/</loc>
     <lastmod>2021-03-18T02:02:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar---understanding-oncs-draft-uscdi-v2-and-svap--after-registering-you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar---understanding-oncs-draft-uscdi-v2-and-svap--after-registering-you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/open-oncology-notes-research--amp--real-world-experiencewebinar--amp--office-hours--march-8--amp--march-11/</loc>
+    <loc>http://localhost:36193/events/open-oncology-notes-research--amp--real-world-experiencewebinar--amp--office-hours--march-8--amp--march-11/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-digital-divide-within/</loc>
+    <loc>http://localhost:36193/blog/the-digital-divide-within/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/efax-corporate-webinar/</loc>
+    <loc>http://localhost:36193/events/efax-corporate-webinar/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/buzzfeed-news/</loc>
+    <loc>http://localhost:36193/news/source/buzzfeed-news/</loc>
     <lastmod>2021-02-18T20:19:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</loc>
+    <loc>http://localhost:36193/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</loc>
     <lastmod>2021-02-18T20:19:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/financially--you-can-t-just-buy-the-best-in-class--we-look-at-our-legacy-systems-and-tools-first/</loc>
+    <loc>http://localhost:36193/news/financially--you-can-t-just-buy-the-best-in-class--we-look-at-our-legacy-systems-and-tools-first/</loc>
     <lastmod>2021-02-15T14:15:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/paddy-padmanabhan/</loc>
+    <loc>http://localhost:36193/news/source/paddy-padmanabhan/</loc>
     <lastmod>2021-02-15T14:15:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/portraits-of-resilience/</loc>
+    <loc>http://localhost:36193/events/portraits-of-resilience/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</loc>
+    <loc>http://localhost:36193/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</loc>
     <lastmod>2021-02-09T21:20:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/united-states-core-data-for-interoperability--uscdi/</loc>
+    <loc>http://localhost:36193/news/united-states-core-data-for-interoperability--uscdi/</loc>
     <lastmod>2021-02-07T16:48:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--onc-information-blocking-faq-webinar--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--onc-information-blocking-faq-webinar--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-information-exchanges-help-providers-get-beyond-fear-and-share-data/</loc>
+    <loc>http://localhost:36193/news/health-information-exchanges-help-providers-get-beyond-fear-and-share-data/</loc>
     <lastmod>2021-02-01T17:42:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/my-first-covid19-vaccine--what-to-expect---enlightening-results/</loc>
+    <loc>http://localhost:36193/press/my-first-covid19-vaccine--what-to-expect---enlightening-results/</loc>
     <lastmod>2021-01-28T16:50:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms-rule-targets-prior-authorization-with-interoperability/</loc>
+    <loc>http://localhost:36193/news/cms-rule-targets-prior-authorization-with-interoperability/</loc>
     <lastmod>2021-01-28T16:34:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthpayerintelligence/</loc>
+    <loc>http://localhost:36193/news/source/healthpayerintelligence/</loc>
     <lastmod>2021-01-28T16:34:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-path-toward-further-clinical-and-administrative-data-integration/</loc>
+    <loc>http://localhost:36193/news/a-path-toward-further-clinical-and-administrative-data-integration/</loc>
     <lastmod>2021-01-28T16:32:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/micky-tripathi-named-by-biden-administration-to-lead-onc/</loc>
+    <loc>http://localhost:36193/news/micky-tripathi-named-by-biden-administration-to-lead-onc/</loc>
     <lastmod>2021-01-28T14:26:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/worse-than-the-stone-age-stuck-in-the-paper-age/</loc>
+    <loc>http://localhost:36193/blog/worse-than-the-stone-age-stuck-in-the-paper-age/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthcare-digital-transformation-in-2021--what-s-next/</loc>
+    <loc>http://localhost:36193/events/healthcare-digital-transformation-in-2021--what-s-next/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</loc>
+    <loc>http://localhost:36193/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</loc>
     <lastmod>2021-01-26T17:31:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/banner-health-to-pay-ocr--200k-for-hipaa-right-of-access-failures/</loc>
+    <loc>http://localhost:36193/news/banner-health-to-pay-ocr--200k-for-hipaa-right-of-access-failures/</loc>
     <lastmod>2021-01-18T04:10:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cures-act-final-rule--changes-and-clarifications-from-the-proposed-rule-to-the-final-rule/</loc>
+    <loc>http://localhost:36193/news/cures-act-final-rule--changes-and-clarifications-from-the-proposed-rule-to-the-final-rule/</loc>
     <lastmod>2020-12-30T00:02:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</loc>
+    <loc>http://localhost:36193/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</loc>
     <lastmod>2020-12-30T00:01:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-right-to-inspect/</loc>
+    <loc>http://localhost:36193/blog/the-right-to-inspect/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms-releases-proposed-rule-expanding-health-data-interoperability-requirements-for-payers/</loc>
+    <loc>http://localhost:36193/news/cms-releases-proposed-rule-expanding-health-data-interoperability-requirements-for-payers/</loc>
     <lastmod>2020-12-29T23:48:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/is-hipaa-outdated--ahima-questions-whether-law-is-keeping-pace-with-change/</loc>
+    <loc>http://localhost:36193/news/is-hipaa-outdated--ahima-questions-whether-law-is-keeping-pace-with-change/</loc>
     <lastmod>2020-12-29T18:19:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</loc>
+    <loc>http://localhost:36193/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</loc>
     <lastmod>2020-12-27T19:19:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/uncovering-the-cause-of-a-baffling-illness-can-require-tenacity-and-toil/</loc>
+    <loc>http://localhost:36193/news/uncovering-the-cause-of-a-baffling-illness-can-require-tenacity-and-toil/</loc>
     <lastmod>2020-12-20T22:23:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/washington-post/</loc>
+    <loc>http://localhost:36193/news/source/washington-post/</loc>
     <lastmod>2020-12-20T22:23:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/patient-consumerism--healing-relationships--and-rebuilding-trust-in-health-care/</loc>
+    <loc>http://localhost:36193/news/patient-consumerism--healing-relationships--and-rebuilding-trust-in-health-care/</loc>
     <lastmod>2020-12-19T13:04:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-reveals-proposed-changes-to-hipaa-privacy-rule/</loc>
+    <loc>http://localhost:36193/news/hhs-reveals-proposed-changes-to-hipaa-privacy-rule/</loc>
     <lastmod>2020-12-19T12:59:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-10-patient-and-carepartner-priorities-you-must-pursue-in-2021/</loc>
+    <loc>http://localhost:36193/press/the-10-patient-and-carepartner-priorities-you-must-pursue-in-2021/</loc>
     <lastmod>2020-12-15T12:01:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/13th-annual-conference-on-the-science-of-dissemination-and-implementation-in-health/</loc>
+    <loc>http://localhost:36193/events/13th-annual-conference-on-the-science-of-dissemination-and-implementation-in-health/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</loc>
+    <loc>http://localhost:36193/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</loc>
     <lastmod>2020-12-12T17:07:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/with-telehealth--one-size-won-t-fit-all/</loc>
+    <loc>http://localhost:36193/news/with-telehealth--one-size-won-t-fit-all/</loc>
     <lastmod>2020-12-12T13:46:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/proposed-modifications-to-the-hipaa-privacy-rule-to-support--and-remove-barriers-to--coordinated-care-and-individual-engagement/</loc>
+    <loc>http://localhost:36193/news/proposed-modifications-to-the-hipaa-privacy-rule-to-support--and-remove-barriers-to--coordinated-care-and-individual-engagement/</loc>
     <lastmod>2020-12-12T13:42:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/poor-digital-health-experience-may-push-patients-to-change-docs/</loc>
+    <loc>http://localhost:36193/press/poor-digital-health-experience-may-push-patients-to-change-docs/</loc>
     <lastmod>2020-12-10T14:48:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthcare-cybersecurity-experience-with-gabrielle-hempel/</loc>
+    <loc>http://localhost:36193/events/healthcare-cybersecurity-experience-with-gabrielle-hempel/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/requesting-medical-records/</loc>
+    <loc>http://localhost:36193/press/requesting-medical-records/</loc>
     <lastmod>2020-12-08T03:50:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/node-health-digital-medicine-conference/</loc>
+    <loc>http://localhost:36193/events/node-health-digital-medicine-conference/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/accelerating-apis-in-healthcare--a-year-in-review-and-momentum-for-2021/</loc>
+    <loc>http://localhost:36193/press/accelerating-apis-in-healthcare--a-year-in-review-and-momentum-for-2021/</loc>
     <lastmod>2020-12-04T22:17:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/accelerating-application-programming-interfaces-for-scientific-discovery--consumer-perspectives/</loc>
+    <loc>http://localhost:36193/news/accelerating-application-programming-interfaces-for-scientific-discovery--consumer-perspectives/</loc>
     <lastmod>2020-12-03T16:41:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--accelerating-apis-in-healthcare--a-year-in-review-and-momentum-for-2021--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--accelerating-apis-in-healthcare--a-year-in-review-and-momentum-for-2021--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sick-enough-to-die--the-last-to-know/</loc>
+    <loc>http://localhost:36193/blog/sick-enough-to-die--the-last-to-know/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/american-medical-association-announces-new-policy-on-telehealth/</loc>
+    <loc>http://localhost:36193/news/american-medical-association-announces-new-policy-on-telehealth/</loc>
     <lastmod>2020-11-22T13:44:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/mhealthintelligence/</loc>
+    <loc>http://localhost:36193/news/source/mhealthintelligence/</loc>
     <lastmod>2020-11-22T13:44:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/positioning-patient-portals-for-success/</loc>
+    <loc>http://localhost:36193/news/positioning-patient-portals-for-success/</loc>
     <lastmod>2020-11-19T03:59:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/sync-for-science-pilot-project--participants--experiences/</loc>
+    <loc>http://localhost:36193/news/sync-for-science-pilot-project--participants--experiences/</loc>
     <lastmod>2020-11-18T12:15:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/21st-century-cures-act--roi--release-of-information--and-him-s-role/</loc>
+    <loc>http://localhost:36193/news/21st-century-cures-act--roi--release-of-information--and-him-s-role/</loc>
     <lastmod>2020-11-16T14:31:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-it-today/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-it-today/</loc>
     <lastmod>2020-11-16T14:31:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/mayo-clinic-sued-over-breach-of-patient-health-records/</loc>
+    <loc>http://localhost:36193/news/mayo-clinic-sued-over-breach-of-patient-health-records/</loc>
     <lastmod>2020-11-13T20:33:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/health-it-resiliency-experience-with-rasu-shrestha/</loc>
+    <loc>http://localhost:36193/events/health-it-resiliency-experience-with-rasu-shrestha/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/ain---events/</loc>
+    <loc>http://localhost:36193/events/ain---events/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/overview---ain/</loc>
+    <loc>http://localhost:36193/events/overview---ain/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/using-smartphone-apps-to-unlock-meaningful-patient-data-access/</loc>
+    <loc>http://localhost:36193/news/using-smartphone-apps-to-unlock-meaningful-patient-data-access/</loc>
     <lastmod>2020-11-03T16:04:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-offers-new-compliance-extension-for-information-blocking-rules/</loc>
+    <loc>http://localhost:36193/news/onc-offers-new-compliance-extension-for-information-blocking-rules/</loc>
     <lastmod>2020-11-02T18:32:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/ap-news/</loc>
+    <loc>http://localhost:36193/news/source/ap-news/</loc>
     <lastmod>2020-11-02T02:52:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</loc>
+    <loc>http://localhost:36193/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</loc>
     <lastmod>2020-11-02T02:52:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/delays-to-information-blocking-and-health-it-certification-in-21st-century-cures-act-final-rule/</loc>
+    <loc>http://localhost:36193/news/delays-to-information-blocking-and-health-it-certification-in-21st-century-cures-act-final-rule/</loc>
     <lastmod>2020-10-30T14:34:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/medication-reconciliation-scarier-than-all-of-halloweens-horrors/</loc>
+    <loc>http://localhost:36193/blog/medication-reconciliation-scarier-than-all-of-halloweens-horrors/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/get-help-in-other-languages/</loc>
+    <loc>http://localhost:36193/news/get-help-in-other-languages/</loc>
     <lastmod>2020-10-29T21:14:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/data-protection-and-privacy-key-theme-at-ahima20/</loc>
+    <loc>http://localhost:36193/news/data-protection-and-privacy-key-theme-at-ahima20/</loc>
     <lastmod>2020-10-22T16:35:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-officials-offer-update-on-information-blocking-rules-compliance/</loc>
+    <loc>http://localhost:36193/news/onc-officials-offer-update-on-information-blocking-rules-compliance/</loc>
     <lastmod>2020-10-16T02:43:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2020-0921-info-blocking-immediate-release-white-paper-pdf/</loc>
+    <loc>http://localhost:36193/news/2020-0921-info-blocking-immediate-release-white-paper-pdf/</loc>
     <lastmod>2020-10-16T02:34:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/dropbox/</loc>
+    <loc>http://localhost:36193/news/source/dropbox/</loc>
     <lastmod>2020-10-16T02:34:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/when-patients-read-their-story-in-clinical-notes/</loc>
+    <loc>http://localhost:36193/news/when-patients-read-their-story-in-clinical-notes/</loc>
     <lastmod>2020-10-15T22:46:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/new-u-s--law-mandates-access-to-clinical-notes--implications-for-patients-and-clinicians/</loc>
+    <loc>http://localhost:36193/news/new-u-s--law-mandates-access-to-clinical-notes--implications-for-patients-and-clinicians/</loc>
     <lastmod>2020-10-15T22:46:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/it-shouldn-t-take-medical-training-to-help-a-loved-one-get-great-care/</loc>
+    <loc>http://localhost:36193/news/it-shouldn-t-take-medical-training-to-help-a-loved-one-get-great-care/</loc>
     <lastmod>2020-10-14T12:52:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</loc>
+    <loc>http://localhost:36193/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</loc>
     <lastmod>2020-10-13T18:47:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-settles-ninth-investigation-in-hipaa-right-of-access-initiative/</loc>
+    <loc>http://localhost:36193/news/ocr-settles-ninth-investigation-in-hipaa-right-of-access-initiative/</loc>
     <lastmod>2020-10-11T16:20:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/how-can-patients-get-medical-records-from-a-closed-medical-practice/</loc>
+    <loc>http://localhost:36193/press/how-can-patients-get-medical-records-from-a-closed-medical-practice/</loc>
     <lastmod>2020-10-08T16:50:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-medical-futurist/</loc>
+    <loc>http://localhost:36193/news/source/the-medical-futurist/</loc>
     <lastmod>2020-10-07T03:12:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/your-privacy-in-digital-health--the-medical-futurist-s-guide/</loc>
+    <loc>http://localhost:36193/news/your-privacy-in-digital-health--the-medical-futurist-s-guide/</loc>
     <lastmod>2020-10-07T03:12:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/digital-transformation-experience-with-ed-marx/</loc>
+    <loc>http://localhost:36193/events/digital-transformation-experience-with-ed-marx/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/premera-pays-ocr--6-85m-to-settle-hipaa-violations--breach-of-10-4m/</loc>
+    <loc>http://localhost:36193/news/premera-pays-ocr--6-85m-to-settle-hipaa-violations--breach-of-10-4m/</loc>
     <lastmod>2020-09-29T14:38:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/over-my-dead-body/</loc>
+    <loc>http://localhost:36193/blog/over-my-dead-body/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2020-pcori-virtual-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/2020-pcori-virtual-annual-meeting/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/onc-fhir-at-scale-taskforce--fast--workshop--an-architectural-framework-for-ecosystem-infrastructure/</loc>
+    <loc>http://localhost:36193/events/onc-fhir-at-scale-taskforce--fast--workshop--an-architectural-framework-for-ecosystem-infrastructure/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</loc>
+    <loc>http://localhost:36193/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</loc>
     <lastmod>2020-09-01T02:15:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/making-healthcare-interoperability-a-reality-with-drew-ivan-from-lyniate/</loc>
+    <loc>http://localhost:36193/news/making-healthcare-interoperability-a-reality-with-drew-ivan-from-lyniate/</loc>
     <lastmod>2020-08-31T11:07:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/healthcare-executives-covid-19-challenges-via-klas-survey/</loc>
+    <loc>http://localhost:36193/news/healthcare-executives-covid-19-challenges-via-klas-survey/</loc>
     <lastmod>2020-08-31T11:02:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/onc-working-session--2--patient-identity-and-matching/</loc>
+    <loc>http://localhost:36193/events/onc-working-session--2--patient-identity-and-matching/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/op-ed--privacy-considerations-to-keep-in-mind-with-amazon-s-halo/</loc>
+    <loc>http://localhost:36193/news/op-ed--privacy-considerations-to-keep-in-mind-with-amazon-s-halo/</loc>
     <lastmod>2020-08-30T13:19:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/interview-with-teladoc-founder--michael-gorton/</loc>
+    <loc>http://localhost:36193/news/interview-with-teladoc-founder--michael-gorton/</loc>
     <lastmod>2020-08-28T14:31:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-difference-between-hl7-and-apis---what-cios-need-to-know-to-succeed-with-the-21st-century-cures-act-final-rule/</loc>
+    <loc>http://localhost:36193/news/the-difference-between-hl7-and-apis---what-cios-need-to-know-to-succeed-with-the-21st-century-cures-act-final-rule/</loc>
     <lastmod>2020-08-28T03:01:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/why-the-united-states-is-having-a-coronavirus-data-crisis/</loc>
+    <loc>http://localhost:36193/news/why-the-united-states-is-having-a-coronavirus-data-crisis/</loc>
     <lastmod>2020-08-27T14:24:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/patient-intake-paperwork-and-patient-consent---telehealth-features-series/</loc>
+    <loc>http://localhost:36193/news/patient-intake-paperwork-and-patient-consent---telehealth-features-series/</loc>
     <lastmod>2020-08-27T14:18:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/summit-schedule---cccc-annual-palliative-care-summit/</loc>
+    <loc>http://localhost:36193/events/summit-schedule---cccc-annual-palliative-care-summit/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/wtfix-virtual-patient-panel--sharing-personal-experiences-to-help-improve-health-care/</loc>
+    <loc>http://localhost:36193/events/wtfix-virtual-patient-panel--sharing-personal-experiences-to-help-improve-health-care/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/teladoc-health-reaches-agreement-to-buy-livongo-in-a--18-5-billion-deal/</loc>
+    <loc>http://localhost:36193/news/teladoc-health-reaches-agreement-to-buy-livongo-in-a--18-5-billion-deal/</loc>
     <lastmod>2020-08-08T18:52:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/do-you-want-to-know-a-secret/</loc>
+    <loc>http://localhost:36193/blog/do-you-want-to-know-a-secret/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/himss-2021-conference-officially-moved-to-august-9-13-in-las-vegas/</loc>
+    <loc>http://localhost:36193/news/himss-2021-conference-officially-moved-to-august-9-13-in-las-vegas/</loc>
     <lastmod>2020-08-03T13:13:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/mobile-fax-apps-and-hipaa-compliance/</loc>
+    <loc>http://localhost:36193/news/mobile-fax-apps-and-hipaa-compliance/</loc>
     <lastmod>2020-08-03T13:12:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/new-interoperability-rulings-push-the-needle-on-fhir-adoption/</loc>
+    <loc>http://localhost:36193/news/new-interoperability-rulings-push-the-needle-on-fhir-adoption/</loc>
     <lastmod>2020-08-02T23:46:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/unencrypted-stolen-laptop-costs-lifespan-more-than--1m/</loc>
+    <loc>http://localhost:36193/news/unencrypted-stolen-laptop-costs-lifespan-more-than--1m/</loc>
     <lastmod>2020-08-01T03:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/thcb-gang--episode-19--july-23--2020/</loc>
+    <loc>http://localhost:36193/press/thcb-gang--episode-19--july-23--2020/</loc>
     <lastmod>2020-07-31T12:25:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/getting-to-patient-centered-care-in-a-post-covid-19-digital-world--a-proposal-for-novel-surveys--methodology--and-patient-experience-maturity-assessment/</loc>
+    <loc>http://localhost:36193/news/getting-to-patient-centered-care-in-a-post-covid-19-digital-world--a-proposal-for-novel-surveys--methodology--and-patient-experience-maturity-assessment/</loc>
     <lastmod>2020-07-31T02:59:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/aspe/</loc>
+    <loc>http://localhost:36193/news/source/aspe/</loc>
     <lastmod>2020-07-29T11:11:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/aspe-issue-brief--medicare-beneficiary-use-of-telehealth-visits--early-data-from-the-start-of-the-covid-19-pandemic/</loc>
+    <loc>http://localhost:36193/news/aspe-issue-brief--medicare-beneficiary-use-of-telehealth-visits--early-data-from-the-start-of-the-covid-19-pandemic/</loc>
     <lastmod>2020-07-29T11:11:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-sequoia-project-launches-information-blocking-boot-camp/</loc>
+    <loc>http://localhost:36193/news/the-sequoia-project-launches-information-blocking-boot-camp/</loc>
     <lastmod>2020-07-28T09:22:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/u-s--hospitals-scramble-to-adopt-new-hhs-coronavirus-data-system--some-states-see--data-blackout/</loc>
+    <loc>http://localhost:36193/news/u-s--hospitals-scramble-to-adopt-new-hhs-coronavirus-data-system--some-states-see--data-blackout/</loc>
     <lastmod>2020-07-25T10:45:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/engaging-patients-in-digital-communications-during-the-covid-19-pandemic/</loc>
+    <loc>http://localhost:36193/events/engaging-patients-in-digital-communications-during-the-covid-19-pandemic/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/bottleneck-for-u-s--coronavirus-response--the-fax-machine/</loc>
+    <loc>http://localhost:36193/news/bottleneck-for-u-s--coronavirus-response--the-fax-machine/</loc>
     <lastmod>2020-07-14T02:27:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-health-care-blog-s-podcasts--thcb-gang-episode-17--patients-and-technology--and-the-supreme-court-ruiling-on-birth-control-on-apple-podcasts/</loc>
+    <loc>http://localhost:36193/press/the-health-care-blog-s-podcasts--thcb-gang-episode-17--patients-and-technology--and-the-supreme-court-ruiling-on-birth-control-on-apple-podcasts/</loc>
     <lastmod>2020-07-10T18:15:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/himss/</loc>
+    <loc>http://localhost:36193/news/source/himss/</loc>
     <lastmod>2020-07-06T18:49:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/lessons-learned-from-the-health-journey-of-a-cancer-survivor-and-caregiver/</loc>
+    <loc>http://localhost:36193/news/lessons-learned-from-the-health-journey-of-a-cancer-survivor-and-caregiver/</loc>
     <lastmod>2020-07-06T18:49:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/now-where-do-i-put-them/</loc>
+    <loc>http://localhost:36193/blog/now-where-do-i-put-them/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-it-playbook/</loc>
+    <loc>http://localhost:36193/news/health-it-playbook/</loc>
     <lastmod>2020-06-29T13:19:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/bill-of-health/</loc>
+    <loc>http://localhost:36193/news/source/bill-of-health/</loc>
     <lastmod>2020-06-27T19:46:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-traditional-health-records-bolster-structural-racism/</loc>
+    <loc>http://localhost:36193/news/how-traditional-health-records-bolster-structural-racism/</loc>
     <lastmod>2020-06-27T19:46:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/ata2020--4-ways-to-transform-the-telehealth-patient-experience/</loc>
+    <loc>http://localhost:36193/press/ata2020--4-ways-to-transform-the-telehealth-patient-experience/</loc>
     <lastmod>2020-06-26T03:08:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/full-agenda/</loc>
+    <loc>http://localhost:36193/events/full-agenda/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ehr-based-cpoe-tools-miss-many-dangerous-medication-interactions/</loc>
+    <loc>http://localhost:36193/news/ehr-based-cpoe-tools-miss-many-dangerous-medication-interactions/</loc>
     <lastmod>2020-06-13T18:44:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/welcome--you-are-invited-to-join-a-webinar--changing-the-paradigm-of-patient-centricity--are-you--researchready--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
+    <loc>http://localhost:36193/events/welcome--you-are-invited-to-join-a-webinar--changing-the-paradigm-of-patient-centricity--are-you--researchready--after-registering--you-will-receive-a-confirmation-email-about-joining-the-webinar/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/patient-reported-errors-in-electronic-health-record-ambulatory-care-notes/</loc>
+    <loc>http://localhost:36193/news/patient-reported-errors-in-electronic-health-record-ambulatory-care-notes/</loc>
     <lastmod>2020-06-10T10:50:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/directtrust-summit-2020/</loc>
+    <loc>http://localhost:36193/events/directtrust-summit-2020/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-tech-4-health-systems-use-to-limit-disparities-in-healthcare--the-inequities-in-access-to-healthcare-and-resources-are-well-documented-and-can-have-a-negative-effect-on-patient-outcomes/</loc>
+    <loc>http://localhost:36193/news/the-tech-4-health-systems-use-to-limit-disparities-in-healthcare--the-inequities-in-access-to-healthcare-and-resources-are-well-documented-and-can-have-a-negative-effect-on-patient-outcomes/</loc>
     <lastmod>2020-06-05T19:31:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthcare-finance-news/</loc>
+    <loc>http://localhost:36193/news/source/healthcare-finance-news/</loc>
     <lastmod>2020-06-01T19:15:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</loc>
+    <loc>http://localhost:36193/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</loc>
     <lastmod>2020-06-01T19:15:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/onc-working-session--patient-identity-and-matching/</loc>
+    <loc>http://localhost:36193/events/onc-working-session--patient-identity-and-matching/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/three-ways-providers-get-hipaa-right-of-access-wrong/</loc>
+    <loc>http://localhost:36193/news/three-ways-providers-get-hipaa-right-of-access-wrong/</loc>
     <lastmod>2020-05-29T13:39:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/asco-2020/</loc>
+    <loc>http://localhost:36193/events/asco-2020/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/20-ways-patients-request-medical-records--their-health-information/</loc>
+    <loc>http://localhost:36193/blog/20-ways-patients-request-medical-records--their-health-information/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/empowering-patients-to-advance-precision-medicine--one-ehr-at-a-time/</loc>
+    <loc>http://localhost:36193/news/empowering-patients-to-advance-precision-medicine--one-ehr-at-a-time/</loc>
     <lastmod>2020-05-27T18:10:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-data-privacy-draws-fresh-scrutiny-from-lawmakers-amid-pandemic/</loc>
+    <loc>http://localhost:36193/news/health-data-privacy-draws-fresh-scrutiny-from-lawmakers-amid-pandemic/</loc>
     <lastmod>2020-05-23T01:50:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/accelerating-health-systems--digital-transformation--why-digital-health-must-be-the-new-standard-in-a-post-covid-19-world/</loc>
+    <loc>http://localhost:36193/events/accelerating-health-systems--digital-transformation--why-digital-health-must-be-the-new-standard-in-a-post-covid-19-world/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</loc>
+    <loc>http://localhost:36193/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</loc>
     <lastmod>2020-05-18T18:42:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/e-patient-dave/</loc>
+    <loc>http://localhost:36193/news/source/e-patient-dave/</loc>
     <lastmod>2020-05-18T18:42:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/healthcare-iot-data-at-the-point-of-care/</loc>
+    <loc>http://localhost:36193/press/healthcare-iot-data-at-the-point-of-care/</loc>
     <lastmod>2020-05-18T15:21:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-officials-say--no-thanks--to-contact-tracing-tech/</loc>
+    <loc>http://localhost:36193/news/health-officials-say--no-thanks--to-contact-tracing-tech/</loc>
     <lastmod>2020-05-16T17:00:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/why--in-the-midst-of-a-u-s--health-crisis--there-are-major-challenges-for-doctors-to-access-patient-records/</loc>
+    <loc>http://localhost:36193/news/why--in-the-midst-of-a-u-s--health-crisis--there-are-major-challenges-for-doctors-to-access-patient-records/</loc>
     <lastmod>2020-05-16T00:07:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/virtual-fhir-connectathon/</loc>
+    <loc>http://localhost:36193/events/virtual-fhir-connectathon/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</loc>
+    <loc>http://localhost:36193/news/federal-health-it-rules-remain-on-track-to-improve-care-and-public-health/</loc>
     <lastmod>2020-05-12T03:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/thehill/</loc>
+    <loc>http://localhost:36193/news/source/thehill/</loc>
     <lastmod>2020-05-12T03:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-healthcare-innovation-bubble--making-the-most-of-the-covid-19-crisis/</loc>
+    <loc>http://localhost:36193/news/the-healthcare-innovation-bubble--making-the-most-of-the-covid-19-crisis/</loc>
     <lastmod>2020-05-11T02:54:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/why-patients-need-full-access-to-their-medical-records/</loc>
+    <loc>http://localhost:36193/news/why-patients-need-full-access-to-their-medical-records/</loc>
     <lastmod>2020-05-09T03:02:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/congress-must-tackle-patient-matching-amid-covid-19--says-pew-charitable-trusts/</loc>
+    <loc>http://localhost:36193/news/congress-must-tackle-patient-matching-amid-covid-19--says-pew-charitable-trusts/</loc>
     <lastmod>2020-05-08T18:09:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/cnn/</loc>
+    <loc>http://localhost:36193/news/source/cnn/</loc>
     <lastmod>2020-05-08T03:50:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</loc>
+    <loc>http://localhost:36193/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</loc>
     <lastmod>2020-05-08T03:50:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ehr-patient-portals-trigger-patient-data-change-requests/</loc>
+    <loc>http://localhost:36193/news/ehr-patient-portals-trigger-patient-data-change-requests/</loc>
     <lastmod>2020-05-08T03:35:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/care-partners-and-patient-portals-faulty-access--threats-to-privacy--and-ample-opportunity/</loc>
+    <loc>http://localhost:36193/news/care-partners-and-patient-portals-faulty-access--threats-to-privacy--and-ample-opportunity/</loc>
     <lastmod>2020-05-05T19:45:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/open-health-data-privacy-debate-set-to-drive-post-covid-19-planning/</loc>
+    <loc>http://localhost:36193/news/open-health-data-privacy-debate-set-to-drive-post-covid-19-planning/</loc>
     <lastmod>2020-05-04T15:42:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</loc>
+    <loc>http://localhost:36193/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</loc>
     <lastmod>2020-05-04T15:25:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/mobihealthnews/</loc>
+    <loc>http://localhost:36193/news/source/mobihealthnews/</loc>
     <lastmod>2020-05-04T15:25:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/voice-only-telehealth-reimbursement--pt-telehealth-reimbursement--and-many-more-regulatory-changes-from-cms/</loc>
+    <loc>http://localhost:36193/news/voice-only-telehealth-reimbursement--pt-telehealth-reimbursement--and-many-more-regulatory-changes-from-cms/</loc>
     <lastmod>2020-05-04T12:14:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/covid-19-highlights-the-importance-of-onc-info-blocking-rules--says-rucker/</loc>
+    <loc>http://localhost:36193/news/covid-19-highlights-the-importance-of-onc-info-blocking-rules--says-rucker/</loc>
     <lastmod>2020-05-01T20:00:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</loc>
+    <loc>http://localhost:36193/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</loc>
     <lastmod>2020-04-30T14:41:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/kaiser-health-news/</loc>
+    <loc>http://localhost:36193/news/source/kaiser-health-news/</loc>
     <lastmod>2020-04-30T14:41:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/new-hhs-rule-calls-for-fhir-use-cases-to-aid-data-exchange/</loc>
+    <loc>http://localhost:36193/news/new-hhs-rule-calls-for-fhir-use-cases-to-aid-data-exchange/</loc>
     <lastmod>2020-04-29T14:07:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms--onc--and-oig-regulatory-updates-including-information-blocking-enforcement-details/</loc>
+    <loc>http://localhost:36193/news/cms--onc--and-oig-regulatory-updates-including-information-blocking-enforcement-details/</loc>
     <lastmod>2020-04-26T21:32:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/thcb-gang/</loc>
+    <loc>http://localhost:36193/press/thcb-gang/</loc>
     <lastmod>2020-04-24T19:39:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ama-quick-guide-to-telemedicine-in-practice/</loc>
+    <loc>http://localhost:36193/news/ama-quick-guide-to-telemedicine-in-practice/</loc>
     <lastmod>2020-04-24T03:50:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/telemedicine--patient-data-access-pandemically-perfect-together/</loc>
+    <loc>http://localhost:36193/blog/telemedicine--patient-data-access-pandemically-perfect-together/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/telemedicine-during-covid--how-not-to-fail-out-of-the-gate/</loc>
+    <loc>http://localhost:36193/press/telemedicine-during-covid--how-not-to-fail-out-of-the-gate/</loc>
     <lastmod>2020-04-23T17:36:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cures-act-final-rule--standards-based-application-programming-interface--api--certification-criterion/</loc>
+    <loc>http://localhost:36193/news/cures-act-final-rule--standards-based-application-programming-interface--api--certification-criterion/</loc>
     <lastmod>2020-04-22T14:55:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/federal-register/</loc>
+    <loc>http://localhost:36193/news/source/federal-register/</loc>
     <lastmod>2020-04-22T03:27:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/public-inspection--grants--contracts--and-other-agreements--fraud-and-abuse--information-blocking--office-of-inspector-general-s-civil-money-penalty-rules/</loc>
+    <loc>http://localhost:36193/news/public-inspection--grants--contracts--and-other-agreements--fraud-and-abuse--information-blocking--office-of-inspector-general-s-civil-money-penalty-rules/</loc>
     <lastmod>2020-04-22T03:27:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ocr-resolves-civil-rights-complaint-against-pennsylvania-after-it-revises-its-pandemic-health-care-triaging-policies-to-protect-against-disability-discrimination/</loc>
+    <loc>http://localhost:36193/news/ocr-resolves-civil-rights-complaint-against-pennsylvania-after-it-revises-its-pandemic-health-care-triaging-policies-to-protect-against-disability-discrimination/</loc>
     <lastmod>2020-04-22T03:05:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/policy---regulatory-changes/</loc>
+    <loc>http://localhost:36193/press/policy---regulatory-changes/</loc>
     <lastmod>2020-04-22T02:27:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/efax-corporate-webinar-cms-and-onc-final-rules-implementing-provisions-of-the-21st-century-cures-act-and-impact-on-your-organization/</loc>
+    <loc>http://localhost:36193/events/efax-corporate-webinar-cms-and-onc-final-rules-implementing-provisions-of-the-21st-century-cures-act-and-impact-on-your-organization/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/patient-access-of-phi-and-communications/</loc>
+    <loc>http://localhost:36193/events/patient-access-of-phi-and-communications/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/u.s./</loc>
+    <loc>http://localhost:36193/news/source/u.s./</loc>
     <lastmod>2020-04-19T02:59:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/u-s--watchdog-finds--6-7-billion-in-questionable-medicare-payments-to-insurers/</loc>
+    <loc>http://localhost:36193/news/u-s--watchdog-finds--6-7-billion-in-questionable-medicare-payments-to-insurers/</loc>
     <lastmod>2020-04-19T02:59:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ama-calls-on-state-action-for-patient-care-access-amid-coronavirus/</loc>
+    <loc>http://localhost:36193/news/ama-calls-on-state-action-for-patient-care-access-amid-coronavirus/</loc>
     <lastmod>2020-04-16T16:53:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-has-coronavirus-affected-healthcare-consumerism--tech-use/</loc>
+    <loc>http://localhost:36193/news/how-has-coronavirus-affected-healthcare-consumerism--tech-use/</loc>
     <lastmod>2020-04-16T16:51:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/title/</loc>
+    <loc>http://localhost:36193/events/title/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/patients-turn-to-telehealth/</loc>
+    <loc>http://localhost:36193/news/patients-turn-to-telehealth/</loc>
     <lastmod>2020-04-15T04:23:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/is-epic-building-its-own-telehealth-solution-using-twilio/</loc>
+    <loc>http://localhost:36193/news/is-epic-building-its-own-telehealth-solution-using-twilio/</loc>
     <lastmod>2020-04-14T15:36:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/pharmacologic-treatments-for-coronavirus-disease-2019--covid-19/</loc>
+    <loc>http://localhost:36193/news/pharmacologic-treatments-for-coronavirus-disease-2019--covid-19/</loc>
     <lastmod>2020-04-14T12:38:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/apple-and-google-detail-covid-19-contact-tracing-program--focus-on-privacy--u/</loc>
+    <loc>http://localhost:36193/news/apple-and-google-detail-covid-19-contact-tracing-program--focus-on-privacy--u/</loc>
     <lastmod>2020-04-14T03:36:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/appleinsider/</loc>
+    <loc>http://localhost:36193/news/source/appleinsider/</loc>
     <lastmod>2020-04-14T03:36:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/njdhs-deaf-assistance-card/</loc>
+    <loc>http://localhost:36193/news/njdhs-deaf-assistance-card/</loc>
     <lastmod>2020-04-14T02:12:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/rwjbarnabas-health/</loc>
+    <loc>http://localhost:36193/news/source/rwjbarnabas-health/</loc>
     <lastmod>2020-04-14T02:12:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/covid-19-community-testing--getting-hipaa-protection/</loc>
+    <loc>http://localhost:36193/news/covid-19-community-testing--getting-hipaa-protection/</loc>
     <lastmod>2020-04-11T13:21:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-pulse/</loc>
+    <loc>http://localhost:36193/news/source/the-pulse/</loc>
     <lastmod>2020-04-11T13:21:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</loc>
+    <loc>http://localhost:36193/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</loc>
     <lastmod>2020-04-11T12:31:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/safeguarding-phi-during-covid-19-crisis--emerging-challenges/</loc>
+    <loc>http://localhost:36193/news/safeguarding-phi-during-covid-19-crisis--emerging-challenges/</loc>
     <lastmod>2020-04-11T00:29:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/health-irl--policy---regulatory-changes/</loc>
+    <loc>http://localhost:36193/press/health-irl--policy---regulatory-changes/</loc>
     <lastmod>2020-04-10T19:24:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/a-collaborative-health-conversation-on-policy---regulatory-changes/</loc>
+    <loc>http://localhost:36193/events/a-collaborative-health-conversation-on-policy---regulatory-changes/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/healthcare-iot-data-at-the-point-of-care-registration/</loc>
+    <loc>http://localhost:36193/events/healthcare-iot-data-at-the-point-of-care-registration/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patients---vulnerable-populations-pandemically-left-in-the-dark/</loc>
+    <loc>http://localhost:36193/press/patients---vulnerable-populations-pandemically-left-in-the-dark/</loc>
     <lastmod>2020-04-07T17:45:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</loc>
+    <loc>http://localhost:36193/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</loc>
     <lastmod>2020-04-03T19:22:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/propublica/</loc>
+    <loc>http://localhost:36193/news/source/propublica/</loc>
     <lastmod>2020-04-03T19:22:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/notification-of-enforcement-discretion-for-business-associates-and-hipaa/</loc>
+    <loc>http://localhost:36193/news/notification-of-enforcement-discretion-for-business-associates-and-hipaa/</loc>
     <lastmod>2020-04-03T14:37:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/people-with-serious-illness-can-teach-us-about-living-with-covid19/</loc>
+    <loc>http://localhost:36193/press/people-with-serious-illness-can-teach-us-about-living-with-covid19/</loc>
     <lastmod>2020-03-30T03:31:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hipaa-penalties-suspended-for-telehealth-during-covid-19-national-emergency/</loc>
+    <loc>http://localhost:36193/news/hipaa-penalties-suspended-for-telehealth-during-covid-19-national-emergency/</loc>
     <lastmod>2020-03-29T14:26:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</loc>
+    <loc>http://localhost:36193/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</loc>
     <lastmod>2020-03-26T19:33:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-thcb-gang-episode-2--today-at-1pm-pt-4pm-et/</loc>
+    <loc>http://localhost:36193/press/the-thcb-gang-episode-2--today-at-1pm-pt-4pm-et/</loc>
     <lastmod>2020-03-26T19:31:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/buckle-in/</loc>
+    <loc>http://localhost:36193/blog/buckle-in/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/patients--tech--and-pandemics--oh-my/</loc>
+    <loc>http://localhost:36193/press/patients--tech--and-pandemics--oh-my/</loc>
     <lastmod>2020-03-25T22:41:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/health-sciences-summit-overview/</loc>
+    <loc>http://localhost:36193/events/health-sciences-summit-overview/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/preconference-events/</loc>
+    <loc>http://localhost:36193/events/preconference-events/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/himss20/community/</loc>
+    <loc>http://localhost:36193/events/himss20/community/</loc>
     <lastmod>2020-03-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/himss20/community/addtocalender/</loc>
+    <loc>http://localhost:36193/events/himss20/community/addtocalender/</loc>
     <lastmod>2020-03-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-and-cms-release-cures-act-rules/</loc>
+    <loc>http://localhost:36193/news/onc-and-cms-release-cures-act-rules/</loc>
     <lastmod>2020-03-09T15:40:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-releases-final-interoperability-rules/</loc>
+    <loc>http://localhost:36193/news/hhs-releases-final-interoperability-rules/</loc>
     <lastmod>2020-03-09T14:14:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/modern-healthcare/</loc>
+    <loc>http://localhost:36193/news/source/modern-healthcare/</loc>
     <lastmod>2020-03-09T14:14:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/interoperability-and-patient-access-fact-sheet/</loc>
+    <loc>http://localhost:36193/news/interoperability-and-patient-access-fact-sheet/</loc>
     <lastmod>2020-03-09T13:18:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-healthit/</loc>
+    <loc>http://localhost:36193/news/onc-healthit/</loc>
     <lastmod>2020-03-09T13:16:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/health-dev-jam/</loc>
+    <loc>http://localhost:36193/events/health-dev-jam/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/patient-centricity-is-dead/</loc>
+    <loc>http://localhost:36193/events/patient-centricity-is-dead/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/state-of-the-industry-panel--patient-engagement-and-experience/</loc>
+    <loc>http://localhost:36193/events/state-of-the-industry-panel--patient-engagement-and-experience/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/himss20-has-been-cancelled/</loc>
+    <loc>http://localhost:36193/news/himss20-has-been-cancelled/</loc>
     <lastmod>2020-03-06T12:30:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/f068-the-power-of-patients-4-4--what-skills-do-you-need-as-a-patient---grace-cordovano/</loc>
+    <loc>http://localhost:36193/press/f068-the-power-of-patients-4-4--what-skills-do-you-need-as-a-patient---grace-cordovano/</loc>
     <lastmod>2020-03-03T04:21:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/why-is-an-amazon-delivery-tracked-better-than-a-newly-diagnosed-cancer-patients-medical-records-request/</loc>
+    <loc>http://localhost:36193/blog/why-is-an-amazon-delivery-tracked-better-than-a-newly-diagnosed-cancer-patients-medical-records-request/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/understanding-the-novel-coronavirus--2019-ncov----goinvo/</loc>
+    <loc>http://localhost:36193/news/understanding-the-novel-coronavirus--2019-ncov----goinvo/</loc>
     <lastmod>2020-02-29T12:59:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</loc>
+    <loc>http://localhost:36193/news/source/joseph-c.-kvedar-md---reinventing-healthcare/</loc>
     <lastmod>2020-02-27T14:30:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/privacy-is-now-an-emergency-in-digital-health/</loc>
+    <loc>http://localhost:36193/news/privacy-is-now-an-emergency-in-digital-health/</loc>
     <lastmod>2020-02-27T14:30:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/8-ways-practices-are-investing-in-patient-experience-now/</loc>
+    <loc>http://localhost:36193/news/8-ways-practices-are-investing-in-patient-experience-now/</loc>
     <lastmod>2020-02-26T12:45:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/key-takeaways-from-the-onc-2020-annual-meeting/</loc>
+    <loc>http://localhost:36193/news/key-takeaways-from-the-onc-2020-annual-meeting/</loc>
     <lastmod>2020-02-11T17:32:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/azar-laments-own-health-records-woes-ahead-of-data-swap-rule/</loc>
+    <loc>http://localhost:36193/news/azar-laments-own-health-records-woes-ahead-of-data-swap-rule/</loc>
     <lastmod>2020-02-11T16:52:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-dangers-of-errors--omissions-in-your-medical-records/</loc>
+    <loc>http://localhost:36193/blog/the-dangers-of-errors--omissions-in-your-medical-records/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-should-not-delay-the-release-of-its-rule/</loc>
+    <loc>http://localhost:36193/news/onc-should-not-delay-the-release-of-its-rule/</loc>
     <lastmod>2020-02-10T16:10:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2020-health-datapalooza/</loc>
+    <loc>http://localhost:36193/events/2020-health-datapalooza/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/texting-patients-is-ok-under-hipaa--as-long-as-you/</loc>
+    <loc>http://localhost:36193/news/texting-patients-is-ok-under-hipaa--as-long-as-you/</loc>
     <lastmod>2020-02-08T13:29:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/can-google--restore-the-joy-of-caregiving/</loc>
+    <loc>http://localhost:36193/news/can-google--restore-the-joy-of-caregiving/</loc>
     <lastmod>2020-02-08T13:26:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/when-patients-meet-hipaa--addressing-common-hipaa-access-questions-in-real-life/</loc>
+    <loc>http://localhost:36193/press/when-patients-meet-hipaa--addressing-common-hipaa-access-questions-in-real-life/</loc>
     <lastmod>2020-02-06T20:53:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/chilmark-research/</loc>
+    <loc>http://localhost:36193/news/source/chilmark-research/</loc>
     <lastmod>2020-02-06T14:43:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/epic-wrong-turn/</loc>
+    <loc>http://localhost:36193/news/epic-wrong-turn/</loc>
     <lastmod>2020-02-06T14:43:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/epic-and-about-60-hospital-chains-come-out-against-rules-that-would-make-it-easier-to-share-medical-info/</loc>
+    <loc>http://localhost:36193/news/epic-and-about-60-hospital-chains-come-out-against-rules-that-would-make-it-easier-to-share-medical-info/</loc>
     <lastmod>2020-02-06T03:14:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/put-care-partners-on-the-map/</loc>
+    <loc>http://localhost:36193/news/put-care-partners-on-the-map/</loc>
     <lastmod>2020-02-05T16:11:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/ceos-need-to-lead-on-interoperability/</loc>
+    <loc>http://localhost:36193/news/ceos-need-to-lead-on-interoperability/</loc>
     <lastmod>2020-02-05T15:45:02+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</loc>
+    <loc>http://localhost:36193/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</loc>
     <lastmod>2020-02-04T21:43:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/new-additions-to-the-health-it-playbook/</loc>
+    <loc>http://localhost:36193/blog/when-a-failing-heart-faces-information-blocking/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:36193/news/new-additions-to-the-health-it-playbook/</loc>
     <lastmod>2020-02-03T18:48:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</loc>
+    <loc>http://localhost:36193/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</loc>
     <lastmod>2020-02-02T13:59:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/escaping-from-an-energy-canyon/</loc>
+    <loc>http://localhost:36193/news/escaping-from-an-energy-canyon/</loc>
     <lastmod>2020-02-02T13:57:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-health-care-industry-needs-to-be-more-honest-about-medical-errors/</loc>
+    <loc>http://localhost:36193/news/the-health-care-industry-needs-to-be-more-honest-about-medical-errors/</loc>
     <lastmod>2020-02-02T13:19:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/time/</loc>
+    <loc>http://localhost:36193/news/source/time/</loc>
     <lastmod>2020-02-02T13:19:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/healthcare-buzzwords-that-should-be-retired-in-2020/</loc>
+    <loc>http://localhost:36193/press/healthcare-buzzwords-that-should-be-retired-in-2020/</loc>
     <lastmod>2020-01-31T13:10:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/new-data-highlights-opportunity-to-improve-access-and-use-of-online-medical-records-among-individuals-with-cancer/</loc>
+    <loc>http://localhost:36193/news/new-data-highlights-opportunity-to-improve-access-and-use-of-online-medical-records-among-individuals-with-cancer/</loc>
     <lastmod>2020-01-30T19:08:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/onc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field/</loc>
+    <loc>http://localhost:36193/press/onc-2020---balancing-patient-privacy-with-data-access--lessons-from-the-field/</loc>
     <lastmod>2020-01-30T19:02:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/grace-cordovano/</loc>
+    <loc>http://localhost:36193/press/grace-cordovano/</loc>
     <lastmod>2020-01-29T22:03:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/whats-social-media-got-to-do-with-it/</loc>
+    <loc>http://localhost:36193/blog/whats-social-media-got-to-do-with-it/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/2020-onc-annual-meeting/</loc>
+    <loc>http://localhost:36193/events/2020-onc-annual-meeting/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/a-letter-to-ms--judy-faulkner---mr--tommy-thompson/</loc>
+    <loc>http://localhost:36193/press/a-letter-to-ms--judy-faulkner---mr--tommy-thompson/</loc>
     <lastmod>2020-01-24T16:00:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/epic-s-ceo-is-urging-hospital-customers-to-oppose-rules-that-would-make-it-easier-to-share-medical-info/</loc>
+    <loc>http://localhost:36193/news/epic-s-ceo-is-urging-hospital-customers-to-oppose-rules-that-would-make-it-easier-to-share-medical-info/</loc>
     <lastmod>2020-01-23T14:14:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/isnt-hipaa-enough/</loc>
+    <loc>http://localhost:36193/blog/isnt-hipaa-enough/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</loc>
+    <loc>http://localhost:36193/news/health-data-outside-hipaa--simply-extending-hipaa-would-be-a--fail/</loc>
     <lastmod>2020-01-20T20:29:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/the-health-care-blog/</loc>
+    <loc>http://localhost:36193/news/source/the-health-care-blog/</loc>
     <lastmod>2020-01-20T20:29:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/barbarians-at-the-gate/</loc>
+    <loc>http://localhost:36193/news/barbarians-at-the-gate/</loc>
     <lastmod>2020-01-17T14:44:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/insight--the-top-five-health-care-privacy-issues-to-watch-in-2020/</loc>
+    <loc>http://localhost:36193/news/insight--the-top-five-health-care-privacy-issues-to-watch-in-2020/</loc>
     <lastmod>2020-01-17T14:33:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</loc>
+    <loc>http://localhost:36193/news/health-care-data-sharing-rules-touch-off-intense-lobbying-fight/</loc>
     <lastmod>2020-01-17T14:17:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/politico/</loc>
+    <loc>http://localhost:36193/news/source/politico/</loc>
     <lastmod>2020-01-17T14:17:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/interview-with-unblock-health-co-founder--grace-cordovano/</loc>
+    <loc>http://localhost:36193/press/interview-with-unblock-health-co-founder--grace-cordovano/</loc>
     <lastmod>2020-01-16T12:22:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/2020-2025-federal-health-it-strategic-plan/</loc>
+    <loc>http://localhost:36193/news/2020-2025-federal-health-it-strategic-plan/</loc>
     <lastmod>2020-01-16T06:02:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/why-aren-t-more-patients-electronically-accessing-their-medical-records--yet/</loc>
+    <loc>http://localhost:36193/news/why-aren-t-more-patients-electronically-accessing-their-medical-records--yet/</loc>
     <lastmod>2020-01-15T03:23:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-is-the-value-of-unblock-health/</loc>
+    <loc>http://localhost:36193/blog/what-is-the-value-of-unblock-health/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/hipaa-year-in-review/</loc>
+    <loc>http://localhost:36193/press/hipaa-year-in-review/</loc>
     <lastmod>2020-01-13T17:50:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/important-hipaa-update--new-penalties---clinics-get--85-000-fines-for-not-releasing-data-to-patients/</loc>
+    <loc>http://localhost:36193/news/important-hipaa-update--new-penalties---clinics-get--85-000-fines-for-not-releasing-data-to-patients/</loc>
     <lastmod>2020-01-10T04:59:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</loc>
+    <loc>http://localhost:36193/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</loc>
     <lastmod>2020-01-08T17:54:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/manatt/</loc>
+    <loc>http://localhost:36193/news/source/manatt/</loc>
     <lastmod>2020-01-08T17:54:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-is-unblock-health/</loc>
+    <loc>http://localhost:36193/blog/what-is-unblock-health/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-birth-of-unblock-health/</loc>
+    <loc>http://localhost:36193/blog/the-birth-of-unblock-health/</loc>
     <lastmod>2020-01-03T06:50:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/opinion/</loc>
+    <loc>http://localhost:36193/news/opinion/</loc>
     <lastmod>2020-01-02T15:16:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</loc>
+    <loc>http://localhost:36193/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</loc>
     <lastmod>2019-12-27T03:46:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/scientific-american/</loc>
+    <loc>http://localhost:36193/news/source/scientific-american/</loc>
     <lastmod>2019-12-27T03:46:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hospital-execs-say-they-are-getting-flooded-with-requests-for-your-health-data/</loc>
+    <loc>http://localhost:36193/news/hospital-execs-say-they-are-getting-flooded-with-requests-for-your-health-data/</loc>
     <lastmod>2019-12-20T04:40:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</loc>
+    <loc>http://localhost:36193/news/abbott-labs-kills-free-tool-that-lets-you-own-the-blood-sugar-data-from-your-glucose-monitor--saying-it-violates-copyright-law/</loc>
     <lastmod>2019-12-16T14:18:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/boing-boing/</loc>
+    <loc>http://localhost:36193/news/source/boing-boing/</loc>
     <lastmod>2019-12-16T14:18:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</loc>
+    <loc>http://localhost:36193/news/florida-provider-to-pay--85k-fine-for-not-sharing-timely-patient-records/</loc>
     <lastmod>2019-12-16T03:34:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/information-blocking/</loc>
+    <loc>http://localhost:36193/news/information-blocking/</loc>
     <lastmod>2019-12-13T03:48:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/rethinking-patient-data-privacy-in-the-era-of-digital-health/</loc>
+    <loc>http://localhost:36193/news/rethinking-patient-data-privacy-in-the-era-of-digital-health/</loc>
     <lastmod>2019-12-12T15:24:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/fiercehealthcare/</loc>
+    <loc>http://localhost:36193/news/source/fiercehealthcare/</loc>
     <lastmod>2019-12-04T16:10:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</loc>
+    <loc>http://localhost:36193/news/lawmakers-push-hhs-for-more-clarity--stronger-data-privacy-protections-in-federal-data-sharing-rules/</loc>
     <lastmod>2019-12-04T16:10:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/individuals--use-of-online-medical-records-and-technology-for-health-needs/</loc>
+    <loc>http://localhost:36193/news/individuals--use-of-online-medical-records-and-technology-for-health-needs/</loc>
     <lastmod>2019-12-04T14:12:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/understanding-patient-requests-for-ehr-corrections--changes/</loc>
+    <loc>http://localhost:36193/news/understanding-patient-requests-for-ehr-corrections--changes/</loc>
     <lastmod>2019-12-04T04:55:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/searchhealthit/</loc>
+    <loc>http://localhost:36193/news/source/searchhealthit/</loc>
     <lastmod>2019-11-27T04:15:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</loc>
+    <loc>http://localhost:36193/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</loc>
     <lastmod>2019-11-27T04:15:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/5-actions-hospitals-should-take-now-to-prepare-for-interoperability/</loc>
+    <loc>http://localhost:36193/news/5-actions-hospitals-should-take-now-to-prepare-for-interoperability/</loc>
     <lastmod>2019-11-26T13:16:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</loc>
+    <loc>http://localhost:36193/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</loc>
     <lastmod>2019-11-22T22:20:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</loc>
+    <loc>http://localhost:36193/news/expert-suggests-hippocratic-oath-for-health-data-privacy/</loc>
     <lastmod>2019-11-22T19:12:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/final-onc--cms-interoperability-rules-under-review-by-omb/</loc>
+    <loc>http://localhost:36193/news/final-onc--cms-interoperability-rules-under-review-by-omb/</loc>
     <lastmod>2019-11-22T11:08:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</loc>
+    <loc>http://localhost:36193/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</loc>
     <lastmod>2019-11-22T11:02:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/healthitanalytics/</loc>
+    <loc>http://localhost:36193/news/source/healthitanalytics/</loc>
     <lastmod>2019-11-22T11:02:49+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/data-blocking--standard-apis-targeted-in-long-awaited-ehr-rules/</loc>
+    <loc>http://localhost:36193/news/data-blocking--standard-apis-targeted-in-long-awaited-ehr-rules/</loc>
     <lastmod>2019-11-22T10:45:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/desalvo--healthcare-data-remains--very-highly-blocked/</loc>
+    <loc>http://localhost:36193/news/desalvo--healthcare-data-remains--very-highly-blocked/</loc>
     <lastmod>2019-11-22T10:16:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/health-data-management/</loc>
+    <loc>http://localhost:36193/news/source/health-data-management/</loc>
     <lastmod>2019-11-22T10:16:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/itwire---many-top-websites-tracking-users--every-move/</loc>
+    <loc>http://localhost:36193/news/itwire---many-top-websites-tracking-users--every-move/</loc>
     <lastmod>2019-11-22T10:15:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/techcrunch/</loc>
+    <loc>http://localhost:36193/news/source/techcrunch/</loc>
     <lastmod>2019-11-19T14:03:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/the-coming-fight-over-who-controls-digital-health-data/</loc>
+    <loc>http://localhost:36193/news/the-coming-fight-over-who-controls-digital-health-data/</loc>
     <lastmod>2019-11-19T14:03:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/the-patient-perspective--vulnerability--data-abuse----business-as-usual/</loc>
+    <loc>http://localhost:36193/press/the-patient-perspective--vulnerability--data-abuse----business-as-usual/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/over-half-of-health-care-providers-noncompliant-with-hipaa-access-rules/</loc>
+    <loc>http://localhost:36193/news/over-half-of-health-care-providers-noncompliant-with-hipaa-access-rules/</loc>
     <lastmod>2019-11-15T22:51:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</loc>
+    <loc>http://localhost:36193/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</loc>
     <lastmod>2019-11-01T06:51:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/cms-proposes-publicly-identifying-information-blocking-providers/</loc>
+    <loc>http://localhost:36193/news/cms-proposes-publicly-identifying-information-blocking-providers/</loc>
     <lastmod>2019-11-01T06:50:54+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/11-things-seema-verma-said-at-himss/</loc>
+    <loc>http://localhost:36193/news/11-things-seema-verma-said-at-himss/</loc>
     <lastmod>2019-11-01T06:50:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/data-blockers-beware---annoucement-at-himss19/</loc>
+    <loc>http://localhost:36193/news/data-blockers-beware---annoucement-at-himss19/</loc>
     <lastmod>2019-11-01T05:48:40+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/what-s-being-done-to-stop-ehr-data-blocking/</loc>
+    <loc>http://localhost:36193/news/what-s-being-done-to-stop-ehr-data-blocking/</loc>
     <lastmod>2019-11-01T05:46:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/hhs-interoperability-proposal-would-name-and-shame-info-blockers/</loc>
+    <loc>http://localhost:36193/news/hhs-interoperability-proposal-would-name-and-shame-info-blockers/</loc>
     <lastmod>2019-11-01T05:46:09+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/how-to-request-your-medical-records/</loc>
+    <loc>http://localhost:36193/news/how-to-request-your-medical-records/</loc>
     <lastmod>2019-10-31T21:00:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/source/sun-sentinel.com/</loc>
+    <loc>http://localhost:36193/news/source/sun-sentinel.com/</loc>
     <lastmod>2019-10-31T20:40:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</loc>
+    <loc>http://localhost:36193/news/understanding-the-true-cost-of-ensuring-privacy-of-medical-records/</loc>
     <lastmod>2019-10-31T20:40:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/onc-proposes-to-define-conduct-that-is-not-information-blocking-under-the-cures-act/</loc>
+    <loc>http://localhost:36193/news/onc-proposes-to-define-conduct-that-is-not-information-blocking-under-the-cures-act/</loc>
     <lastmod>2019-10-31T20:38:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/analyzing-onc-s-proposed-rule--fee-restrictions-for-health-it-and-ehi/</loc>
+    <loc>http://localhost:36193/news/analyzing-onc-s-proposed-rule--fee-restrictions-for-health-it-and-ehi/</loc>
     <lastmod>2019-10-31T20:35:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/physician-documentation-and-coding--the-third-rail/</loc>
+    <loc>http://localhost:36193/news/physician-documentation-and-coding--the-third-rail/</loc>
     <lastmod>2019-10-26T16:01:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</loc>
+    <loc>http://localhost:36193/news/providers--payers-unprepared-for-data-blocking--interoperability-rules--accenture-survey/</loc>
     <lastmod>2019-10-25T16:55:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/healthcare-must-meet-patients-where-they-are/</loc>
+    <loc>http://localhost:36193/press/healthcare-must-meet-patients-where-they-are/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/press/who-s-got-the-patient-s-back--with-patient-advocate-grace-cordovano/</loc>
+    <loc>http://localhost:36193/press/who-s-got-the-patient-s-back--with-patient-advocate-grace-cordovano/</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024-11-08-tester/</loc>
+    <loc>http://localhost:36193/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:36193/events/cancelled/</loc>
   </url><url>
-    <loc>http://localhost:1313/events/cancelled/</loc>
+    <loc>http://localhost:36193/events/past/</loc>
   </url><url>
-    <loc>http://localhost:1313/events/past/</loc>
+    <loc>http://localhost:36193/events/upcoming/</loc>
   </url><url>
-    <loc>http://localhost:1313/events/upcoming/</loc>
+    <loc>http://localhost:36193/faqs/</loc>
   </url><url>
-    <loc>http://localhost:1313/faqs/</loc>
+    <loc>http://localhost:36193/individual-access-services/</loc>
   </url><url>
-    <loc>http://localhost:1313/individual-access-services/</loc>
+    <loc>http://localhost:36193/login/</loc>
   </url><url>
-    <loc>http://localhost:1313/login/</loc>
+    <loc>http://localhost:36193/patient-impact-stories/</loc>
   </url><url>
-    <loc>http://localhost:1313/patient-impact-stories/</loc>
+    <loc>http://localhost:36193/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>http://localhost:36193/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>http://localhost:36193/register/</loc>
   </url><url>
-    <loc>http://localhost:1313/register/</loc>
+    <loc>http://localhost:36193/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>http://localhost:36193/service/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/</loc>
+    <loc>http://localhost:36193/publications/sitemap/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/sitemap/</loc>
+    <loc>http://localhost:36193/publications/sitemap/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/sitemap/</loc>
+    <loc>http://localhost:36193/sitemap/</loc>
   </url><url>
-    <loc>http://localhost:1313/sitemap/</loc>
-  </url><url>
-    <loc>http://localhost:1313/terms-and-conditions/</loc>
+    <loc>http://localhost:36193/terms-and-conditions/</loc>
   </url>
 </urlset>

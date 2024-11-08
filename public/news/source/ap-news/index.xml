@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AP NEWS on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/ap-news/</link>
+    <link>http://localhost:36193/news/source/ap-news/</link>
     <description>Recent content in AP NEWS on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Nov 2020 02:52:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/ap-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/ap-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>More US patients to have easy, free access to doctor&#39;s notes</title>
-      <link>http://localhost:1313/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</link>
+      <link>http://localhost:36193/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</link>
       <pubDate>Mon, 02 Nov 2020 02:52:36 +0000</pubDate>
-      <guid>http://localhost:1313/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</guid>
+      <guid>http://localhost:36193/news/more-us-patients-to-have-easy--free-access-to-doctor-s-notes/</guid>
       <description>Studies have shown that patients who read their notes understand more about their health, take their medications as prescribed more often and feel more in control of their care.&#xA;Read on apnews.com</description>
     </item>
   </channel>

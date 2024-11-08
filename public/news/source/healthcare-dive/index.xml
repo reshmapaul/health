@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare Dive on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/healthcare-dive/</link>
+    <link>http://localhost:36193/news/source/healthcare-dive/</link>
     <description>Recent content in Healthcare Dive on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 11:31:10 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/healthcare-dive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/healthcare-dive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>More hospitals are electronically sharing health information</title>
-      <link>http://localhost:1313/news/more-hospitals-are-electronically-sharing-health-information/</link>
+      <link>http://localhost:36193/news/more-hospitals-are-electronically-sharing-health-information/</link>
       <pubDate>Mon, 30 Jan 2023 11:31:10 +0000</pubDate>
-      <guid>http://localhost:1313/news/more-hospitals-are-electronically-sharing-health-information/</guid>
+      <guid>http://localhost:36193/news/more-hospitals-are-electronically-sharing-health-information/</guid>
       <description>Interoperability continues to improve among U.S. hospitals, but theres still a ways to go, according to new government data.&#xA;More than six in 10 hospitals electronically shared health information and integrated it into their electronic health records in 2021, up 51% since 2017, the Office of the National Coordinator released in a Thursday data brief.&#xA;The availability and usage of electronic data received from outside sources at the point of care has also increased over the last four years, reaching 62% and 71% respectively in 2021.</description>
     </item>
   </channel>

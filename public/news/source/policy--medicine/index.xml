@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy &amp; Medicine on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/policy--medicine/</link>
+    <link>http://localhost:36193/news/source/policy--medicine/</link>
     <description>Recent content in Policy &amp; Medicine on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2023 16:09:34 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/policy--medicine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/policy--medicine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Blocking Regulations in Effect, Despite Pleas to Postpone</title>
-      <link>http://localhost:1313/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</link>
+      <link>http://localhost:36193/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</link>
       <pubDate>Tue, 10 Jan 2023 16:09:34 +0000</pubDate>
-      <guid>http://localhost:1313/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</guid>
+      <guid>http://localhost:36193/news/information-blocking-regulations-in-effect--despite-pleas-to-postpone/</guid>
       <description>On October 6, 2022, information blocking regulations went into effect, despite providers pleas to the Department of Health and Human Services (HHS) to delay the deadline by a year. Request for Delay Some of the groups asking for the delay included the American Academy of Family Physicians, American Health Care Association, American Hospital Association, and the American Medical Association. The providers noted that based upon feedback from our members that continues to build, it is evident that both healthcare providers, clinicians and vendors are not fully prepared for the October 6th deadline.</description>
     </item>
   </channel>

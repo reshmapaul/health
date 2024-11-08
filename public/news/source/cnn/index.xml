@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CNN on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/cnn/</link>
+    <link>http://localhost:36193/news/source/cnn/</link>
     <description>Recent content in CNN on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2020 03:50:04 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/cnn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating your advance directive or living will during a pandemic</title>
-      <link>http://localhost:1313/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</link>
+      <link>http://localhost:36193/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</link>
       <pubDate>Fri, 08 May 2020 03:50:04 +0000</pubDate>
-      <guid>http://localhost:1313/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</guid>
+      <guid>http://localhost:36193/news/creating-your-advance-directive-or-living-will-during-a-pandemic/</guid>
       <description>She recommended that people keep a hard copy and their own electronic copy of their documents, because they don&amp;rsquo;t automatically transfer in electronic health records.&#xA;Read on cnn.com</description>
     </item>
   </channel>

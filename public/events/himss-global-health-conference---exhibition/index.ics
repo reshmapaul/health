@@ -12,9 +12,9 @@ SUMMARY:HIMSS Global Health Conference & Exhibition
 DESCRIPTION:HIMSS23 is the cant-miss health information and technology event of the year, where professionals connect for education, innovation and collaboration.
  (Info: https://www.himss.org/global-conference)
 LOCATION:Chicago, Illinois, United States
-URL:<no value>http://localhost:1313/events/himss-global-health-conference---exhibition/
+URL:<no value>http://localhost:36193/events/himss-global-health-conference---exhibition/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nHIMSS Global Health Conference & Exhibition<br>Location: Chicago, Illinois, United States<br>HIMSS23 is the cant-miss health information and technology event of the year, where professionals connect for education, innovation and collaboration.
-<br>Read more: <no value>http://localhost:1313/events/himss-global-health-conference---exhibition/<br>https://www.himss.org/global-conference\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36193/events/himss-global-health-conference---exhibition/<br>https://www.himss.org/global-conference\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

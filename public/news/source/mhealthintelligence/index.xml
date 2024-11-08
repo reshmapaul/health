@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MHealthIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/mhealthintelligence/</link>
+    <link>http://localhost:36193/news/source/mhealthintelligence/</link>
     <description>Recent content in MHealthIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Nov 2020 13:44:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/mhealthintelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/mhealthintelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Medical Association Announces New Policy on Telehealth</title>
-      <link>http://localhost:1313/news/american-medical-association-announces-new-policy-on-telehealth/</link>
+      <link>http://localhost:36193/news/american-medical-association-announces-new-policy-on-telehealth/</link>
       <pubDate>Sun, 22 Nov 2020 13:44:56 +0000</pubDate>
-      <guid>http://localhost:1313/news/american-medical-association-announces-new-policy-on-telehealth/</guid>
+      <guid>http://localhost:36193/news/american-medical-association-announces-new-policy-on-telehealth/</guid>
       <description>The policy states that the AMA:Continue to advocate for the widespread adoption of telehealth services in the practice of medicine for physicians and physician-led teams after the pandemic;Advocate that the federal and state governments and agencies and the payer industry adopt clear and uniform laws, rules, regulations, and policies relating to telehealth services that provide equitable coverage that allows patients to access telehealth services wherever they are located (and) provide for the use of accessible devices and technologies, with appropriate privacy and security protections, for connecting physicians and patients;Advocate for equitable access to telehealth services, especially for at-risk and under-resourced patient populations and communities, including but not limited to supporting increased funding and planning for telehealth infrastructure such as broadband and internet-connected devices for both physician practices and patients; andSupport the use of telehealth to reduce health disparities and promote access to health care.</description>
     </item>
   </channel>

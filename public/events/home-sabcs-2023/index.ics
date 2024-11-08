@@ -12,9 +12,9 @@ SUMMARY:Home SABCS 2023
 DESCRIPTION:The San Antonio Breast Cancer Symposium (SABCS) is an annual event cosponsored by the AACR and UT Health San Antonios Mays Cancer Center. Now in its 46th year, the meeting hosts about 10,000 clinicians and scientists from all over the world and is the largest and most prestigious scientific gathering on breast cancer research.
  (Info: https://www.sabcs.org/)
 LOCATION:Boston, MA
-URL:<no value>http://localhost:1313/events/home-sabcs-2023/
+URL:<no value>http://localhost:36193/events/home-sabcs-2023/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nHome SABCS 2023<br>Location: Boston, MA<br>The San Antonio Breast Cancer Symposium (SABCS) is an annual event cosponsored by the AACR and UT Health San Antonios Mays Cancer Center. Now in its 46th year, the meeting hosts about 10,000 clinicians and scientists from all over the world and is the largest and most prestigious scientific gathering on breast cancer research.
-<br>Read more: <no value>http://localhost:1313/events/home-sabcs-2023/<br>https://www.sabcs.org/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36193/events/home-sabcs-2023/<br>https://www.sabcs.org/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MobiHealthNews on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/mobihealthnews/</link>
+    <link>http://localhost:36193/news/source/mobihealthnews/</link>
     <description>Recent content in MobiHealthNews on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 May 2020 15:25:27 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/mobihealthnews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/mobihealthnews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global collaboration on digital health efforts now can promote interoperability in the future</title>
-      <link>http://localhost:1313/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</link>
+      <link>http://localhost:36193/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</link>
       <pubDate>Mon, 04 May 2020 15:25:27 +0000</pubDate>
-      <guid>http://localhost:1313/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</guid>
+      <guid>http://localhost:36193/news/global-collaboration-on-digital-health-efforts-now-can-promote-interoperability-in-the-future/</guid>
       <description>Collaborating now can help promote interoperability.&#xA;Read on mobihealthnews.com</description>
     </item>
     <item>
       <title>As connected health adoption grows, privacy rules like HIPAA are still broadly misunderstood</title>
-      <link>http://localhost:1313/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</link>
+      <link>http://localhost:36193/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</link>
       <pubDate>Sat, 11 Apr 2020 12:31:40 +0000</pubDate>
-      <guid>http://localhost:1313/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</guid>
+      <guid>http://localhost:36193/news/as-connected-health-adoption-grows--privacy-rules-like-hipaa-are-still-broadly-misunderstood/</guid>
       <description>What people often dont realize, Pritts said, is that HIPAA was created to keep data safe as it moves between health insurers and providers, so data that doesnt interact with that ecosystem is often not protected at all. On the other hand, information that does fall under the laws purview is often more protected than people realize.&#xA;Read on mobihealthnews.com</description>
     </item>
   </channel>

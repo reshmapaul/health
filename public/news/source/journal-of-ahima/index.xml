@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal of AHIMA on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/journal-of-ahima/</link>
+    <link>http://localhost:36193/news/source/journal-of-ahima/</link>
     <description>Recent content in Journal of AHIMA on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Oct 2021 14:20:49 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/journal-of-ahima/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/journal-of-ahima/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;If Patients Only Knew&#39; </title>
-      <link>http://localhost:1313/news/if-patients-only-knew/</link>
+      <link>http://localhost:36193/news/if-patients-only-knew/</link>
       <pubDate>Tue, 26 Oct 2021 14:20:49 +0000</pubDate>
-      <guid>http://localhost:1313/news/if-patients-only-knew/</guid>
+      <guid>http://localhost:36193/news/if-patients-only-knew/</guid>
       <description>I called my doctors office and I said, I think my information has been overlaid with another patient in your office, Hunsaker says. When the person on the other end of the phone didnt know what an overlay was, Hunsaker asked to speak to the office manager so she wouldnt have to explain it again.&#xA;Read on journal.ahima.org</description>
     </item>
     <item>
       <title>How to Request Your Medical Records </title>
-      <link>http://localhost:1313/news/how-to-request-your-medical-records/</link>
+      <link>http://localhost:36193/news/how-to-request-your-medical-records/</link>
       <pubDate>Thu, 31 Oct 2019 21:00:30 +0000</pubDate>
-      <guid>http://localhost:1313/news/how-to-request-your-medical-records/</guid>
+      <guid>http://localhost:36193/news/how-to-request-your-medical-records/</guid>
       <description>If you&amp;rsquo;ve never requested your medical records from your doctor or hospital before, the process can seem complicated. However, understanding the law, the requirements, and the basic steps will ease the process.&#xA;Read on journal.ahima.org</description>
     </item>
   </channel>

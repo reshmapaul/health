@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>We&#39;re Putting a Stake in the Ground Against Data Blocking at HIMSS20 in Orlando! on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/events/himss20/community/</link>
+    <link>http://localhost:36193/events/himss20/community/</link>
     <description>Recent content in We&#39;re Putting a Stake in the Ground Against Data Blocking at HIMSS20 in Orlando! on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2020 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/events/himss20/community/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/events/himss20/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;re Putting a Stake in the Ground Against Data Blocking at HIMSS20 in Orlando!</title>
-      <link>http://localhost:1313/events/himss20/community/addtocalender/</link>
+      <link>http://localhost:36193/events/himss20/community/addtocalender/</link>
       <pubDate>Sun, 10 Mar 2019 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/himss20/community/addtocalender/</guid>
+      <guid>http://localhost:36193/events/himss20/community/addtocalender/</guid>
       <description>Calling all patients, carepartners, advocates, and data access champions!! Are you attending HIMSS20 in Orlando during the week of March 9th-13th</description>
     </item>
   </channel>

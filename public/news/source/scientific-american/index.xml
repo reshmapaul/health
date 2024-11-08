@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific American on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/scientific-american/</link>
+    <link>http://localhost:36193/news/source/scientific-american/</link>
     <description>Recent content in Scientific American on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2019 03:46:41 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/scientific-american/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/scientific-american/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence Is Rushing Into Patient Care - And Could Raise Risks</title>
-      <link>http://localhost:1313/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</link>
+      <link>http://localhost:36193/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</link>
       <pubDate>Fri, 27 Dec 2019 03:46:41 +0000</pubDate>
-      <guid>http://localhost:1313/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</guid>
+      <guid>http://localhost:36193/news/artificial-intelligence-is-rushing-into-patient-care---and-could-raise-risks/</guid>
       <description>AI developers cull electronic health records because they hold huge amounts of detailed data, Cho said. But those developers often arent aware that theyre building atop a deeply broken system. Electronic health records were developed for billing, not patient care, and are filled with mistakes or missing data.A KHN investigation published in March found sometimes life-threatening errors in patients medication lists, lab tests and allergies.&#xA;Read on scientificamerican.com</description>
     </item>
   </channel>

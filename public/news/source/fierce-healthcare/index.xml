@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fierce Healthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/fierce-healthcare/</link>
+    <link>http://localhost:36193/news/source/fierce-healthcare/</link>
     <description>Recent content in Fierce Healthcare on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Aug 2023 09:44:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/fierce-healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/fierce-healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Industry Voices-TEFCA and information blocking: The end of patient digital access to their chart?</title>
-      <link>http://localhost:1313/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</link>
+      <link>http://localhost:36193/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</link>
       <pubDate>Mon, 14 Aug 2023 09:44:35 +0000</pubDate>
-      <guid>http://localhost:1313/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</guid>
+      <guid>http://localhost:36193/news/industry-voices-tefca-and-information-blocking--the-end-of-patient-digital-access-to-their-chart/</guid>
       <description>The Office of the National Coordinator for Health Information Technology&amp;rsquo;s (ONC&amp;rsquo;s) recent efforts to define the appropriate structure and rules for the Trusted Exchange Framework Common Agreement (TEFCA) appear to encourage and enable the long-standing patterns of information blocking that the Cures Act set out to abolish.</description>
     </item>
     <item>
       <title>Compliance with Oct. 6 data blocking regulations will suffer without more clarity, stakeholders tell HHS</title>
-      <link>http://localhost:1313/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</link>
+      <link>http://localhost:36193/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</link>
       <pubDate>Sat, 27 Aug 2022 03:13:08 +0000</pubDate>
-      <guid>http://localhost:1313/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</guid>
+      <guid>http://localhost:36193/news/compliance-with-oct--6-data-blocking-regulations-will-suffer-without-more-clarity--stakeholders-tell-hhs/</guid>
       <description>Twenty-eight health IT professional associations, provider organizations and other stakeholders are asking the Department of Health and Human Services (HHS) for more clarity and flexibility on how best to implement federal information blocking regulations set to go into effect Oct. 6.&#xA;Read on fiercehealthcare.com</description>
     </item>
   </channel>

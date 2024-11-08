@@ -13,10 +13,10 @@ DESCRIPTION:A community for Hackers, Researchers, DEF CON Groups, and anyone loo
 Read on forum.defcon.org
  (Info: https://forum.defcon.org/node/243763)
 LOCATION:Las Vegas
-URL:<no value>http://localhost:1313/events/forum-defcon-org/
+URL:<no value>http://localhost:36193/events/forum-defcon-org/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nforum.defcon.org<br>Location: Las Vegas<br>A community for Hackers, Researchers, DEF CON Groups, and anyone looking to explore the world of security.
 Read on forum.defcon.org
-<br>Read more: <no value>http://localhost:1313/events/forum-defcon-org/<br>https://forum.defcon.org/node/243763\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36193/events/forum-defcon-org/<br>https://forum.defcon.org/node/243763\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

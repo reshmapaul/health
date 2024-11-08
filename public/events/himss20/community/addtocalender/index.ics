@@ -10,11 +10,11 @@ DTSTART:20200310T100000
 DTEND:20200310T230000
 SUMMARY:We're Putting a Stake in the Ground Against Data Blocking at HIMSS20 in Orlando!
 DESCRIPTION:Calling all patients, carepartners, advocates, and data access champions!! Are you attending HIMSS20 in Orlando during the week of March 9th-13th
- (Info: <no value>http://localhost:1313/events/himss20/community/addtocalender/)
+ (Info: <no value>http://localhost:36193/events/himss20/community/addtocalender/)
 LOCATION:Meeting near Stericycle Communication Solutions booth #2490, Hall B
-URL:<no value>http://localhost:1313/events/himss20/community/addtocalender/
+URL:<no value>http://localhost:36193/events/himss20/community/addtocalender/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nWe're Putting a Stake in the Ground Against Data Blocking at HIMSS20 in Orlando!<br>Location: Meeting near Stericycle Communication Solutions booth #2490, Hall B<br>Calling all patients, carepartners, advocates, and data access champions!! Are you attending HIMSS20 in Orlando during the week of March 9th-13th
-<br>Read more: <no value>http://localhost:1313/events/himss20/community/addtocalender/<br><no value>http://localhost:1313/events/himss20/community/addtocalender/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36193/events/himss20/community/addtocalender/<br><no value>http://localhost:36193/events/himss20/community/addtocalender/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

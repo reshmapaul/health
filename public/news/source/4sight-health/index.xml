@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4sight Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/4sight-health/</link>
+    <link>http://localhost:36193/news/source/4sight-health/</link>
     <description>Recent content in 4sight Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jan 2023 16:11:24 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/4sight-health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/4sight-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Healthcares Final Frontier: Engaging Consumers - 4sight Health</title>
-      <link>http://localhost:1313/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</link>
+      <link>http://localhost:36193/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</link>
       <pubDate>Tue, 10 Jan 2023 16:11:24 +0000</pubDate>
-      <guid>http://localhost:1313/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</guid>
+      <guid>http://localhost:36193/news/healthcare-s-final-frontier--engaging-consumers---4sight-health/</guid>
       <description>A disruptive consumer-driven paradigm for health is emerging, and medicine will never be the same. As consumer preferences shift, proactivity will be key.&#xA;Read on 4sighthealth.com</description>
     </item>
     <item>
       <title>Interoperability Battle Lines: Data Freedom Fighters vs. Entrenched Data Blockers</title>
-      <link>http://localhost:1313/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</link>
+      <link>http://localhost:36193/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</link>
       <pubDate>Fri, 01 Nov 2019 06:51:15 +0000</pubDate>
-      <guid>http://localhost:1313/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</guid>
+      <guid>http://localhost:36193/news/interoperability-battle-lines--data-freedom-fighters-vs--entrenched-data-blockers/</guid>
       <description>On a cold Minnesota morning in January 2018, Fairview Health Services CEO James Hereford addressed Twin Cities business executives regarding healthcare IT and innovation. (1) With an advanced degree in &amp;hellip;&#xA;Read on 4sighthealth.com</description>
     </item>
   </channel>

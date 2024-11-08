@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Evolution on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/health-evolution/</link>
+    <link>http://localhost:36193/news/source/health-evolution/</link>
     <description>Recent content in Health Evolution on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Apr 2021 03:19:12 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/health-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/health-evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>90 percent of executives say APIs are mission critical: What CEOs should know </title>
-      <link>http://localhost:1313/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</link>
+      <link>http://localhost:36193/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</link>
       <pubDate>Sat, 10 Apr 2021 03:19:12 +0000</pubDate>
-      <guid>http://localhost:1313/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</guid>
+      <guid>http://localhost:36193/news/90-percent-of-executives-say--apis-are-mission-critical--what-ceos-should-know/</guid>
       <description>Simplyput: APIs are about taking data, making it liquid, and sharing it to deliver information into the hands of the right person to make decisions. Theres no way to do that without using APIs, which makes them mission critical, saidGautam Shah,VicePresident,Platform and Marketplace,Change Healthcare. Change Healthcare, in fact, released new research that found 9 in 10 executives (CEOs, CIOs, CTOs and others) consider APIs to be mission-critical to their business but only 24 percent use them at scale.</description>
     </item>
     <item>
       <title>CEOs need to lead on interoperability </title>
-      <link>http://localhost:1313/news/ceos-need-to-lead-on-interoperability/</link>
+      <link>http://localhost:36193/news/ceos-need-to-lead-on-interoperability/</link>
       <pubDate>Wed, 05 Feb 2020 15:45:02 +0000</pubDate>
-      <guid>http://localhost:1313/news/ceos-need-to-lead-on-interoperability/</guid>
+      <guid>http://localhost:36193/news/ceos-need-to-lead-on-interoperability/</guid>
       <description>With all of the challenges we have in health care, we need to get consumers in the game with their health information and to show that a truly effective market economy can deliver the kind of health care that Americans want.&#xA;Read on healthevolution.com</description>
     </item>
   </channel>

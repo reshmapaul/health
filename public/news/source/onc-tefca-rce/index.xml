@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ONC TEFCA RCE on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/onc-tefca-rce/</link>
+    <link>http://localhost:36193/news/source/onc-tefca-rce/</link>
     <description>Recent content in ONC TEFCA RCE on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 14:27:53 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/onc-tefca-rce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/onc-tefca-rce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benefits for Patients and Consumers - ONC TEFCA RCE</title>
-      <link>http://localhost:1313/news/benefits-for-patients-and-consumers---onc-tefca-rce/</link>
+      <link>http://localhost:36193/news/benefits-for-patients-and-consumers---onc-tefca-rce/</link>
       <pubDate>Mon, 30 Jan 2023 14:27:53 +0000</pubDate>
-      <guid>http://localhost:1313/news/benefits-for-patients-and-consumers---onc-tefca-rce/</guid>
+      <guid>http://localhost:36193/news/benefits-for-patients-and-consumers---onc-tefca-rce/</guid>
       <description>We live in a digital world. Increasingly, patients and consumers expect health care to be digital too. They want to be able to access, control and share their health information electronically. Moreover, many consumers want to bring together all of their health information not just the data Continue reading &amp;ldquo;Benefits for Patients and Consumers&amp;rdquo;&#xA;Read on rce.sequoiaproject.org</description>
     </item>
   </channel>

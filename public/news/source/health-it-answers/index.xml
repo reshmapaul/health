@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health IT Answers on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/health-it-answers/</link>
+    <link>http://localhost:36193/news/source/health-it-answers/</link>
     <description>Recent content in Health IT Answers on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jul 2022 19:37:21 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/health-it-answers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36193/news/source/health-it-answers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Key Themes from HITAC Hearing on Health Equity by Design</title>
-      <link>http://localhost:1313/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</link>
+      <link>http://localhost:36193/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</link>
       <pubDate>Tue, 26 Jul 2022 19:37:21 +0000</pubDate>
-      <guid>http://localhost:1313/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</guid>
+      <guid>http://localhost:36193/news/key-themes-from-hitac-hearing-on-health-equity-by-design/</guid>
       <description>HITAC held a hearing in March to explore equity considerations in health IT featuring expert panelists from the fields of health equity, health IT, and health data exchange.&#xA;Read on healthitanswers.net</description>
     </item>
     <item>
       <title>Moving Ahead on Information Sharing </title>
-      <link>http://localhost:1313/news/moving-ahead-on-information-sharing/</link>
+      <link>http://localhost:36193/news/moving-ahead-on-information-sharing/</link>
       <pubDate>Tue, 21 Sep 2021 18:02:15 +0000</pubDate>
-      <guid>http://localhost:1313/news/moving-ahead-on-information-sharing/</guid>
+      <guid>http://localhost:36193/news/moving-ahead-on-information-sharing/</guid>
       <description>By Micky Tripathi - The ONC Cures Act Final Rule went into effect on April 5, 2021 and as a result we have seen an increase in both the quantity and complexity of questions regarding the regulations. Were eager to help the industry successfully implement these new requirements and, even more important&amp;hellip;&#xA;Read on healthitanswers.net</description>
     </item>
     <item>
       <title>A Path Toward Further Clinical and Administrative Data Integration </title>
-      <link>http://localhost:1313/news/a-path-toward-further-clinical-and-administrative-data-integration/</link>
+      <link>http://localhost:36193/news/a-path-toward-further-clinical-and-administrative-data-integration/</link>
       <pubDate>Thu, 28 Jan 2021 16:32:47 +0000</pubDate>
-      <guid>http://localhost:1313/news/a-path-toward-further-clinical-and-administrative-data-integration/</guid>
+      <guid>http://localhost:36193/news/a-path-toward-further-clinical-and-administrative-data-integration/</guid>
       <description>Today, patients, caregivers, and clinicians struggle with information exchange barriers due to the separation of clinical and administrative data. The effect of this is especially clear in the case of prior authorization, where inefficient information exchange can significantly delay or obstruct patient access to treatment and payment for healthcare services. Clinicians also report that finding and exchanging information for prior authorization is a major source of burden. To structure its recommendations, the ICAD Task Force developed a series of guiding principles to make sure the recommendations addressed the gaps between the present and ideal state.</description>
     </item>
     <item>
       <title>PssstInformation blocking practices, your days are numberedPass it on. </title>
-      <link>http://localhost:1313/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</link>
+      <link>http://localhost:36193/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</link>
       <pubDate>Wed, 30 Dec 2020 00:01:57 +0000</pubDate>
-      <guid>http://localhost:1313/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</guid>
+      <guid>http://localhost:36193/news/pssst-information-blocking-practices--your-days-are-numbered-pass-it-on/</guid>
       <description>n general, actors can no longer engage in practices that interfere with the access, exchange, or use of electronic health information unless the practices are required by applicable law(s) or if an actor meets an exception established by the HHS Secretary. My companion blog post To share or not to share, whats an exception (to information blocking)? unpacks the exceptions we established in the Cures Act Final Rule to address privacy, security, and a host of other issues.</description>
     </item>
     <item>
       <title>ONC and CMS Release Cures Act Rules </title>
-      <link>http://localhost:1313/news/onc-and-cms-release-cures-act-rules/</link>
+      <link>http://localhost:36193/news/onc-and-cms-release-cures-act-rules/</link>
       <pubDate>Mon, 09 Mar 2020 15:40:44 +0000</pubDate>
-      <guid>http://localhost:1313/news/onc-and-cms-release-cures-act-rules/</guid>
+      <guid>http://localhost:36193/news/onc-and-cms-release-cures-act-rules/</guid>
       <description>Together, these final rules mark the most extensive healthcare data sharing policies the federal government has implemented, requiring both public and private entities to share health information between patients and other parties while keeping that information private and secure, a top priority for the Administration.&#xA;Read on healthitanswers.net</description>
     </item>
   </channel>
