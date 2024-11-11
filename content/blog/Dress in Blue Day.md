@@ -10,14 +10,14 @@ ogImage: "/images/blogs/Dress-In-Blue-Day.jpg"
 twitterImage: "/images/blogs/Dress-In-Blue-Day.jpg"
 twitterCard: "summary_large_image"
 breadcrumbs:
-
-* Home
-* Blog
-* Dress in Blue Day
-  breadcrumbLinks:
-* /
-* /blog
-* /
+  - Home
+  - Blog
+  - Dress in Blue Day
+breadcrumbLinks:
+  - /
+  - /blog
+  - /
+---
 
 ---
 
