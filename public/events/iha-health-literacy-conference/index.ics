@@ -12,9 +12,9 @@ SUMMARY:IHA Health Literacy Conference
 DESCRIPTION:Come to IHAs 22nd Annual Health Literacy Conference to find out! Well explore how working together and using health literacy best practices can improve health equity.
  (Info: https://hlc.iha4health.org/registration/)
 LOCATION:Online
-URL:<no value>http://localhost:36193/events/iha-health-literacy-conference/
+URL:<no value>http://localhost:1313/events/iha-health-literacy-conference/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nIHA Health Literacy Conference<br>Location: Online<br>Come to IHAs 22nd Annual Health Literacy Conference to find out! Well explore how working together and using health literacy best practices can improve health equity.
-<br>Read more: <no value>http://localhost:36193/events/iha-health-literacy-conference/<br>https://hlc.iha4health.org/registration/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:1313/events/iha-health-literacy-conference/<br>https://hlc.iha4health.org/registration/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

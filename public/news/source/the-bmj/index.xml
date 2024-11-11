@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The BMJ on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/the-bmj/</link>
+    <link>http://localhost:1313/news/source/the-bmj/</link>
     <description>Recent content in The BMJ on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Dec 2021 00:41:43 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/the-bmj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/the-bmj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tessa Richards: Thank goodness for Google</title>
-      <link>http://localhost:36193/news/tessa-richards--thank-goodness-for-google/</link>
+      <link>http://localhost:1313/news/tessa-richards--thank-goodness-for-google/</link>
       <pubDate>Thu, 09 Dec 2021 00:41:43 +0000</pubDate>
-      <guid>http://localhost:36193/news/tessa-richards--thank-goodness-for-google/</guid>
+      <guid>http://localhost:1313/news/tessa-richards--thank-goodness-for-google/</guid>
       <description>It plugs gaps in patient information sheets, which would be improved by more input from patients, argues Tessa Richards Thanks to skilled clinicians, Im enjoying what remains of my nine [&amp;hellip;]More&amp;hellip;&#xA;Read on blogs.bmj.com</description>
     </item>
     <item>
       <title>Journey of a patient editor</title>
-      <link>http://localhost:36193/news/journey-of-a-patient-editor/</link>
+      <link>http://localhost:1313/news/journey-of-a-patient-editor/</link>
       <pubDate>Wed, 08 Dec 2021 23:46:40 +0000</pubDate>
-      <guid>http://localhost:36193/news/journey-of-a-patient-editor/</guid>
+      <guid>http://localhost:1313/news/journey-of-a-patient-editor/</guid>
       <description>Nine years ago the BMJ s Tessa Richards underwent thoraco-abdominal surgery for adrenal cancer, followed by further surgery to remove metastases. Now the senior editor in charge of the journals patient partnership agenda, she reflects on how her own experience of illness and recovery, and of joining the ranks of patients who survive the odds, have shaped her understanding of the patient perspectiveDoctors arent good at assessing their own symptoms. They either leap to diagnose serious disease or, more commonly, go into denial.</description>
     </item>
     <item>
       <title>US policy requires immediate release of records to patients</title>
-      <link>http://localhost:36193/news/us-policy-requires-immediate-release-of-records-to-patients/</link>
+      <link>http://localhost:1313/news/us-policy-requires-immediate-release-of-records-to-patients/</link>
       <pubDate>Mon, 12 Apr 2021 13:47:29 +0000</pubDate>
-      <guid>http://localhost:36193/news/us-policy-requires-immediate-release-of-records-to-patients/</guid>
+      <guid>http://localhost:1313/news/us-policy-requires-immediate-release-of-records-to-patients/</guid>
       <description>US healthcare organisations may choose to comply with the rule in a way that helps ensure patients know about their enhanced right to access and use their health information for empowerment and engagement, or they may simply keep quiet about it and hope patients dont notice their new rights. Choosing to keep quiet would be a mistake. Full sharing and transparency of personal health information should strengthen patient-clinician communication, raise health literacy, promote self-management, enhance teamwork, and increase trust.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Association of Health Care Journalists on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/association-of-health-care-journalists/</link>
+    <link>http://localhost:1313/news/source/association-of-health-care-journalists/</link>
     <description>Recent content in Association of Health Care Journalists on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 21:28:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/association-of-health-care-journalists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/association-of-health-care-journalists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Federal information blocking rule: What health care journalists need to know</title>
-      <link>http://localhost:36193/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</link>
+      <link>http://localhost:1313/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</link>
       <pubDate>Mon, 01 Nov 2021 21:28:52 +0000</pubDate>
-      <guid>http://localhost:36193/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</guid>
+      <guid>http://localhost:1313/news/federal-information-blocking-rule--what-health-care-journalists-need-to-know/</guid>
       <description>If my own experience is representative, patients may see dozens of errors. One of my doctors summary visit notes contained 19 errors and a whole section that made no sense.Errors, which Heather Gantzer, M.D., M.A.C.P, told me occur in 100% of medical records can include wrong medications, old problems listed as current problems, a statement that a procedure was performed when it was cancelled and ICD-10 codes for conditions that had nothing to do with the reason the patient went to the doctor in the first place.</description>
     </item>
   </channel>

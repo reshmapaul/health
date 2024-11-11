@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ProPublica on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/propublica/</link>
+    <link>http://localhost:1313/news/source/propublica/</link>
     <description>Recent content in ProPublica on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2020 19:22:18 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/propublica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/propublica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hospitals Have Left Many COVID-19 Patients Who Dont Speak English Alone, Confused and Without Proper Care  ProPublica</title>
-      <link>http://localhost:36193/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</link>
+      <link>http://localhost:1313/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</link>
       <pubDate>Fri, 03 Apr 2020 19:22:18 +0000</pubDate>
-      <guid>http://localhost:36193/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</guid>
+      <guid>http://localhost:1313/news/hospitals-have-left-many-covid-19-patients-who-don-t-speak-english-alone--confused-and-without-proper-care---propublica/</guid>
       <description>A medical resident who treated her believes she would have gotten better care if she spoke English.In the ER, where no one has enough time, particularly now, the resident said he could tell that no one wanted to work with an interpreter to take down the womans medical history. He placed his phone on the womans shoulder and dialed the interpreter service on speakerphone. Between the N95 mask covering his mouth and the helmet covering his ears, it was difficult to speak clearly and to hear.</description>
     </item>
   </channel>

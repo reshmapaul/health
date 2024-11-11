@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manatt on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/manatt/</link>
+    <link>http://localhost:1313/news/source/manatt/</link>
     <description>Recent content in Manatt on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2020 17:54:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/manatt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/manatt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guidance for Complying With the ONC/HHS Information Blocking Rule</title>
-      <link>http://localhost:36193/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</link>
+      <link>http://localhost:1313/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</link>
       <pubDate>Wed, 08 Jan 2020 17:54:03 +0000</pubDate>
-      <guid>http://localhost:36193/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</guid>
+      <guid>http://localhost:1313/news/guidance-for-complying-with-the-onc-hhs-information-blocking-rule/</guid>
       <description>Once the rule goes into effect, it will impose significant compliance obligations on healthcare stakeholders, including providers, electronic health record vendors and health information exchanges. Noncompliance could trigger serious consequences. For example, health information exchanges and networks are subject to penalties of up to $1 million for lack of interoperability.&#xA;Read on manatt.com</description>
     </item>
   </channel>

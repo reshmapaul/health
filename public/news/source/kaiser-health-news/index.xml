@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaiser Health News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/kaiser-health-news/</link>
+    <link>http://localhost:1313/news/source/kaiser-health-news/</link>
     <description>Recent content in Kaiser Health News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2020 14:41:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/kaiser-health-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/kaiser-health-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>As Coronavirus Strikes, Crucial Data In Electronic Health Records Hard To Harvest</title>
-      <link>http://localhost:36193/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</link>
+      <link>http://localhost:1313/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</link>
       <pubDate>Thu, 30 Apr 2020 14:41:36 +0000</pubDate>
-      <guid>http://localhost:36193/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</guid>
+      <guid>http://localhost:1313/news/as-coronavirus-strikes--crucial-data-in-electronic-health-records-hard-to-harvest/</guid>
       <description>Topol said real-world evidence drawn from computerized records of COVID patients, while not as reliable as a clinical trial, is still very useful to help guide medical decisions.Medical data has been hard to tease out because much of it resides in electronic silos, which government officials have not required technology companies to open up and eliminate.&#xA;Read on khn.org</description>
     </item>
     <item>
       <title>Look Up Your Hospital: Is It Being Penalized By Medicare?</title>
-      <link>http://localhost:36193/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</link>
+      <link>http://localhost:1313/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</link>
       <pubDate>Sun, 02 Feb 2020 13:59:04 +0000</pubDate>
-      <guid>http://localhost:36193/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</guid>
+      <guid>http://localhost:1313/news/look-up-your-hospital--is-it-being-penalized-by-medicare/</guid>
       <description>Under programs set up by the Affordable Care Act, the federal government cuts payments to hospitals that have high rates of readmissions and those with the highest numbers of infections and patient injuries.&#xA;Read on khn.org</description>
     </item>
     <item>
       <title>No Safety Switch: How Lax Oversight Of Electronic Health Records Puts Patients At Risk</title>
-      <link>http://localhost:36193/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</link>
+      <link>http://localhost:1313/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</link>
       <pubDate>Fri, 22 Nov 2019 22:20:18 +0000</pubDate>
-      <guid>http://localhost:36193/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</guid>
+      <guid>http://localhost:1313/news/no-safety-switch--how-lax-oversight-of-electronic-health-records-puts-patients-at-risk/</guid>
       <description>Special interests and congressional inaction blocked efforts to track the safety of electronic medical records, leaving patients at risk.&#xA;One study uncovered more than 9,000 patient safety reports tied to EHR problems at three pediatric hospitals over a five-year period.&#xA;Allegations of EHR-related injuries or other flaws have surfaced in the courts. KHN/Fortune examined more than two dozen such cases, such as a California woman who mistakenly had most of her left leg amputated because the EHR sent another patients pathology report indicating cancer to her medical file.</description>
     </item>
   </channel>

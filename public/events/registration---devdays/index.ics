@@ -62,7 +62,7 @@ Questions Any questions on registration?
 Read on devdays.com
  (Info: https://www.devdays.com/registration/)
 LOCATION:Cleveland, OH (Hybrid)
-URL:<no value>http://localhost:36193/events/registration---devdays/
+URL:<no value>http://localhost:1313/events/registration---devdays/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nRegistration  DevDays<br>Location: Cleveland, OH (Hybrid)<br>
 HL7 FHIR DEVDAYS INTERNATIONAL June 6-9, 2022
@@ -115,6 +115,6 @@ Insurance The organizers will not be liable for any loss, (physical) injuries or
 COVID-regulations Review the DevDays COVID Protection Policy and Right of Entry here.
 Questions Any questions on registration?
 Read on devdays.com
-<br>Read more: <no value>http://localhost:36193/events/registration---devdays/<br>https://www.devdays.com/registration/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:1313/events/registration---devdays/<br>https://www.devdays.com/registration/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

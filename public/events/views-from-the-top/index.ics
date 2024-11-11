@@ -13,10 +13,10 @@ DESCRIPTION:Be inspired by compelling stories from high-ranking leaders in a var
 Read on himss.org
  (Info: https://www.himss.org/global-conference/program-views-top)
 LOCATION:Lasa Vegas
-URL:<no value>http://localhost:36193/events/views-from-the-top/
+URL:<no value>http://localhost:1313/events/views-from-the-top/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nViews from the Top<br>Location: Lasa Vegas<br>Be inspired by compelling stories from high-ranking leaders in a variety of industries in top-level, strategic education sessions with Views from the Top.
 Read on himss.org
-<br>Read more: <no value>http://localhost:36193/events/views-from-the-top/<br>https://www.himss.org/global-conference/program-views-top\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:1313/events/views-from-the-top/<br>https://www.himss.org/global-conference/program-views-top\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

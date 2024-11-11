@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chilmark Research on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/chilmark-research/</link>
+    <link>http://localhost:1313/news/source/chilmark-research/</link>
     <description>Recent content in Chilmark Research on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2020 14:43:55 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/chilmark-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/chilmark-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Epic Wrong Turn </title>
-      <link>http://localhost:36193/news/epic-wrong-turn/</link>
+      <link>http://localhost:1313/news/epic-wrong-turn/</link>
       <pubDate>Thu, 06 Feb 2020 14:43:55 +0000</pubDate>
-      <guid>http://localhost:36193/news/epic-wrong-turn/</guid>
+      <guid>http://localhost:1313/news/epic-wrong-turn/</guid>
       <description>If I hear yet one more stakeholder say how they have to protect the patient/consumers privacy as a way to prevent transparency, prevent data flows I think Ill blow a gasket. Please just stop.&#xA;Read on chilmarkresearch.com</description>
     </item>
   </channel>

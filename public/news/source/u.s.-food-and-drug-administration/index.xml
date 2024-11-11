@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U.S. Food and Drug Administration on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/u.s.-food-and-drug-administration/</link>
+    <link>http://localhost:1313/news/source/u.s.-food-and-drug-administration/</link>
     <description>Recent content in U.S. Food and Drug Administration on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 20:57:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/u.s.-food-and-drug-administration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/u.s.-food-and-drug-administration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Good Machine Learning Practice for Medical Device Development</title>
-      <link>http://localhost:36193/news/good-machine-learning-practice-for-medical-device-development/</link>
+      <link>http://localhost:1313/news/good-machine-learning-practice-for-medical-device-development/</link>
       <pubDate>Mon, 01 Nov 2021 20:57:52 +0000</pubDate>
-      <guid>http://localhost:36193/news/good-machine-learning-practice-for-medical-device-development/</guid>
+      <guid>http://localhost:1313/news/good-machine-learning-practice-for-medical-device-development/</guid>
       <description>The identified guiding principles can inform the development of good machine learning practices to promote safe, effective, and high-quality medical devices.&#xA;Read on fda.gov</description>
     </item>
   </channel>

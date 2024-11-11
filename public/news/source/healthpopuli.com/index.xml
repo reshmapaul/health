@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HealthPopuli.com on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/healthpopuli.com/</link>
+    <link>http://localhost:1313/news/source/healthpopuli.com/</link>
     <description>Recent content in HealthPopuli.com on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 14:28:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/healthpopuli.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/healthpopuli.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Are Patients Looking for in a Doctor? It Depends on Who You Ask...and Their Race - HealthPopuli.com</title>
-      <link>http://localhost:36193/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</link>
+      <link>http://localhost:1313/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</link>
       <pubDate>Mon, 30 Jan 2023 14:28:47 +0000</pubDate>
-      <guid>http://localhost:36193/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</guid>
+      <guid>http://localhost:1313/news/what-are-patients-looking-for-in-a-doctor--it-depends-on-who-you-ask-and-their-race---healthpopuli-com/</guid>
       <description>While the same proportion of Black and White patients say they are looking for a doctor with empathy and compassion, there are relatively large differences between patients based on their race, found in the Everyday Health-Castle Connolly Physician-Consumer study. Read on healthpopuli.com</description>
     </item>
     <item>
       <title>The Future of Health Is &#39;Now,&#39; Deloitte Says, But Are Consumers Living and Loving It?</title>
-      <link>http://localhost:36193/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</link>
+      <link>http://localhost:1313/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</link>
       <pubDate>Tue, 01 Sep 2020 02:15:24 +0000</pubDate>
-      <guid>http://localhost:36193/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</guid>
+      <guid>http://localhost:1313/news/the-future-of-health-is--now--deloitte-says--but-are-consumers-living-and-loving-it/</guid>
       <description>Figure 1 from the study tells an interesting story about consumers in the pandemic and their growing sense of agency and engagement: Deloitte found that one-half of people were extremely or very likely to tell doctors they disagree with them, and another 29% said theyd be somewhat likely to speak up to their doctors. Thats 80% of consumers saying they would be likely to disagree with physicians, a vast majority of folks showing self-determination in their health care flows across all generations, from Gen Z to Seniors the most likely to speak up to their doctors.</description>
     </item>
   </channel>

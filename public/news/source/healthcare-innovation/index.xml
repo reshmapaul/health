@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare Innovation on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/healthcare-innovation/</link>
+    <link>http://localhost:1313/news/source/healthcare-innovation/</link>
     <description>Recent content in Healthcare Innovation on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2023 03:24:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/healthcare-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/healthcare-innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Academy of Medicine Launches AI Code of Conduct Effort</title>
-      <link>http://localhost:36193/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</link>
+      <link>http://localhost:1313/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</link>
       <pubDate>Thu, 06 Jul 2023 03:24:11 +0000</pubDate>
-      <guid>http://localhost:36193/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</guid>
+      <guid>http://localhost:1313/news/national-academy-of-medicine-launches-ai-code-of-conduct-effort/</guid>
       <description>Project will aim to clarify roles and responsibilities of stakeholders on issues of privacy, ethics, equity, accountability, and applicability, at each stage of the AI lifecycle&amp;hellip;&#xA;Read on hcinnovationgroup.com</description>
     </item>
     <item>
       <title>At ViVE, Micky Tripathi Maps Out the Near-Term Future of Interoperability</title>
-      <link>http://localhost:36193/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</link>
+      <link>http://localhost:1313/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</link>
       <pubDate>Sat, 01 Apr 2023 17:41:23 +0000</pubDate>
-      <guid>http://localhost:36193/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</guid>
+      <guid>http://localhost:1313/news/at-vive--micky-tripathi-maps-out-the-near-term-future-of-interoperability/</guid>
       <description>On March 28, on the second full day of the ViVE Conference taking place at the Music City Center convention center in downtown Nashville, Micky Tripathi, Ph.D., M.P.P., National Coordinator for Health IT, shared with his audience in the days opening session his vision for an interconnected, interoperable future, and the role of his agency, the Office of the National Coordinator for Health IT (ONC) in helping to guide that future into existence.</description>
     </item>
     <item>
       <title>Top 5 Compliance Issues for Medtech Firms Transitioning To Data-enabled Solutions</title>
-      <link>http://localhost:36193/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</link>
+      <link>http://localhost:1313/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</link>
       <pubDate>Wed, 08 Feb 2023 08:38:52 +0000</pubDate>
-      <guid>http://localhost:36193/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</guid>
+      <guid>http://localhost:1313/news/top-5-compliance-issues-for-medtech-firms-transitioning-to-data-enabled-solutions/</guid>
       <description>Medtech companies leveraging data must meet FDA and compliance-related requirements, especially given evolving laws and social concerns.&#xA;Here are the top 5 compliance issues for medtech-enabled data platforms:</description>
     </item>
     <item>
       <title>Q&amp;A: Health Gorillas Steven Lane, M.D., on TEFCA, State of Interoperability</title>
-      <link>http://localhost:36193/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</link>
+      <link>http://localhost:1313/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</link>
       <pubDate>Wed, 08 Feb 2023 08:36:08 +0000</pubDate>
-      <guid>http://localhost:36193/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</guid>
+      <guid>http://localhost:1313/news/q-a--health-gorilla-s-steven-lane--m-d--on-tefca--state-of-interoperability/</guid>
       <description>Steven Lane, M.D., M.P.H, recently left his position as clinical informatics director at Sutter Health in California to become chief medical officer at Health Gorilla, a company that is seeking to become one of the initial Qualified Health Information Networks (QHINs) under the Trusted Exchange Framework and Common Agreement (TEFCA). Lane also sits on the Office of the National Coordinators Health IT Advisory Committee (HITAC). He recently spoke to Healthcare Innovation about TEFCA and a few of Health Gorillas recent announcements, including adding pharmacy data and a survey it conducted on the industry-wide state of interoperability.</description>
     </item>
     <item>
       <title>Health Data Privacy and Third-Party Apps: Reframing the Conversation</title>
-      <link>http://localhost:36193/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</link>
+      <link>http://localhost:1313/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</link>
       <pubDate>Tue, 13 Oct 2020 18:47:20 +0000</pubDate>
-      <guid>http://localhost:36193/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</guid>
+      <guid>http://localhost:1313/news/health-data-privacy-and-third-party-apps--reframing-the-conversation/</guid>
       <description>However, the authors argued, the narrative really should be shifted to the fact that providers routinely and legally share health data electronically under HIPAA, whether or not their organizations retains HIPAA responsibility. Sharing with patients and patients third-party apps is consistent and should be just as routine, they stated.&#xA;Read on hcinnovationgroup.com</description>
     </item>
   </channel>

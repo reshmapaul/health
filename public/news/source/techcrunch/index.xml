@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TechCrunch on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:36193/news/source/techcrunch/</link>
+    <link>http://localhost:1313/news/source/techcrunch/</link>
     <description>Recent content in TechCrunch on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2019 14:03:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:36193/news/source/techcrunch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/source/techcrunch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The coming fight over who controls digital health data</title>
-      <link>http://localhost:36193/news/the-coming-fight-over-who-controls-digital-health-data/</link>
+      <link>http://localhost:1313/news/the-coming-fight-over-who-controls-digital-health-data/</link>
       <pubDate>Tue, 19 Nov 2019 14:03:16 +0000</pubDate>
-      <guid>http://localhost:36193/news/the-coming-fight-over-who-controls-digital-health-data/</guid>
+      <guid>http://localhost:1313/news/the-coming-fight-over-who-controls-digital-health-data/</guid>
       <description>Spending for consumer digital healthcare companies is set to explode in the next few years; the Office of the National Coordinator for Health Information Technology is currently reviewing the requirements for data sharing with the Department of Health and Human Services, and their initiatives will unlock a wave of data access never before seen in the U.S. healthcare system.&#xA;Already, startups and large technology companies are jockeying for position over how to leverage this access and take advantage of new sensor technologies that provide unprecedented windows into patient health.</description>
     </item>
   </channel>
