@@ -9,7 +9,14 @@ ogDescription: "Let's talk breast cancer screening, access to results in the por
 ogImage: "/images/blogs/cracking-open-the-other-black-box.jpg"
 twitterImage: "/images/blogs/cracking-open-the-other-black-box.jpg"
 twitterCard: "summary_large_image"
-
+breadcrumbs:
+ - Home
+ - Blog
+ - Now Where Do I Put Them
+breadcrumbLinks:
+ - / 
+ - /blog
+ - / 
 ---
 
 Let's talk breast cancer screening, access to results in the portal, and AI powered breast cancer detection.
