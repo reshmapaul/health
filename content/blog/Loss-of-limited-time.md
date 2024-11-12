@@ -1,4 +1,5 @@
---- 
+---
+
 title: "Loss of (Already) Limited Time"
 date: "2022-02-04"
 banner : "/images/blogs/loss-of-already-limited-time.jpg"
@@ -27,22 +28,22 @@ It is unfathomable to believe that patients in these circumstances are forced to
 
 As if having an advanced cancer diagnosis wasn’t bad enough, here’s an example of the heavy lift that was required for one patient living with advanced cancer to prepare for their 2nd opinion appointment as their cancer is no longer responding to treatment:
 
-- 3 weeks of gathering critical medical records that were not in respective patient portals. The patient is still missing office notes, some imaging reports, and missing information on pathology
+* 3 weeks of gathering critical medical records that were not in respective patient portals. The patient is still missing office notes, some imaging reports, and missing information on pathology
 
-- 100s of pages, requiring more than a ream of paper, printed, copied, 3 hole punched, and pieced together in a binder
+* 100s of pages, requiring more than a ream of paper, printed, copied, 3 hole punched, and pieced together in a binder
 
-- multiple trips to various doctors, cancer centers, imaging facilities and other office front desks; numerous entities repeatedly refused to email records at patient's request, plea, demand.
+* multiple trips to various doctors, cancer centers, imaging facilities and other office front desks; numerous entities repeatedly refused to email records at patient's request, plea, demand.
 
-- $19.55 in priority mailing fees to expedite this precious information to a cancer center of excellence that also has its own a patient portal
+* $19.55 in priority mailing fees to expedite this precious information to a cancer center of excellence that also has its own a patient portal
 
-- Over 50 hours in total wrapped up in this precious cardboard box.
+* Over 50 hours in total wrapped up in this precious cardboard box.
 
-- Epic Share Everywhere doesn't even big to scratch the surface here.
+* Epic Share Everywhere doesn't even big to scratch the surface here.
 
 This is one tiny sliver of what I call Patient Administrative Burden.
 
 This is the work a patient living with advanced cancer needs to do so they may get the care they need. In this case, it's so they may schedule a 3rd opinion with an oncologist at a cancer center of excellence in NYC to potentially enroll in a clinical trial.
 
-The patient is losing precious time. By turning a blind eye to Patient Administrative Burden, we give life-altering, life-limiting diagnoses a competitive edge every single time. 
+The patient is losing precious time. By turning a blind eye to Patient Administrative Burden, we give life-altering, life-limiting diagnoses a competitive edge every single time.
 
-I’m committed to not only reducing the barriers that patients see in their care, but also removing suffering, and giving back time that can be better used for living life.
+I’m committed to not only reducing the barriers that patients see in their care, but also removing suffering, and giving back time that can be better used for living life.PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
