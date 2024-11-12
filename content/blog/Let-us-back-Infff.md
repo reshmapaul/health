@@ -24,7 +24,7 @@ breadcrumbLinks:
 
 About a year ago, I was escorted out of a local hospital by a hospital security guard.
 
-I ddddddddddddddddddddddwas helping a patient who was rushed to the emergency room with excruciating pain. COVID-19 was surging in New Jersey. Hospitals in Bergen and Essex counties were crowded. But this patient needed me at her bedside. I knew all of the details and intricacies of her care and medical history. I grabbed all of her medical records in a binder, grabbed a mask, and met her at the emergency room. She was in so much pain, she could not move or speak. Breathing hurt. She could not relay her medical history or answer any questions. She couldn't open her eyes as she was in such excruciating pain. She spoke in a barely audible whisper while trying not to move.
+I ddddddddddddddddddddddwas helping a patient who was rushed to the emergency room with excruciating pain. COVID-19 was surging in New Jersey. Hospitals in Bergen and Essex counties were crowded. But this patient needed me at her bedside. I knew all of the details and intricacies of her care and medical history. I grabbed all of her medical records in a binder, grabbed a mask, and met her at the emergency room. She was in so much pain, she could not move or speak. Breathing hurt. She could not relay her medical history or answer any questions. She couldn't open her eyes as she was in such excruciating pain. She spoke in a barely audible whisper while trying not to movecccccccccccccccccccc.vvvvvvvvvvvvvv
 
 ![Primary carepartner](/images/blogs/let-me-in-tweet.jpg)
 
