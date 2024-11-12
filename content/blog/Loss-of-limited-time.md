@@ -20,7 +20,7 @@ breadcrumbLinks:
  - / 
 ---
 
-Patients diagnosed with life-altering, life-limiting diagnoses have a different outlook on life. That outlook may draw a line directly to one’s impeding mortality. Imagine having your anticipated life and time on this Earth cut drastically by an earth-shattering diagnosis, such as cancer or ALS. One’s remaining time should be maximized to the fullest. With the majority of messaging from healthcare’s stakeholders’ amplifying being patient-centered, patient first, and putting the patient at the center of their care, one would think living your best life with a diagnosis is the case.
+cccccccccccccccccccccccccccccccccccccccccPatients diagnosed with life-altering, life-limiting diagnoses have a different outlook on life. That outlook may draw a line directly to one’s impeding mortality. Imagine having your anticipated life and time on this Earth cut drastically by an earth-shattering diagnosis, such as cancer or ALS. One’s remaining time should be maximized to the fullest. With the majority of messaging from healthcare’s stakeholders’ amplifying being patient-centered, patient first, and putting the patient at the center of their care, one would think living your best life with a diagnosis is the case.
 
 Imagine instead that you are forced to perform the most mundane of tasks in the most inefficiently designed manners over and over again simply to get the very care you need. Imaging hitting barrier after barrier that impedes you from getting the care you need. This is the sad reality and what life is like for so many patients. Many patients exclaim it’s as if their time on this Earth doesn’t even matter.
 
