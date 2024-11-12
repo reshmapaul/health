@@ -11,14 +11,14 @@ twitterImage: "/images/blogs/let-us-back-In.jpg"
 twitterCard: "summary_large_image"
 imagealt: "Let Us Back In"
 breadcrumbs:
+ - Home
+ - Blog
+ - Let Us Back In
+breadcrumbLinks:
+ - / 
+ - /blog
+ - / 
 
-* Home
-* Blog
-* Let Us Back In
-  breadcrumbLinks:
-* /
-* /blog
-* /
 
 ---
 
