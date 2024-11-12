@@ -13,10 +13,10 @@ DESCRIPTION:Conference Schedule How to Maintain Patient Loyalty as Consumer Cult
 Read on gotelehealth.org
  (Info: https://gotelehealth.org/2020-ata-telehealth-conference/program-overview/agenda/?featuredId=633944)
 LOCATION:TBD
-URL:<no value>http://localhost:1313/events/full-agenda/
+URL:<no value>http://localhost:36285/events/full-agenda/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nFull Agenda<br>Location: TBD<br>Conference Schedule How to Maintain Patient Loyalty as Consumer Culture Drives Healthcare
 Read on gotelehealth.org
-<br>Read more: <no value>http://localhost:1313/events/full-agenda/<br>https://gotelehealth.org/2020-ata-telehealth-conference/program-overview/agenda/?featuredId=633944\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36285/events/full-agenda/<br>https://gotelehealth.org/2020-ata-telehealth-conference/program-overview/agenda/?featuredId=633944\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

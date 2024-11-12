@@ -14,11 +14,11 @@ Do you need FHIR in your day-to-day job?
 DevDays is where you can learn all about FHIR and sharpen your FHIR expertise. DevDays is where the FHIR community lives and thrives.
  (Info: https://www.devdays.com/devdays-2023/)
 LOCATION:Amsterdam, NL
-URL:<no value>http://localhost:1313/events/hl7-fhir-devdays/
+URL:<no value>http://localhost:36285/events/hl7-fhir-devdays/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nHL7 FHIR DEVDAYS<br>Location: Amsterdam, NL<br>Join us for the hybrid event of HL7 FHIR DevDays, which will be held in Amsterdam (the Netherlands), and/or through your screens!
 Do you need FHIR in your day-to-day job?
 DevDays is where you can learn all about FHIR and sharpen your FHIR expertise. DevDays is where the FHIR community lives and thrives.
-<br>Read more: <no value>http://localhost:1313/events/hl7-fhir-devdays/<br>https://www.devdays.com/devdays-2023/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36285/events/hl7-fhir-devdays/<br>https://www.devdays.com/devdays-2023/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

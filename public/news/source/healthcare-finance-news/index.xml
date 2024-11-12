@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthcare Finance News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/healthcare-finance-news/</link>
+    <link>http://localhost:36285/news/source/healthcare-finance-news/</link>
     <description>Recent content in Healthcare Finance News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jun 2020 19:15:02 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/healthcare-finance-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/healthcare-finance-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The future of APIs first depends on building value for patient access</title>
-      <link>http://localhost:1313/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</link>
+      <link>http://localhost:36285/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</link>
       <pubDate>Mon, 01 Jun 2020 19:15:02 +0000</pubDate>
-      <guid>http://localhost:1313/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</guid>
+      <guid>http://localhost:36285/news/the-future-of-apis-first-depends-on-building-value-for-patient-access/</guid>
       <description>Patients want everything, according to Ashworth.&amp;ldquo;There wasn&amp;rsquo;t anything patients didn&amp;rsquo;t want access to,&amp;rdquo; she said. &amp;ldquo;Patients want access to everything.&amp;rdquo;&#xA;Read on healthcarefinancenews.com</description>
     </item>
   </channel>

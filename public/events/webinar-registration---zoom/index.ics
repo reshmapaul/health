@@ -12,9 +12,9 @@ SUMMARY:Webinar Registration - Zoom
 DESCRIPTION:Inferno Framework Lets Build Description Come join the Inferno Team for a Lets Build session in the new Inferno Framework (https://inferno-framework.github.io/inferno-core/). In this session, youll learn how to leverage the Inferno Framework for standards conformance testing by developing tests for your own use cases, like HL7 FHIR implementation Guide conformance testing. These sessions will walk you through developing tests using the Inferno Framework, including basic and advanced features supported by Inferno. We encourage all software developers interested in health IT standards conformance testing to attend! Time Read on zoomgov.com
  (Info: https://www.zoomgov.com/webinar/register/WN_sgm8XFGaQtaSVbLJxHswFQ)
 LOCATION:online
-URL:<no value>http://localhost:1313/events/webinar-registration---zoom/
+URL:<no value>http://localhost:36285/events/webinar-registration---zoom/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nWebinar Registration - Zoom<br>Location: online<br>Inferno Framework Lets Build Description Come join the Inferno Team for a Lets Build session in the new Inferno Framework (https://inferno-framework.github.io/inferno-core/). In this session, youll learn how to leverage the Inferno Framework for standards conformance testing by developing tests for your own use cases, like HL7 FHIR implementation Guide conformance testing. These sessions will walk you through developing tests using the Inferno Framework, including basic and advanced features supported by Inferno. We encourage all software developers interested in health IT standards conformance testing to attend! Time Read on zoomgov.com
-<br>Read more: <no value>http://localhost:1313/events/webinar-registration---zoom/<br>https://www.zoomgov.com/webinar/register/WN_sgm8XFGaQtaSVbLJxHswFQ\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36285/events/webinar-registration---zoom/<br>https://www.zoomgov.com/webinar/register/WN_sgm8XFGaQtaSVbLJxHswFQ\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

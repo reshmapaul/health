@@ -13,10 +13,10 @@ DESCRIPTION:At their patient experience events, Cleveland Clinic and HIMSS conve
 Read on empathyandinnovation.com
  (Info: http://www.empathyandinnovation.com/patient-experience/2021/schedule)
 LOCATION:online
-URL:<no value>http://localhost:1313/events/speakers-sessions/
+URL:<no value>http://localhost:36285/events/speakers-sessions/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\nSpeakers Sessions <br>Location: online<br>At their patient experience events, Cleveland Clinic and HIMSS convene clinical thought leaders and patient advocates to address the integral roles empathy and innovation play in improving the care experience.
 Read on empathyandinnovation.com
-<br>Read more: <no value>http://localhost:1313/events/speakers-sessions/<br>http://www.empathyandinnovation.com/patient-experience/2021/schedule\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36285/events/speakers-sessions/<br>http://www.empathyandinnovation.com/patient-experience/2021/schedule\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

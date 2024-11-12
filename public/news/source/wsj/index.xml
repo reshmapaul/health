@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WSJ on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/wsj/</link>
+    <link>http://localhost:36285/news/source/wsj/</link>
     <description>Recent content in WSJ on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Sep 2023 22:23:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/wsj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/wsj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raw Medical Test Results Right to Your Inbox Spark Confusion and Concern</title>
-      <link>http://localhost:1313/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</link>
+      <link>http://localhost:36285/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</link>
       <pubDate>Thu, 14 Sep 2023 22:23:26 +0000</pubDate>
-      <guid>http://localhost:1313/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</guid>
+      <guid>http://localhost:36285/news/raw-medical-test-results-right-to-your-inbox-spark-confusion-and-concern/</guid>
       <description>People more often are seeing test results before their doctors do.&#xA;Read on wsj.com</description>
     </item>
   </channel>

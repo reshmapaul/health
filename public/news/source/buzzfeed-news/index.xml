@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BuzzFeed News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/buzzfeed-news/</link>
+    <link>http://localhost:36285/news/source/buzzfeed-news/</link>
     <description>Recent content in BuzzFeed News on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Feb 2021 20:19:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/buzzfeed-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/buzzfeed-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Request Your Medical Records For Your COVID Vaccine Appointment</title>
-      <link>http://localhost:1313/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</link>
+      <link>http://localhost:36285/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</link>
       <pubDate>Thu, 18 Feb 2021 20:19:58 +0000</pubDate>
-      <guid>http://localhost:1313/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</guid>
+      <guid>http://localhost:36285/news/how-to-request-your-medical-records-for-your-covid-vaccine-appointment/</guid>
       <description>Fifteen states have opened up vaccinations to people with certain health conditions. Here&amp;rsquo;s how you can prove you are eligible.&#xA;Read on buzzfeednews.com</description>
     </item>
     <item>
       <title>Doctors And Nurses Say More People Are Dying Of COVID-19 In The US Than We Know</title>
-      <link>http://localhost:1313/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</link>
+      <link>http://localhost:36285/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</link>
       <pubDate>Thu, 26 Mar 2020 19:33:45 +0000</pubDate>
-      <guid>http://localhost:1313/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</guid>
+      <guid>http://localhost:36285/news/doctors-and-nurses-say-more-people-are-dying-of-covid-19-in-the-us-than-we-know/</guid>
       <description>In California, one ER doctor who works at multiple hospitals in a hard-hit county told BuzzFeed News, those medical records aren&amp;rsquo;t being audited by anyone at the state and local level currently and some people arent even testing those people who are dead.We just don&amp;rsquo;t know. The numbers are grossly underreported. I know for a fact that weve had three deaths in one county where only one is listed on the website, the doctor said.</description>
     </item>
   </channel>

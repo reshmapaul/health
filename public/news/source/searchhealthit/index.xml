@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SearchHealthIT on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/searchhealthit/</link>
+    <link>http://localhost:36285/news/source/searchhealthit/</link>
     <description>Recent content in SearchHealthIT on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 04:15:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/searchhealthit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/searchhealthit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security is at the heart of healthcare data sharing concerns</title>
-      <link>http://localhost:1313/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</link>
+      <link>http://localhost:36285/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</link>
       <pubDate>Wed, 27 Nov 2019 04:15:16 +0000</pubDate>
-      <guid>http://localhost:1313/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</guid>
+      <guid>http://localhost:36285/news/security-is-at-the-heart-of-healthcare-data-sharing-concerns/</guid>
       <description>John Halamka, health IT expert and executive director of the Health Technology Exploration Center of Beth Israel Lahey Health, said the proposed rules are a step in the right direction, helping address &amp;ldquo;friction in data flows&amp;rdquo; that have long existed in healthcare. They also ensure patients can access their data with no unnecessary difficulty. But he does question the timing of enforcement.&#xA;Read on searchhealthit.techtarget.com</description>
     </item>
   </channel>

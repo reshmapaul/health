@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RWJBarnabas Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/rwjbarnabas-health/</link>
+    <link>http://localhost:36285/news/source/rwjbarnabas-health/</link>
     <description>Recent content in RWJBarnabas Health on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2020 02:12:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/rwjbarnabas-health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/rwjbarnabas-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NJDHS Deaf Assistance Card</title>
-      <link>http://localhost:1313/news/njdhs-deaf-assistance-card/</link>
+      <link>http://localhost:36285/news/njdhs-deaf-assistance-card/</link>
       <pubDate>Tue, 14 Apr 2020 02:12:48 +0000</pubDate>
-      <guid>http://localhost:1313/news/njdhs-deaf-assistance-card/</guid>
+      <guid>http://localhost:36285/news/njdhs-deaf-assistance-card/</guid>
       <description>TheNJ Department of Human Services&amp;rsquo; Division of Deaf and Hard of Hearing presents a new communications card for deaf and hard of hearing individuals needing to communicate aboutcoronavirus.&#xA;Read on rwjbh.org</description>
     </item>
   </channel>

@@ -13,10 +13,10 @@ DESCRIPTION:Join us for The Civitas Networks for Health 2022 Annual Conference, 
 Read on civitasforhealth.org
  (Info: https://www.civitasforhealth.org/civitas-networks-for-health-2022-conference/)
 LOCATION:San Antonio, TX
-URL:<no value>http://localhost:1313/events/2022-annual-conference/
+URL:<no value>http://localhost:36285/events/2022-annual-conference/
 X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//E
  N""><HTML><BODY>\n2022 Annual Conference<br>Location: San Antonio, TX<br>Join us for The Civitas Networks for Health 2022 Annual Conference, a Collaboration with the DirectTrust Summit! Learn more here.
 Read on civitasforhealth.org
-<br>Read more: <no value>http://localhost:1313/events/2022-annual-conference/<br>https://www.civitasforhealth.org/civitas-networks-for-health-2022-conference/\n</BODY></HTML>
+<br>Read more: <no value>http://localhost:36285/events/2022-annual-conference/<br>https://www.civitasforhealth.org/civitas-networks-for-health-2022-conference/\n</BODY></HTML>
 END:VEVENT
 END:VCALENDAR

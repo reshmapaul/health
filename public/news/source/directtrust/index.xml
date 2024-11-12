@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DirectTrust on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/directtrust/</link>
+    <link>http://localhost:36285/news/source/directtrust/</link>
     <description>Recent content in DirectTrust on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Sep 2023 11:58:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/directtrust/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/directtrust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sequoia Project Takes Aim at Usability of Interoperable Data</title>
-      <link>http://localhost:1313/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</link>
+      <link>http://localhost:36285/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</link>
       <pubDate>Sat, 30 Sep 2023 11:58:33 +0000</pubDate>
-      <guid>http://localhost:1313/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</guid>
+      <guid>http://localhost:36285/news/the-sequoia-project-takes-aim-at-usability-of-interoperable-data/</guid>
       <description>For so long in interoperability weve focused on the ability to move data, but now that information is flowing, its time to focus on data usability. The Sequoia Project, the recognized coordinating entity charged with bringing interoperability to healthcare IT systems through TEFCA, is tackling this issue head-on.For instance, The Sequoia&#xA;Read on directtrust.org</description>
     </item>
   </channel>

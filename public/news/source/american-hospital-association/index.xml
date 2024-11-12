@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>American Hospital Association on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/american-hospital-association/</link>
+    <link>http://localhost:36285/news/source/american-hospital-association/</link>
     <description>Recent content in American Hospital Association on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 21:26:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/american-hospital-association/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/american-hospital-association/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developing a Universal and Secure Electronic Health Information System</title>
-      <link>http://localhost:1313/news/developing-a-universal-and-secure-electronic-health-information-system/</link>
+      <link>http://localhost:36285/news/developing-a-universal-and-secure-electronic-health-information-system/</link>
       <pubDate>Mon, 30 Jan 2023 21:26:54 +0000</pubDate>
-      <guid>http://localhost:1313/news/developing-a-universal-and-secure-electronic-health-information-system/</guid>
+      <guid>http://localhost:36285/news/developing-a-universal-and-secure-electronic-health-information-system/</guid>
       <description>https://www.aha.org/advancing-health-podcast/2023-01-25-developing-universal-and-secure-electronic-health-information-system&#xA;Read on aha.org</description>
     </item>
   </channel>

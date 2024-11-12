@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-Patient Dave on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/e-patient-dave/</link>
+    <link>http://localhost:36285/news/source/e-patient-dave/</link>
     <description>Recent content in E-Patient Dave on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2020 18:42:18 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/e-patient-dave/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/e-patient-dave/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A glimpse of how FHIR works, for people who&#39;ve fought to get their data</title>
-      <link>http://localhost:1313/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</link>
+      <link>http://localhost:36285/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</link>
       <pubDate>Mon, 18 May 2020 18:42:18 +0000</pubDate>
-      <guid>http://localhost:1313/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</guid>
+      <guid>http://localhost:36285/news/a-glimpse-of-how-fhir-works--for-people-who-ve-fought-to-get-their-data/</guid>
       <description>Heres a glimpse of how FHIR works.Theres so much apparent magic going on inside computers these days that it helps to have it demystified. FHIR is ridiculously simple in its concept. Look heres an actual realistic FHIR instruction, which you can use right now, by clicking it. Its a URL!&#xA;Read on epatientdave.com</description>
     </item>
   </channel>

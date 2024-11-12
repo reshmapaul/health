@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HealthITAnalytics on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/healthitanalytics/</link>
+    <link>http://localhost:36285/news/source/healthitanalytics/</link>
     <description>Recent content in HealthITAnalytics on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2019 11:02:49 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/healthitanalytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/healthitanalytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FHIR Takes Off as ONC Teases Upcoming Data Blocking Definitions</title>
-      <link>http://localhost:1313/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</link>
+      <link>http://localhost:36285/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</link>
       <pubDate>Fri, 22 Nov 2019 11:02:49 +0000</pubDate>
-      <guid>http://localhost:1313/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</guid>
+      <guid>http://localhost:36285/news/fhir-takes-off-as-onc-teases-upcoming-data-blocking-definitions/</guid>
       <description>ONC official Steven Posnack explains how FHIR is taking hold as the industry waits for the ONC&amp;rsquo;s proposals to tackle data blocking.&#xA;Read on healthitanalytics.com</description>
     </item>
   </channel>

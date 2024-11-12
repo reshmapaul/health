@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EHRIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/ehrintelligence/</link>
+    <link>http://localhost:36285/news/source/ehrintelligence/</link>
     <description>Recent content in EHRIntelligence on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2022 17:35:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/ehrintelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/ehrintelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tripathi: 2022 Pivotal for Digital Health Transformation, Health IT</title>
-      <link>http://localhost:1313/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</link>
+      <link>http://localhost:36285/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</link>
       <pubDate>Wed, 20 Apr 2022 17:35:19 +0000</pubDate>
-      <guid>http://localhost:1313/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</guid>
+      <guid>http://localhost:36285/news/tripathi--2022-pivotal-for-digital-health-transformation--health-it/</guid>
       <description>At the virtual ONC annual meeting on April 13, Tripathi noted that over the last decade, the agency has established an electronic overlay of the healthcare system to move away from the constraints of paper, brick, and mortar.&amp;ldquo;Now, the exciting part is that we get to think about how we want to redesign our healthcare system without the constraints of paper, brick, and mortar,&amp;rdquo; Tripathi explained. &amp;ldquo;Our work in health IT is ultimately to create open architectures, both from a policy and a technical perspective, that allow for that reconceptualization of our healthcare system to happen.</description>
     </item>
     <item>
       <title>How Data Exchange Laws May Affect Information Blocking Exceptions</title>
-      <link>http://localhost:1313/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</link>
+      <link>http://localhost:36285/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</link>
       <pubDate>Wed, 24 Nov 2021 14:22:27 +0000</pubDate>
-      <guid>http://localhost:1313/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</guid>
+      <guid>http://localhost:36285/news/how-data-exchange-laws-may-affect-information-blocking-exceptions/</guid>
       <description>Interference in the form of delays that may be allowed but arenot requiredby other laws isnot automatically exemptedfrom implicating the information blocking definition, he said.Posnack said that entities should examine their practices that may have been set up in relation to laws that allow certain periods of delay before they share data, as these once permitted practices may now interfere with electronic health information access in a way that could constitute information blocking.</description>
     </item>
     <item>
       <title>2030 Interoperability Projections Emphasize Clinical Decision Support</title>
-      <link>http://localhost:1313/news/2030-interoperability-projections-emphasize-clinical-decision-support/</link>
+      <link>http://localhost:36285/news/2030-interoperability-projections-emphasize-clinical-decision-support/</link>
       <pubDate>Wed, 24 Nov 2021 14:21:15 +0000</pubDate>
-      <guid>http://localhost:1313/news/2030-interoperability-projections-emphasize-clinical-decision-support/</guid>
+      <guid>http://localhost:36285/news/2030-interoperability-projections-emphasize-clinical-decision-support/</guid>
       <description>Interoperability in 2030 should support the use of advanced health IT applications in conjunction with EHRs for enhanced clinical decision support, stakeholders told ONC.&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>Feds: Gender-Inclusive EHR Data Standards Support Health Equity</title>
-      <link>http://localhost:1313/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</link>
+      <link>http://localhost:36285/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</link>
       <pubDate>Fri, 05 Nov 2021 21:25:53 +0000</pubDate>
-      <guid>http://localhost:1313/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</guid>
+      <guid>http://localhost:36285/news/feds--gender-inclusive-ehr-data-standards-support-health-equity/</guid>
       <description>The implementation of gender-inclusive EHR data standards will help support health equity for gender-marginalized patients, according to ONC leadership.&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>CMS Interoperability Rule Compliance, API Use Will Require Rollout</title>
-      <link>http://localhost:1313/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</link>
+      <link>http://localhost:36285/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</link>
       <pubDate>Thu, 22 Jul 2021 17:39:05 +0000</pubDate>
-      <guid>http://localhost:1313/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</guid>
+      <guid>http://localhost:36285/news/cms-interoperability-rule-compliance--api-use-will-require-rollout/</guid>
       <description>Whats more, once patients have access to personal health information, they will need tools to navigate their health record in a meaningful way that does not bury them in information, Searing explained.There are some openings here to bring in some new services that will help individuals access, and manage, and interpret this data, Searing said. Getting access to the information is really just the first step.The sheer volume of information could overwhelm providers as well, Searing noted.</description>
     </item>
     <item>
       <title>ONC Updates USCDI, Interoperability Standards for SDOH</title>
-      <link>http://localhost:1313/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</link>
+      <link>http://localhost:36285/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</link>
       <pubDate>Tue, 13 Jul 2021 13:19:17 +0000</pubDate>
-      <guid>http://localhost:1313/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</guid>
+      <guid>http://localhost:36285/news/onc-updates-uscdi--interoperability-standards-for-sdoh/</guid>
       <description>HHS Office of the National Coordinator for Health Information Technology (ONC) has released updated the USCDI interoperability standards to support the nationwide exchange of sexual orientation, gender identity, and social determinants of health (SDOH) data.The United States Core Data for Interoperabilityversion 2 (USCDI v2) aims to lay the groundwork for the standardized use of SDOH data, as well as sexual orientation and gender identity (SO/GI) information, across the healthcare continuum.</description>
     </item>
     <item>
       <title>OIG Audit Reveals Inaccurate VHA EHR Integration of Non-VA Records</title>
-      <link>http://localhost:1313/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</link>
+      <link>http://localhost:36285/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</link>
       <pubDate>Mon, 28 Jun 2021 03:27:38 +0000</pubDate>
-      <guid>http://localhost:1313/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</guid>
+      <guid>http://localhost:36285/news/oig-audit-reveals-inaccurate-vha-ehr-integration-of-non-va-records/</guid>
       <description>According to OIG, community care staff at those facilities made errors in 44 percent of cases reviewed when indexing veterans mental health medical records into their EHRs (108 errors identified for 92 of 209 veterans). These errors included ambiguous or incorrect document titles, duplicate records, and records indexed to the wrong non-VA care referral or veteran.&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>Pew Urges ONC to Expand USCDI to Boost Patient Data Exchange</title>
-      <link>http://localhost:1313/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</link>
+      <link>http://localhost:36285/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</link>
       <pubDate>Tue, 06 Apr 2021 14:41:42 +0000</pubDate>
-      <guid>http://localhost:1313/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</guid>
+      <guid>http://localhost:36285/news/pew-urges-onc-to-expand-uscdi-to-boost-patient-data-exchange/</guid>
       <description>When finalizing the proposed version, ONC should ensure the USCDI includes data needed for public health and health equity, which can help public health agencies fight the current pandemicand be better prepared for future crises, Talkington wrote in a letter to ONC.According to Pew, over 40 percent of lab results are missing important patient data.To strengthen USCDI, Pew recommended ONC:Require the use of US Postal Service (USPS) standard to boost patient matchingInclude key data elements, such as travel history, employment, and death dateAccelerate social determinants of health (SDOH) data integration</description>
     </item>
     <item>
       <title>How the ONC Interoperability Rule Could Mitigate COVID-19</title>
-      <link>http://localhost:1313/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</link>
+      <link>http://localhost:36285/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</link>
       <pubDate>Tue, 26 Jan 2021 17:31:56 +0000</pubDate>
-      <guid>http://localhost:1313/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</guid>
+      <guid>http://localhost:36285/news/how-the-onc-interoperability-rule-could-mitigate-covid-19/</guid>
       <description>Pew Charitable Trusts explained why the government needs to enforce the ONC interoperability rule to help slow down the spread of COVID-19.&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>Pew Urges Health Data Exchange, Interoperability from Biden Admin</title>
-      <link>http://localhost:1313/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</link>
+      <link>http://localhost:36285/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</link>
       <pubDate>Sun, 27 Dec 2020 19:19:37 +0000</pubDate>
-      <guid>http://localhost:1313/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</guid>
+      <guid>http://localhost:36285/news/pew-urges-health-data-exchange--interoperability-from-biden-admin/</guid>
       <description>Moscovitch pointed at the information blocking regulations that are a part of the 21st Century Cures Act to help this issue. If certain demographic information is not reported, fines of up to $1 million could occur.The Biden administration could use this authority to require that health care providers include complete demographic data, such as contact information, when ordering tests from labs, Moscovitch recommended. Thats critical because labs cannot share complete data with public health authorities if they have not received it in the first place.</description>
     </item>
     <item>
       <title>Epic Systems Hits Record 221M Patient Data Exchanges in October</title>
-      <link>http://localhost:1313/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</link>
+      <link>http://localhost:36285/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</link>
       <pubDate>Sat, 12 Dec 2020 17:07:31 +0000</pubDate>
-      <guid>http://localhost:1313/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</guid>
+      <guid>http://localhost:36285/news/epic-systems-hits-record-221m-patient-data-exchanges-in-october/</guid>
       <description>Epic Systems has announced it facilitated over 221 million patient data exchanges through its Care Everywhere platform in October, a roughly 40 percent increase from the same time last year.As the country is currently in the midst of what some experts call the second wave of COVID-19, patient data exchange continues to be vital in healthcare. This is a record number of exchanges for the EHR vendor, Epic said, and that level of performance will be necessary as the industry stares down a likely influx of COVID-19 cases.</description>
     </item>
     <item>
       <title>The Sequoia Project Launches Information Blocking Boot Camp</title>
-      <link>http://localhost:1313/news/the-sequoia-project-launches-information-blocking-boot-camp/</link>
+      <link>http://localhost:36285/news/the-sequoia-project-launches-information-blocking-boot-camp/</link>
       <pubDate>Tue, 28 Jul 2020 09:22:12 +0000</pubDate>
-      <guid>http://localhost:1313/news/the-sequoia-project-launches-information-blocking-boot-camp/</guid>
+      <guid>http://localhost:36285/news/the-sequoia-project-launches-information-blocking-boot-camp/</guid>
       <description>Prior to the deadline to comply with the ONC interoperability rule, the Sequoia Project has developed the Information Blocking Compliance Boot Camp for healthcare organizations and health IT developer&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>EHR Patient Portals Trigger Patient Data Change Requests</title>
-      <link>http://localhost:1313/news/ehr-patient-portals-trigger-patient-data-change-requests/</link>
+      <link>http://localhost:36285/news/ehr-patient-portals-trigger-patient-data-change-requests/</link>
       <pubDate>Fri, 08 May 2020 03:35:57 +0000</pubDate>
-      <guid>http://localhost:1313/news/ehr-patient-portals-trigger-patient-data-change-requests/</guid>
+      <guid>http://localhost:36285/news/ehr-patient-portals-trigger-patient-data-change-requests/</guid>
       <description>Over the last few years, our institution has been tracking amendment requests, and we have noted an increase in the number of formally submitted Problem List requests regarding diagnoses, wrote Amy Porter, MD, of the Rainbow Center for Comprehensive Care and the corresponding author. Amendment requests are not always clear-cut; clinicians and patients disagree over whether an amendment accurately reflects the patients condition.&#xA;Read on ehrintelligence.com</description>
     </item>
     <item>
       <title>CMS: EHR Vendors Holding Patient Data Hostage is an Embarrassment</title>
-      <link>http://localhost:1313/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</link>
+      <link>http://localhost:36285/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</link>
       <pubDate>Tue, 04 Feb 2020 21:43:13 +0000</pubDate>
-      <guid>http://localhost:1313/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</guid>
+      <guid>http://localhost:36285/news/cms--ehr-vendors-holding-patient-data-hostage-is-an--embarrassment/</guid>
       <description>Its important to understand that the disingenuous efforts by certain private actors to use privacy, vital as it is, as a pretext for holding patient data hostage is an embarrassment to the industry, said Verma in an oblique nod to the recent pushback the agency has received from Epic Systems. Access to ones data can be a matter of life and death, and this Administration will not waver in ensuring that patients enjoy full ownership of it when they need it.</description>
     </item>
   </channel>

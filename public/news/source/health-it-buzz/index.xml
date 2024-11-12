@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health IT Buzz on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</title>
-    <link>http://localhost:1313/news/source/health-it-buzz/</link>
+    <link>http://localhost:36285/news/source/health-it-buzz/</link>
     <description>Recent content in Health IT Buzz on Patient Advocacy Suite | Healthcare Advocate Services | Unblock Health</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Jun 2023 18:13:07 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/news/source/health-it-buzz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36285/news/source/health-it-buzz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TEFCA Awareness Among Hospitals and Variations Regarding Intent to Participate - Health IT Buzz</title>
-      <link>http://localhost:1313/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</link>
+      <link>http://localhost:36285/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</link>
       <pubDate>Tue, 06 Jun 2023 18:13:07 +0000</pubDate>
-      <guid>http://localhost:1313/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</guid>
+      <guid>http://localhost:36285/news/tefca-awareness-among-hospitals-and-variations-regarding-intent-to-participate---health-it-buzz/</guid>
       <description>According to a recent American Hospital Association (AHA) survey, most hospitals know about the Trusted Exchange Framework and Common Agreement (TEFCA) and, among those, very few plan on sitting out. In February, ONC recognized six organizations that have been accepted for onboarding as Qualified Health Information Networks (QHINs) under TEFCA. These six candidate QHINs have committed to achieving go-live by the end of 2023. With that date just around the corner, we thought the time was right to better understand awareness and plans to participate in TEFCA among the broader health care delivery system.</description>
     </item>
     <item>
       <title>Flipping the Script: Leveraging EHR Data to Inform Clinical Burden Reduction Approaches - Health IT Buzz</title>
-      <link>http://localhost:1313/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</link>
+      <link>http://localhost:36285/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</link>
       <pubDate>Tue, 07 Feb 2023 21:11:56 +0000</pubDate>
-      <guid>http://localhost:1313/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</guid>
+      <guid>http://localhost:36285/news/flipping-the-script--leveraging-ehr-data-to-inform-clinical-burden-reduction-approaches---health-it-buzz/</guid>
       <description>In 2020, the U.S. Department of Health and Human Services (HHS) released a strategy to reduce regulatory and administrative burden relating to the use of health IT, including electronic health record (EHR) systems. Key burden reduction goals addressed in the report include reducing the amount of time and effort required to record information in EHRs to meet regulatory requirements and improving the usability of EHRs. Transitioning the strategy into actionable steps requires continuous monitoring of the burdens associated with EHR use and identification of specific methods that can optimize EHR use and reduce burden associated with use.</description>
     </item>
     <item>
       <title>We Can Attest: 100% Compliance for FirstTime Attestations -</title>
-      <link>http://localhost:1313/news/we-can-attest--100--compliance-for-firsttime-attestations/</link>
+      <link>http://localhost:36285/news/we-can-attest--100--compliance-for-firsttime-attestations/</link>
       <pubDate>Thu, 14 Jul 2022 18:20:17 +0000</pubDate>
-      <guid>http://localhost:1313/news/we-can-attest--100--compliance-for-firsttime-attestations/</guid>
+      <guid>http://localhost:36285/news/we-can-attest--100--compliance-for-firsttime-attestations/</guid>
       <description>To meet the Attestations Condition of Certification, Certified Health IT Developers are required to provide the Secretary of Health and Human Services an attestation of compliance with each of the specified Conditions and Maintenance of Certification requirements (i.e., Information Blocking, Assurances, Communications, Application Programming Interfaces, and Real World Testing) twice a year.April 1, 2022, marked the opening of the first 30-day attestation window. During this period, Certified Health IT Developers submitted their attestations to ONC-Authorized Certification Bodies (ONC-ACBs) using ONCs Certified Health IT Product List (CHPL) site.</description>
     </item>
     <item>
       <title>13 Areas to Improve Electronic Prior Authorization</title>
-      <link>http://localhost:1313/news/13-areas-to-improve-electronic-prior-authorization/</link>
+      <link>http://localhost:36285/news/13-areas-to-improve-electronic-prior-authorization/</link>
       <pubDate>Wed, 01 Jun 2022 16:52:04 +0000</pubDate>
-      <guid>http://localhost:1313/news/13-areas-to-improve-electronic-prior-authorization/</guid>
+      <guid>http://localhost:36285/news/13-areas-to-improve-electronic-prior-authorization/</guid>
       <description>In January 2022, ONC issued a Request for Information (RFI) that sought public input on the ONC Health IT Certification Program and how it could incorporate standards, implementation specifications, and certification criteria related to electronic prior authorization. Shortly thereafter, ONC charged the Health Information Technology Advisory Committee (HITAC) with providing input and recommendations in response to this RFI. The Electronic Prior Authorization (ePA) RFI Task Force of the HITAC led consideration of the charge and developed a report and recommendations that were recently approved by the full HITAC.</description>
     </item>
     <item>
       <title>ONC Turns 18</title>
-      <link>http://localhost:1313/news/onc-turns-18/</link>
+      <link>http://localhost:36285/news/onc-turns-18/</link>
       <pubDate>Wed, 04 May 2022 12:23:05 +0000</pubDate>
-      <guid>http://localhost:1313/news/onc-turns-18/</guid>
+      <guid>http://localhost:36285/news/onc-turns-18/</guid>
       <description>On April 27, 2004, President Bush signed Executive Order (EO) 13335 and created the Office of the National Coordinator for Health IT (ONC). Like tapping that first domino, this single action is a key moment in United States health IT history. Nearly two decades later, US policy and technology leadership in health IT is world-renowned. Throughout this time, ONC has remained true to the four original duties cast by EO 13335 (paraphrased): serve as the Secretarys principal advisor on the development,</description>
     </item>
     <item>
       <title>An Upcoming Milestone in Our Interoperability Journey</title>
-      <link>http://localhost:1313/news/an-upcoming-milestone-in-our-interoperability-journey/</link>
+      <link>http://localhost:36285/news/an-upcoming-milestone-in-our-interoperability-journey/</link>
       <pubDate>Fri, 04 Mar 2022 18:14:19 +0000</pubDate>
-      <guid>http://localhost:1313/news/an-upcoming-milestone-in-our-interoperability-journey/</guid>
+      <guid>http://localhost:36285/news/an-upcoming-milestone-in-our-interoperability-journey/</guid>
       <description>Its going to be a busy year a really busy year. In 2022, much of the promise of the 21st Century Cures Act comes to certified health IT near you. ONC dutifully monitors industry progress towards certification to the 2015 Edition Cures Update (Cures Update), which introduces new standards and functionalities that will benefit our health care system in a variety of ways. This includes improved interoperability through secure, standards-based application programming interfaces (APIs) and the United States Core Data for Interoperability Version 1 (USCDI v1);</description>
     </item>
     <item>
       <title>Embracing Health Equity by Design</title>
-      <link>http://localhost:1313/news/embracing-health-equity-by-design/</link>
+      <link>http://localhost:36285/news/embracing-health-equity-by-design/</link>
       <pubDate>Thu, 03 Mar 2022 12:08:05 +0000</pubDate>
-      <guid>http://localhost:1313/news/embracing-health-equity-by-design/</guid>
+      <guid>http://localhost:36285/news/embracing-health-equity-by-design/</guid>
       <description>Gaps in health IT use illustrate the inequities that unfortunately exist in our health care system, which in turn can lead to inadequate patient care, experience, and outcomes. During ONCs 2021 Tech Forum, Dr. Linda Rae Murray, the former chief medical officer at the Cook County Health &amp;amp; Hospital System, highlighted some of the health disparities she had seen firsthand while serving medically underserved patients in Chicago for more than 20 years.</description>
     </item>
     <item>
       <title>Say Hi to EHI</title>
-      <link>http://localhost:1313/news/say-hi-to-ehi/</link>
+      <link>http://localhost:36285/news/say-hi-to-ehi/</link>
       <pubDate>Mon, 31 Jan 2022 04:35:20 +0000</pubDate>
-      <guid>http://localhost:1313/news/say-hi-to-ehi/</guid>
+      <guid>http://localhost:36285/news/say-hi-to-ehi/</guid>
       <description>ONCs information blocking regulations apply to interferences with the access, exchange, or use of electronic health information (EHI) (45 CFR Part 171) and define certain exceptions to the definition of information blocking. Thus, its important that those subject to the information blocking regulations health care providers, developers of certified health IT, and health information networks/exchanges (cumulatively, actors) understand what health information the regulations cover.&#xA;Read on healthit.gov</description>
     </item>
     <item>
       <title>321TEFCA is Go for Launch</title>
-      <link>http://localhost:1313/news/3-2-1-tefca-is-go-for-launch/</link>
+      <link>http://localhost:36285/news/3-2-1-tefca-is-go-for-launch/</link>
       <pubDate>Tue, 18 Jan 2022 17:21:10 +0000</pubDate>
-      <guid>http://localhost:1313/news/3-2-1-tefca-is-go-for-launch/</guid>
+      <guid>http://localhost:36285/news/3-2-1-tefca-is-go-for-launch/</guid>
       <description>The Trusted Exchange Framework and Common Agreement is now available. Within the health information technology (health IT) world, few things have been as elusive as a governance framework for nationwide health information exchange. When ONC was formed in 2004, the concept of a nationwide health information networkwhere your information could be located across the country in a clickwas a big picture vision that drove the federal governments early health IT infrastructure, standards, policy actions, and investments.</description>
     </item>
     <item>
       <title>A Care Coordinated Journey: Breast Cancer &amp; TechnologyEnabled Care -</title>
-      <link>http://localhost:1313/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</link>
+      <link>http://localhost:36285/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</link>
       <pubDate>Tue, 26 Oct 2021 21:14:56 +0000</pubDate>
-      <guid>http://localhost:1313/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</guid>
+      <guid>http://localhost:36285/news/a-care-coordinated-journey--breast-cancer---technologyenabled-care/</guid>
       <description>October is a great month for so many reasons. Costume shopping with the kids, the beauty of autumn, andhitting close to home for me as a breast cancer survivorNational Breast Cancer Awareness Month! It is a time to raise awareness about breast cancer, share how early detection can save lives, and remind us all that breast cancer is not just a disease that threatens women. It is a time to spread awareness in support of all the current breast cancer fighters,</description>
     </item>
     <item>
       <title>Information Blocking Through the Eyes of Health Information Exchanges</title>
-      <link>http://localhost:1313/news/information-blocking-through-the-eyes-of-health-information-exchanges/</link>
+      <link>http://localhost:36285/news/information-blocking-through-the-eyes-of-health-information-exchanges/</link>
       <pubDate>Thu, 10 Jun 2021 02:11:11 +0000</pubDate>
-      <guid>http://localhost:1313/news/information-blocking-through-the-eyes-of-health-information-exchanges/</guid>
+      <guid>http://localhost:36285/news/information-blocking-through-the-eyes-of-health-information-exchanges/</guid>
       <description>The information blocking regulations at 45 CFR Part 171 began to apply to health care providers, health IT developers of certified health IT, health information exchanges, and health information networks on April 5, 2021, per ONCs recent interim final rule. That makes now a good time to consider stakeholders views about practices that may constitute information blocking, including the extent to which they exist. Our recent study in the Journal of the American Medical Informatics Association reports on a survey of health information exchanges (HIEs) perceptions of other stakeholders practices related to information blocking.</description>
     </item>
     <item>
       <title>Top Takeaways from the 2021 ONC Annual Meeting</title>
-      <link>http://localhost:1313/news/top-takeaways-from-the-2021-onc-annual-meeting/</link>
+      <link>http://localhost:36285/news/top-takeaways-from-the-2021-onc-annual-meeting/</link>
       <pubDate>Tue, 06 Apr 2021 17:38:52 +0000</pubDate>
-      <guid>http://localhost:1313/news/top-takeaways-from-the-2021-onc-annual-meeting/</guid>
+      <guid>http://localhost:36285/news/top-takeaways-from-the-2021-onc-annual-meeting/</guid>
       <description>ONC Leader Gives Health IT Vision ONCs newly appointednationalcoordinatorMickyTripathiintroduced the2021ONCAnnual Meetingby sharinghis vision for the future of health IT strategy and policythroughout the healthcare system. He talked aboutthe agencysrole inresponding to the COVID-19pandemic,striving forhealth equitythrough the use of health IT(he calls it equitybydesign), advancing interoperabilityof health information, and reducing the burdenof health IT on clinicians.&#xA;Read on healthit.gov</description>
     </item>
     <item>
       <title>Top Updates to the Interoperability Standards Advisory (ISA)  2021 ISA Reference Edition Now Available - Health IT Buzz</title>
-      <link>http://localhost:1313/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</link>
+      <link>http://localhost:36285/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</link>
       <pubDate>Tue, 09 Feb 2021 21:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</guid>
+      <guid>http://localhost:36285/news/top-updates-to-the-interoperability-standards-advisory--isa----2021-isa-reference-edition-now-available---health-it-buzz/</guid>
       <description>ONC isexcitedto sharethe 2021 Interoperability Standards Advisory(ISA)Reference Edition. Whether youre a policy wonk, asoftware developer,or a public health pro,theresa littlesomething for everyonethis year.(Andifyou are a standards professional, you might want totrack theISAs RSS Feedrequires RSS Feed viewerto st&#xA;Read on healthit.gov</description>
     </item>
   </channel>
